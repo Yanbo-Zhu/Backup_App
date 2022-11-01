@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$SelectAll">
-      <i c="6" l="1667317582912" />
+      <i c="9" l="1667343341493" />
     </e>
     <e n="$Undo">
       <i c="19" l="1667318207897" />
@@ -9,26 +9,29 @@
     <e n="ActivateProjectToolWindow">
       <i c="5" l="1667307636720" />
     </e>
+    <e n="Annotate">
+      <i c="1" l="1667342499884" />
+    </e>
     <e n="CommentByLineComment">
-      <i c="4" l="1667318385557" />
+      <i c="5" l="1667324445109" />
     </e>
     <e n="EditorBackSpace">
-      <i c="635" l="1667323347860" />
+      <i c="747" l="1667343683854" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="4" l="1667322398608" />
     </e>
     <e n="EditorCopy">
-      <i c="158" l="1667323443933" />
+      <i c="175" l="1667343608899" />
     </e>
     <e n="EditorCut">
-      <i c="17" l="1667323345230" />
+      <i c="24" l="1667343317799" />
     </e>
     <e n="EditorDown">
-      <i c="31" l="1667323346709" />
+      <i c="105" l="1667343676507" />
     </e>
     <e n="EditorEnter">
-      <i c="132" l="1667323436638" />
+      <i c="154" l="1667343661182" />
     </e>
     <e n="EditorEscape">
       <i c="1" l="1667313841930" />
@@ -37,25 +40,25 @@
       <i c="1" l="1667311836405" />
     </e>
     <e n="EditorLeft">
-      <i c="80" l="1667323224892" />
+      <i c="110" l="1667342669371" />
     </e>
     <e n="EditorLineEnd">
-      <i c="1" l="1667322380944" />
+      <i c="2" l="1667342619210" />
     </e>
     <e n="EditorPaste">
-      <i c="219" l="1667323461874" />
+      <i c="253" l="1667343705398" />
     </e>
     <e n="EditorRight">
-      <i c="203" l="1667323334613" />
+      <i c="250" l="1667343467986" />
     </e>
     <e n="EditorTab">
-      <i c="22" l="1667322428895" />
+      <i c="23" l="1667342763938" />
     </e>
     <e n="EditorUnindentSelection">
       <i c="1" l="1667309924639" />
     </e>
     <e n="EditorUp">
-      <i c="45" l="1667323353709" />
+      <i c="59" l="1667343468941" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1" l="1667317187602" />
@@ -85,16 +88,16 @@
       <i c="1" l="1667307111411" />
     </e>
     <e n="ReformatCode">
-      <i c="3" l="1667317584220" />
+      <i c="9" l="1667343347872" />
     </e>
     <e n="RenameElement">
-      <i c="2" l="1667317570383" />
+      <i c="3" l="1667342552379" />
     </e>
     <e n="Run">
-      <i c="45" l="1667323470108" />
+      <i c="59" l="1667325446447" />
     </e>
     <e n="SaveAll">
-      <i c="21" l="1667323510581" />
+      <i c="25" l="1667343710001" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1667307076675" />
@@ -118,7 +121,7 @@
       <i c="2" l="1666806660627" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="1" l="1667306930719" />
+      <i c="2" l="1667341243552" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
       <i c="1" l="1667307065920" />
@@ -140,6 +143,9 @@
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1667307659730" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1667341255346" />
     </e>
     <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
       <i c="1" l="1667320711005" />

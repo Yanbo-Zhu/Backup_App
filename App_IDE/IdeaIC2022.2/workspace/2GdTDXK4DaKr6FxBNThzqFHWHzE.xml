@@ -1263,7 +1263,7 @@
         <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="26">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -1275,7 +1275,7 @@
       <summary usageCount="1" lastUsed="1667306640769" />
     </fileType>
     <fileType name="PLAIN_TEXT">
-      <summary usageCount="6" lastUsed="1667323452962" />
+      <summary usageCount="7" lastUsed="1667323557753" />
     </fileType>
     <fileType name="Properties">
       <summary usageCount="5" lastUsed="1667296591453" />
@@ -1305,7 +1305,7 @@
       <summary usageCount="5" lastUsage="1667296591453" />
     </language>
     <language id="TEXT">
-      <summary usageCount="6" lastUsage="1667323452967" />
+      <summary usageCount="7" lastUsage="1667323557756" />
     </language>
     <language id="textmate">
       <summary usageCount="2" lastUsage="1666718116456" />
@@ -1395,11 +1395,12 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="665" y="306" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1667297483910" />
-    <state x="686" y="185" key="FileChooserDialogImpl" timestamp="1667296652994">
-      <screen x="0" y="0" width="1920" height="1019" />
+    <state x="2606" y="191" key="FileChooserDialogImpl" timestamp="1667323585490">
+      <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="686" y="185" key="FileChooserDialogImpl/0.0.1920.1019/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1019" timestamp="1666718493274" />
     <state x="686" y="185" key="FileChooserDialogImpl/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1667296652994" />
+    <state x="2606" y="191" key="FileChooserDialogImpl/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@1920.0.1920.1050" timestamp="1667323585490" />
     <state x="2178" y="88" width="1428" height="902" key="SettingsEditor" timestamp="1667306634445">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
@@ -1451,7 +1452,7 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>

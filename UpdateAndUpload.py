@@ -7,7 +7,8 @@ from os import path
 from time import gmtime, strftime
 
 ### constant variable
-time_format = "%Y-%m-%dT%H:%M:%S"
+time_format = "%Y-%m-%d_%H:%M:%S"
+
 
 ### Function
 def parse_args(args):
@@ -46,14 +47,14 @@ def copyFileToFile(source_path: str, target_path: str):
 
     print('Copy files finished!: ' + source_path + '  to  ' + target_path)
 
-def copyFileToDir(source_path: str, source_filename:str, target_path_root: str):
+
+def copyFileToDir(source_path: str, source_filename: str, target_path_root: str):
     '''
     :param source_path: like C:\hello.txt
     :param source_filename: like hello.txt
     :param target_path_root: C:\myweb\chapter02
     :return: Null
     '''
-
 
     if not os.path.exists(target_path_root):  # 如果目标路径不存在原文件夹的话就创建
         os.makedirs(target_path_root)
@@ -102,72 +103,60 @@ def copyDirToDir(source_path: str, target_path: str):
 
     print('Copy files finished!: ' + source_path + '  to  ' + target_path)
 
-def gitRepo(target_path: str):
-    repo = git.Repo(path=target_path)
-    repo.git.add(u=True)
-    repo.index.commit('commit at ' + str(strftime(time_format, gmtime())) )
-    repo.git.push()
 
-########################################################################################################################
-#   MAIN FUNCTION                                                                                                      #
-########################################################################################################################
-def main():
-
-    # output the log
-    LOG_FORMAT = "%(asctime)s - %(levelname)s - %(message)s" # '%(asctime)s:%(levelname)s:%(message)s'
-    DATE_FORMAT = "%m/%d/%Y %H:%M:%S %p"
-    logging.basicConfig(
-        filename=r'r:\yzh\BackupUpdateAndUpload.log',
-        level=logging.DEBUG,
-        format=LOG_FORMAT,
-        datefmt=DATE_FORMAT
-    )
-    logging.debug("I am written to the file")
-
+def copyFileToBackupDir():
     # define the command variable which contains path
     source_path_userprofile = r'c:\Users\yzh'
-    target_path_root =  r'r:\yzh\Backup_App'
+    target_path_root = r'r:\yzh\Backup_App'
 
     # bash
     target_path_root_bash = os.path.join(target_path_root, 'bash')
-    copyFileToFile(os.path.join(source_path_userprofile, '.bash_profile'), os.path.join(target_path_root_bash, '.bash_profile'))
-    copyFileToFile(os.path.join(source_path_userprofile, '.bash_history'), os.path.join(target_path_root_bash, '.bash_history'))
+    copyFileToFile(os.path.join(source_path_userprofile, '.bash_profile'),
+                   os.path.join(target_path_root_bash, '.bash_profile'))
+    copyFileToFile(os.path.join(source_path_userprofile, '.bash_history'),
+                   os.path.join(target_path_root_bash, '.bash_history'))
     copyFileToFile(os.path.join(source_path_userprofile, '.bashrc'), os.path.join(target_path_root_bash, '.bashrc'))
 
     # git
     target_path_root_git = os.path.join(target_path_root, 'git')
     copyFileToDir(os.path.join(source_path_userprofile, '.gitconfig'), '.gitconfig', target_path_root_git)
-    copyFileToDir(os.path.join(source_path_userprofile, 'git-completion.bash'), 'git-completion.bash', target_path_root_git)
+    copyFileToDir(os.path.join(source_path_userprofile, 'git-completion.bash'), 'git-completion.bash',
+                  target_path_root_git)
 
     # .zlua
     copyFileToFile(os.path.join(source_path_userprofile, '.zlua'), os.path.join(target_path_root, '.zlua'))
 
     ##small app
     # totalcommand
-    source_path_root_GHISLER = os.path.join(source_path_userprofile, r'AppData\Roaming\GHISLER') # r'c:\Users\yzh\AppData\Roaming\GHISLER'
-    target_path_root_TotalCommander = os.path.join(target_path_root, r'App_Small\TotalCommander_ConfigDatei') # 'r:\yzh\Backup\App_Small\TotalCommander_ConfigDatei'
+    source_path_root_GHISLER = os.path.join(source_path_userprofile,
+                                            r'AppData\Roaming\GHISLER')  # r'c:\Users\yzh\AppData\Roaming\GHISLER'
+    target_path_root_TotalCommander = os.path.join(target_path_root,
+                                                   r'App_Small\TotalCommander_ConfigDatei')  # 'r:\yzh\Backup\App_Small\TotalCommander_ConfigDatei'
     copyFileToDir(os.path.join(source_path_root_GHISLER, 'usercmd.ini'), 'usercmd.ini', target_path_root_TotalCommander)
     copyFileToDir(os.path.join(source_path_root_GHISLER, 'wcx_ftp.ini'), 'wcx_ftp.ini', target_path_root_TotalCommander)
     copyFileToDir(os.path.join(source_path_root_GHISLER, 'wincmd.ini'), 'wincmd.ini', target_path_root_TotalCommander)
 
     # other
-    source_path_root_ssh = os.path.join(source_path_userprofile, '.ssh') #
-    target_path_root_ssh = os.path.join(target_path_root, 'SSH') #
+    source_path_root_ssh = os.path.join(source_path_userprofile, '.ssh')  #
+    target_path_root_ssh = os.path.join(target_path_root, 'SSH')  #
     copyDirToDir(source_path_root_ssh, target_path_root_ssh)
 
     # IDE
-    source_path_root_JetBrains = os.path.join(source_path_userprofile, r'AppData\Roaming\JetBrains') #
-    target_path_root_JetBrains = os.path.join(target_path_root, 'App_IDE') #
+    source_path_root_JetBrains = os.path.join(source_path_userprofile, r'AppData\Roaming\JetBrains')  #
+    target_path_root_JetBrains = os.path.join(target_path_root, 'App_IDE')  #
 
-    # copyDirToDir(os.path.join(source_path_root_JetBrains, 'IdeaIC2022.2'), os.path.join(target_path_root_JetBrains, 'IdeaIC2022.2')) # r'c:\Users\yzh\AppData\Roaming\JetBrains\IdeaIC2022.2', r'r:\yzh\Backup\App_IDE\IdeaIC2022.2')
-    # shutil.rmtree( os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository'), ignore_errors=False, onerror=handleRemoveReadonly )# r'r:\yzh\Backup_App\App_IDE\IdeaIC2022.2\settingsRepository'
-    #
-    # copyDirToDir(os.path.join(source_path_root_JetBrains, 'PyCharmCE2022.2'),
-    #              os.path.join(target_path_root_JetBrains, 'PyCharmCE2022.2')) # r'c:\Users\yzh\AppData\Roaming\JetBrains\PyCharmCE2022.2', r'r:\yzh\Backup\App_IDE\PyCharmCE2022.2')
-    # #shutil.rmtree(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.2\settingsRepository'), ignore_errors=False, onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\IPyCharmCE2022.2\settingsRepository'
+    copyDirToDir(os.path.join(source_path_root_JetBrains, 'IdeaIC2022.2'), os.path.join(target_path_root_JetBrains,
+                                                                                        'IdeaIC2022.2'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\IdeaIC2022.2', r'r:\yzh\Backup\App_IDE\IdeaIC2022.2')
+    shutil.rmtree(os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository'), ignore_errors=False,
+                  onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\IdeaIC2022.2\settingsRepository'
 
-    #git sychn
-    gitRepo(r'r:\yzh\Backup_App')
+    copyDirToDir(os.path.join(source_path_root_JetBrains, 'PyCharmCE2022.2'),
+                 os.path.join(target_path_root_JetBrains,
+                              'PyCharmCE2022.2'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\PyCharmCE2022.2', r'r:\yzh\Backup\App_IDE\PyCharmCE2022.2')
+    # shutil.rmtree(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.2\settingsRepository'), ignore_errors=False, onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\IPyCharmCE2022.2\settingsRepository'
+
+    print('Files synchron to Backup Dir finished!')
+
 
 def handleRemoveReadonly(func, path, exc):
     """
@@ -186,6 +175,38 @@ def handleRemoveReadonly(func, path, exc):
         func(path)
     else:
         raise
+
+
+def gitRepoSynchron(target_path: str):
+    repo = git.Repo(path=target_path)
+    repo.git.add(u=True)
+    repo.index.commit('commit at ' + str(strftime(time_format, gmtime())))
+    repo.remotes.origin.push()
+    repo.remotes.origin.pull()
+
+    print('Git Repo synchron finished!: ' + target_path)
+
+########################################################################################################################
+#   MAIN FUNCTION                                                                                                      #
+########################################################################################################################
+def main():
+    # output the log
+    LOG_FORMAT = "%(asctime)s - %(levelname)s - %(message)s"  # '%(asctime)s:%(levelname)s:%(message)s'
+    DATE_FORMAT = "%m/%d/%Y %H:%M:%S %p"
+    logging.basicConfig(
+        filename=r'r:\yzh\BackupUpdateAndUpload.log',
+        level=logging.DEBUG,
+        format=LOG_FORMAT,
+        datefmt=DATE_FORMAT,
+        filemode='w'
+    )
+    logging.info("Backup starts")
+
+    copyFileToBackupDir()
+
+    # git repo synchron
+    gitRepoSynchron(r'r:\yzh\Backup_App')
+
 
 if __name__ == '__main__':
     main()

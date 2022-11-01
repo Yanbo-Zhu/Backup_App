@@ -1,5 +1,8 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1667323606588" />
+    </e>
     <e n="AgpUpgrade">
       <i c="1" l="1666720227720" />
     </e>
@@ -7,7 +10,7 @@
       <i c="2" l="1666720122704" />
     </e>
     <e n="ConfigureIcs">
-      <i c="4" l="1667323487228" />
+      <i c="6" l="1667323631428" />
     </e>
     <e n="EditCustomProperties">
       <i c="1" l="1666718136771" />
@@ -28,7 +31,7 @@
       <i c="3" l="1666718242770" />
     </e>
     <e n="EditorPaste">
-      <i c="25" l="1667306587816" />
+      <i c="27" l="1667323607030" />
     </e>
     <e n="EditorUp">
       <i c="2" l="1666718209429" />
@@ -37,7 +40,10 @@
       <i c="3" l="1667297478874" />
     </e>
     <e n="ImportSettings">
-      <i c="2" l="1667296646922" />
+      <i c="3" l="1667323583888" />
+    </e>
+    <e n="MergeSettings">
+      <i c="1" l="1667323648103" />
     </e>
     <e n="SaveAll">
       <i c="4" l="1666718270867" />
