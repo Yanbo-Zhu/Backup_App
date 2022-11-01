@@ -105,7 +105,7 @@ def copyDirToDir(source_path: str, target_path: str):
 def gitRepo(target_path: str):
     repo = git.Repo(path=target_path)
     repo.git.add(u=True)
-    repo.index.commit('commit at' )
+    repo.index.commit('commit at ' + str(strftime(time_format, gmtime())) )
     repo.git.push()
 
 ########################################################################################################################
