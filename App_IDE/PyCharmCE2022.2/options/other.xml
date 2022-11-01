@@ -1,0 +1,108 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>EditorConfig</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2GgOIpm3Gc680n3t3ul5A633knX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gwk7EprCoxOUQfHP1M8Ykbn40Q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GwkEcV3EkSG2cZnsWriuHWNplq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GwmBV9oHCzsedPwlm8yqnewFwj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GwrsexgvwWpovaO6CSmiZge68Q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gx7th5kVOhWdVEKuLU0v7zIYum">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "FileChooser.ShowPath": "true",
+    "InstalledPluginsSearchHistory": "中文\nzhong'wen\nzhon\nzho\nzh",
+    "MarketplacePluginsSearchHistory": "中文",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "appcds.runOnSecondStart": "PC-222.4345.23-ab7356168c8829a23e667fcbbb699ead7d50cc3f73f061e19b7b103391838164",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PC-222.4345.23",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "1",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "15.0",
+    "gotit.previous.run": "PC-222.4345.23",
+    "ide.memory.adjusted": "true",
+    "last_opened_file_path": "R:/yzh/Backup_App",
+    "previousColorScheme": "_@user_High contrast",
+    "registry.to.advanced.settings.migration.build": "PC-222.4345.23",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "R:/yzh/Backup_App",
+      "R:/yzh/Backup",
+      "R:/yzh/0_IVU_Unterlagen_YZH/0_重要/Ranorex_StartSkript",
+      "D:/File_Storage/File_Markdown/HTML5_CSS3_HeiMaPink_YZHNote"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="HTML5_CSS3_HeiMaPink_YZHNote-history" project-path="D:/File_Storage/File_Markdown/HTML5_CSS3_HeiMaPink_YZHNote" last-access-time="1666806846020" />
+      <command-history-file filename="Backup-history" project-path="R:/yzh/Backup" last-access-time="1667313115421" />
+    </command-history-files>
+  </component>
+</application>

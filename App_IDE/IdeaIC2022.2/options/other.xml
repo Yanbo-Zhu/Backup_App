@@ -1,0 +1,67 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2GdTDXK4DaKr6FxBNThzqFHWHzE">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "FileTemplates.SelectedTemplate": "HTML File",
+    "InstalledPluginsSearchHistory": "Code Generation\nchi\nch\ncho\nchom",
+    "MarketplacePluginsSearchHistory": "中文\nchi\nSave Actions\nEclipse Code Formatter\nEclipse Code",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "Code Generation\nLine commetn at first cloumn\nToolbar\nClosing Policy\nCode Style",
+    "appcds.runOnSecondStart": "IC-222.4345.14-67cdc97330a9a15bc4f275ed4223be0baf9e987443b33420f5acb1bd4c09a1f3",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "IC-222.4345.14",
+    "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "2",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "15.0",
+    "gotit.previous.run": "IC-222.4345.14",
+    "ide.memory.adjusted": "true",
+    "installed.kotlin.plugin.version": "222-1.7.10-release-334-IJ4345.14",
+    "last_opened_file_path": "E:/JAVA_DEV_TOOLS",
+    "previousColorScheme": "_@user_High contrast",
+    "registry.to.advanced.settings.migration.build": "IC-222.4345.14",
+    "settings.code.style.selected.tab.JAVA": "Imports",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "E:/JAVA_DEV_TOOLS",
+      "E:/build/git/ivu-plan-source"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="ivu-plan-source-history" project-path="E:/build/git/ivu-plan-source" last-access-time="1666719534473" />
+    </command-history-files>
+  </component>
+</application>

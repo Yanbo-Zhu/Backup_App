@@ -1,0 +1,85 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="AgpUpgrade">
+      <i c="1" l="1666720227720" />
+    </e>
+    <e n="CWMHostShowPopupAction">
+      <i c="2" l="1666720122704" />
+    </e>
+    <e n="ConfigureIcs">
+      <i c="4" l="1667323487228" />
+    </e>
+    <e n="EditCustomProperties">
+      <i c="1" l="1666718136771" />
+    </e>
+    <e n="EditCustomVmOptions">
+      <i c="1" l="1666717832001" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="82" l="1666720546780" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1667296742499" />
+    </e>
+    <e n="EditorDown">
+      <i c="2" l="1666718242235" />
+    </e>
+    <e n="EditorLeft">
+      <i c="3" l="1666718242770" />
+    </e>
+    <e n="EditorPaste">
+      <i c="25" l="1667306587816" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1666718209429" />
+    </e>
+    <e n="ExportSettings">
+      <i c="3" l="1667297478874" />
+    </e>
+    <e n="ImportSettings">
+      <i c="2" l="1667296646922" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1666718270867" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="3" l="1666720127529" />
+    </e>
+    <e n="ShowSettings">
+      <i c="17" l="1667306545801" />
+    </e>
+    <e n="TerminalNewPredefinedSession">
+      <i c="2" l="1666717603973" />
+    </e>
+    <e n="Upsource.ChangeUser">
+      <i c="2" l="1666720104077" />
+    </e>
+    <e n="WelcomeScreen.Configure.Import">
+      <i c="1" l="1666717253353" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1666717322160" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1666717314825" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="2" l="1667306493667" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1667306694281" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="1" l="1666717289601" />
+    </e>
+    <e n="com.intellij.space.vcs.actions.SpaceMainToolBarAction">
+      <i c="2" l="1666720130832" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="2" l="1666717586933" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1666718477299" />
+    </e>
+  </component>
+</application>

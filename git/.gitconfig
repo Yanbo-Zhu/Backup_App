@@ -1,0 +1,21 @@
+[user]
+	name = yzh
+	email = yzh@ivu.de
+[merge]
+	renamelimit = 999999
+	renames = false
+[http]
+	sslBackend = schannel
+[pull]
+	rebase = true
+[core]
+	hooksPath = ./gitconfig/hooks
+[fetch]
+	prune = true
+[difftool "sourcetree"]
+	cmd = '' \"$LOCAL\" \"$REMOTE\"
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[credential "https://git.ivu-ag.com"]
+	provider = bitbucket
