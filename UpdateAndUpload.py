@@ -2,6 +2,7 @@ import argparse
 # from git import rmtree
 import sys, os, shutil, errno, stat
 import logging
+import git
 from os import path
 from time import gmtime, strftime
 
@@ -101,6 +102,12 @@ def copyDirToDir(source_path: str, target_path: str):
 
     print('Copy files finished!: ' + source_path + '  to  ' + target_path)
 
+def gitRepo(target_path: str):
+    repo = git.Repo(path=target_path)
+    repo.git.add(u=True)
+    repo.index.commit('commit at' )
+    repo.git.push()
+
 ########################################################################################################################
 #   MAIN FUNCTION                                                                                                      #
 ########################################################################################################################
@@ -152,14 +159,15 @@ def main():
     source_path_root_JetBrains = os.path.join(source_path_userprofile, r'AppData\Roaming\JetBrains') #
     target_path_root_JetBrains = os.path.join(target_path_root, 'App_IDE') #
 
-    copyDirToDir(os.path.join(source_path_root_JetBrains, 'IdeaIC2022.2'), os.path.join(target_path_root_JetBrains, 'IdeaIC2022.2')) # r'c:\Users\yzh\AppData\Roaming\JetBrains\IdeaIC2022.2', r'r:\yzh\Backup\App_IDE\IdeaIC2022.2')
-    shutil.rmtree( os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository'), ignore_errors=False, onerror=handleRemoveReadonly )# r'r:\yzh\Backup_App\App_IDE\IdeaIC2022.2\settingsRepository'
+    # copyDirToDir(os.path.join(source_path_root_JetBrains, 'IdeaIC2022.2'), os.path.join(target_path_root_JetBrains, 'IdeaIC2022.2')) # r'c:\Users\yzh\AppData\Roaming\JetBrains\IdeaIC2022.2', r'r:\yzh\Backup\App_IDE\IdeaIC2022.2')
+    # shutil.rmtree( os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository'), ignore_errors=False, onerror=handleRemoveReadonly )# r'r:\yzh\Backup_App\App_IDE\IdeaIC2022.2\settingsRepository'
+    #
+    # copyDirToDir(os.path.join(source_path_root_JetBrains, 'PyCharmCE2022.2'),
+    #              os.path.join(target_path_root_JetBrains, 'PyCharmCE2022.2')) # r'c:\Users\yzh\AppData\Roaming\JetBrains\PyCharmCE2022.2', r'r:\yzh\Backup\App_IDE\PyCharmCE2022.2')
+    # #shutil.rmtree(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.2\settingsRepository'), ignore_errors=False, onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\IPyCharmCE2022.2\settingsRepository'
 
-    copyDirToDir(os.path.join(source_path_root_JetBrains, 'PyCharmCE2022.2'),
-                 os.path.join(target_path_root_JetBrains, 'PyCharmCE2022.2')) # r'c:\Users\yzh\AppData\Roaming\JetBrains\PyCharmCE2022.2', r'r:\yzh\Backup\App_IDE\PyCharmCE2022.2')
-    #shutil.rmtree(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.2\settingsRepository'), ignore_errors=False, onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\IPyCharmCE2022.2\settingsRepository'
-
-    #git
+    #git sychn
+    gitRepo(r'r:\yzh\Backup_App')
 
 def handleRemoveReadonly(func, path, exc):
     """
