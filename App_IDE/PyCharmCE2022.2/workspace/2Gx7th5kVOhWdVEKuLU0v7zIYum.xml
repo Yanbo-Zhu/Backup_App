@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="246">
+              <caret line="200" column="26" lean-forward="true" selection-start-line="200" selection-start-column="26" selection-end-line="200" selection-end-column="26" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -42,8 +42,13 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="Python">
-      <summary usageCount="3" lastUsed="1667341190678" />
+      <summary usageCount="5" lastUsed="1667393016690" />
     </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>time_format</find>
+    </findStrings>
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -59,7 +64,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Python">
-      <summary usageCount="3" lastUsage="1667341190680" />
+      <summary usageCount="5" lastUsage="1667393016693" />
     </language>
   </component>
   <component name="ProjectView">
@@ -80,11 +85,12 @@
     </panes>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15885799" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15903175" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="3" side_tool="true" visible="true" weight="0.15885799" />
+      <window_info id="Structure" order="3" side_tool="true" visible="true" weight="0.15903175" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.4074244" />
@@ -99,10 +105,10 @@
       <window_info anchor="right" id="Notifications" order="0" weight="0.250122" />
     </layout>
     <recentWindows>
+      <value>Project</value>
       <value>Run</value>
       <value>Structure</value>
       <value>Notifications</value>
-      <value>Project</value>
       <value>Problems View</value>
       <value>Python Console</value>
     </recentWindows>
@@ -141,8 +147,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        <state relative-caret-position="246">
+          <caret line="200" column="26" lean-forward="true" selection-start-line="200" selection-start-column="26" selection-end-line="200" selection-end-column="26" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

@@ -9,6 +9,9 @@ from time import gmtime, strftime
 ### constant variable
 time_format = "%Y-%m-%d_%H:%M:%S"
 
+# define the command variable which contains path
+source_path_userprofile = r'c:\Users\yzh'
+target_path_root = r'\\BVSH05FILE01.IVU-AG.COM\tausch-bln$\yzh\Backup_App'
 
 ### Function
 def parse_args(args):
@@ -105,9 +108,7 @@ def copyDirToDir(source_path: str, target_path: str):
 
 
 def copyFileToBackupDir():
-    # define the command variable which contains path
-    source_path_userprofile = r'c:\Users\yzh'
-    target_path_root = r'r:\yzh\Backup_App'
+
 
     # bash
     target_path_root_bash = os.path.join(target_path_root, 'bash')
@@ -180,7 +181,7 @@ def handleRemoveReadonly(func, path, exc):
 def gitRepoSynchron(target_path: str):
     repo = git.Repo(path=target_path)
     repo.git.add(u=True)
-    repo.index.commit('commit at ' + str(strftime(time_format, gmtime())))
+    repo.index.commit('commit at ' + str(strftime(time_format)))
     repo.remotes.origin.push()
     repo.remotes.origin.pull()
 
@@ -195,18 +196,18 @@ def main():
     LOG_FORMAT = "%(asctime)s - %(levelname)s - %(message)s"  # '%(asctime)s:%(levelname)s:%(message)s'
     DATE_FORMAT = "%m/%d/%Y %H:%M:%S %p"
     logging.basicConfig(
-        filename=r'r:\yzh\BackupUpdateAndUpload.log',
+        filename=r'\\BVSH05FILE01.IVU-AG.COM\tausch-bln$\yzh\BackupUpdateAndUpload.log',
         level=logging.DEBUG,
         format=LOG_FORMAT,
         datefmt=DATE_FORMAT,
-        filemode='w'
+        filemode='a'  # w: overwrite
     )
     logging.info("Backup starts")
 
     copyFileToBackupDir()
 
     # git repo synchron
-    gitRepoSynchron(r'r:\yzh\Backup_App')
+    gitRepoSynchron(r'\\BVSH05FILE01.IVU-AG.COM\tausch-bln$\yzh\Backup_App')
     gitRepoSynchron(r'd:\File_Storage\File_Markdown\HTML5_CSS3_HeiMaPink_YZHNote')
     gitRepoSynchron(r'd:\File_Storage\File_Markdown\JavaSE_HanShunPing_YZHNote')
 

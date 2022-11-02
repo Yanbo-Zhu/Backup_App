@@ -4,7 +4,7 @@
       <i c="9" l="1667343341493" />
     </e>
     <e n="$Undo">
-      <i c="19" l="1667318207897" />
+      <i c="20" l="1667393467767" />
     </e>
     <e n="ActivateProjectToolWindow">
       <i c="5" l="1667307636720" />
@@ -16,22 +16,22 @@
       <i c="5" l="1667324445109" />
     </e>
     <e n="EditorBackSpace">
-      <i c="752" l="1667343959132" />
+      <i c="784" l="1667393561668" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="4" l="1667322398608" />
     </e>
     <e n="EditorCopy">
-      <i c="176" l="1667343785354" />
+      <i c="186" l="1667393526639" />
     </e>
     <e n="EditorCut">
-      <i c="24" l="1667343317799" />
+      <i c="26" l="1667393432923" />
     </e>
     <e n="EditorDown">
       <i c="105" l="1667343676507" />
     </e>
     <e n="EditorEnter">
-      <i c="156" l="1667343788369" />
+      <i c="158" l="1667393438122" />
     </e>
     <e n="EditorEscape">
       <i c="1" l="1667313841930" />
@@ -46,10 +46,13 @@
       <i c="2" l="1667342619210" />
     </e>
     <e n="EditorPaste">
-      <i c="257" l="1667343819023" />
+      <i c="264" l="1667393527445" />
     </e>
     <e n="EditorRight">
-      <i c="250" l="1667343467986" />
+      <i c="252" l="1667393307358" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1667393429527" />
     </e>
     <e n="EditorTab">
       <i c="23" l="1667342763938" />
@@ -67,7 +70,7 @@
       <i c="1" l="1667310541906" />
     </e>
     <e n="Find">
-      <i c="1" l="1667309511734" />
+      <i c="3" l="1667393527150" />
     </e>
     <e n="GotoDeclaration">
       <i c="3" l="1667318410808" />
@@ -97,7 +100,7 @@
       <i c="60" l="1667343711461" />
     </e>
     <e n="SaveAll">
-      <i c="32" l="1667343983383" />
+      <i c="41" l="1667393575715" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1667307076675" />
@@ -113,6 +116,9 @@
     </e>
     <e n="com.intellij.execution.console.ConsoleExecuteAction">
       <i c="4" l="1667320745620" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="2" l="1667393527901" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
       <i c="1" l="1667310691223" />
