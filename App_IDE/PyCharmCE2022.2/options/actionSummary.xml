@@ -22,7 +22,7 @@
       <i c="4" l="1667322398608" />
     </e>
     <e n="EditorCopy">
-      <i c="186" l="1667393526639" />
+      <i c="188" l="1667398063810" />
     </e>
     <e n="EditorCut">
       <i c="26" l="1667393432923" />
@@ -46,7 +46,7 @@
       <i c="2" l="1667342619210" />
     </e>
     <e n="EditorPaste">
-      <i c="264" l="1667393527445" />
+      <i c="265" l="1667393832771" />
     </e>
     <e n="EditorRight">
       <i c="252" l="1667393307358" />
@@ -118,7 +118,7 @@
       <i c="4" l="1667320745620" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="2" l="1667393527901" />
+      <i c="16" l="1667393847327" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
       <i c="1" l="1667310691223" />
