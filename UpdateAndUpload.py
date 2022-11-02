@@ -186,6 +186,7 @@ def gitRepoSynchron(target_path: str):
 
     print('Git Repo synchron finished!: ' + target_path)
 
+
 ########################################################################################################################
 #   MAIN FUNCTION                                                                                                      #
 ########################################################################################################################
@@ -206,7 +207,8 @@ def main():
 
     # git repo synchron
     gitRepoSynchron(r'r:\yzh\Backup_App')
-
+    gitRepoSynchron(r'd:\File_Storage\File_Markdown\HTML5_CSS3_HeiMaPink_YZHNote')
+    gitRepoSynchron(r'd:\File_Storage\File_Markdown\JavaSE_HanShunPing_YZHNote')
 
 if __name__ == '__main__':
     main()

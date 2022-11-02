@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
+            <state relative-caret-position="275">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -80,7 +80,6 @@
     </panes>
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15885799" />
@@ -88,7 +87,7 @@
       <window_info id="Structure" order="3" side_tool="true" visible="true" weight="0.15885799" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.40750816" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.4074244" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Python Packages" order="4" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -100,35 +99,39 @@
       <window_info anchor="right" id="Notifications" order="0" weight="0.250122" />
     </layout>
     <recentWindows>
+      <value>Run</value>
       <value>Structure</value>
       <value>Notifications</value>
       <value>Project</value>
-      <value>Run</value>
       <value>Problems View</value>
       <value>Python Console</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1964" height="339" key="GridCell.Tab.0.bottom" timestamp="1667333572861">
-      <screen x="0" y="0" width="2021" height="918" />
+    <state width="1991" height="409" key="GridCell.Tab.0.bottom" timestamp="1667343986188">
+      <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1863" height="339" key="GridCell.Tab.0.bottom/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1667325446603" />
     <state width="1964" height="339" key="GridCell.Tab.0.bottom/0.0.2021.918@0.0.2021.918" timestamp="1667333572861" />
-    <state width="1964" height="339" key="GridCell.Tab.0.center" timestamp="1667333572860">
-      <screen x="0" y="0" width="2021" height="918" />
+    <state width="1991" height="409" key="GridCell.Tab.0.bottom/0.0.2048.1090/2560.162.1920.1050@0.0.2048.1090" timestamp="1667343986188" />
+    <state width="1991" height="409" key="GridCell.Tab.0.center" timestamp="1667343986187">
+      <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1863" height="339" key="GridCell.Tab.0.center/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1667325446603" />
     <state width="1964" height="339" key="GridCell.Tab.0.center/0.0.2021.918@0.0.2021.918" timestamp="1667333572860" />
-    <state width="1964" height="339" key="GridCell.Tab.0.left" timestamp="1667333572860">
-      <screen x="0" y="0" width="2021" height="918" />
+    <state width="1991" height="409" key="GridCell.Tab.0.center/0.0.2048.1090/2560.162.1920.1050@0.0.2048.1090" timestamp="1667343986187" />
+    <state width="1991" height="409" key="GridCell.Tab.0.left" timestamp="1667343986187">
+      <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1863" height="339" key="GridCell.Tab.0.left/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1667325446603" />
     <state width="1964" height="339" key="GridCell.Tab.0.left/0.0.2021.918@0.0.2021.918" timestamp="1667333572860" />
-    <state width="1964" height="339" key="GridCell.Tab.0.right" timestamp="1667333572861">
-      <screen x="0" y="0" width="2021" height="918" />
+    <state width="1991" height="409" key="GridCell.Tab.0.left/0.0.2048.1090/2560.162.1920.1050@0.0.2048.1090" timestamp="1667343986187" />
+    <state width="1991" height="409" key="GridCell.Tab.0.right" timestamp="1667343986188">
+      <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state width="1863" height="339" key="GridCell.Tab.0.right/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1667325446603" />
     <state width="1964" height="339" key="GridCell.Tab.0.right/0.0.2021.918@0.0.2021.918" timestamp="1667333572861" />
+    <state width="1991" height="409" key="GridCell.Tab.0.right/0.0.2048.1090/2560.162.1920.1050@0.0.2048.1090" timestamp="1667343986188" />
     <state x="373" y="62" key="SettingsEditor" timestamp="1667341259248">
       <screen x="0" y="0" width="2048" height="1090" />
     </state>
@@ -138,8 +141,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="185" lean-forward="true" selection-start-line="185" selection-end-line="185" />
+        <state relative-caret-position="275">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
