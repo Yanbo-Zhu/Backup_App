@@ -13,10 +13,13 @@
       <i c="1" l="1667342499884" />
     </e>
     <e n="Back">
-      <i c="6" l="1667576410646" />
+      <i c="7" l="1667578545561" />
     </e>
     <e n="CommentByLineComment">
       <i c="5" l="1667324445109" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1667578726362" />
     </e>
     <e n="EditorBackSpace">
       <i c="909" l="1667578339374" />
@@ -79,7 +82,7 @@
       <i c="4" l="1667578429059" />
     </e>
     <e n="GotoDeclaration">
-      <i c="9" l="1667576408589" />
+      <i c="10" l="1667578542585" />
     </e>
     <e n="GotoFile">
       <i c="1" l="1667307178831" />
@@ -103,7 +106,10 @@
       <i c="4" l="1667578359553" />
     </e>
     <e n="Run">
-      <i c="62" l="1667578375774" />
+      <i c="64" l="1667579142014" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1667578566179" />
     </e>
     <e n="SaveAll">
       <i c="50" l="1667578145149" />
@@ -114,8 +120,14 @@
     <e n="ShowSettings">
       <i c="14" l="1667322705394" />
     </e>
+    <e n="Stop">
+      <i c="2" l="1667579090455" />
+    </e>
     <e n="TerminalNewPredefinedSession">
       <i c="2" l="1667313727036" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1667578696522" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="4" l="1667322032257" />
@@ -158,6 +170,9 @@
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
       <i c="1" l="1667341255346" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1667579146198" />
     </e>
     <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
       <i c="1" l="1667320711005" />
