@@ -12,8 +12,8 @@ time_format = "%Y-%m-%d_%H:%M:%S"
 # define the command variable which contains path
 source_path_userprofile = r'c:\Users\yzh'
 source_path_dDrive_smallapp = r'd:\SmallApp'
-source_path_appdata_roaming= r'c:\Users\yzh\AppData\Roaming'
-target_path_root = r'\\BVSH05FILE01.IVU-AG.COM\tausch-bln$\yzh\Backup_App'
+source_path_appdata_roaming = r'c:\Users\yzh\AppData\Roaming'
+target_path_tausch_BackupApp = r'\\BVSH05FILE01.IVU-AG.COM\tausch-bln$\yzh\Backup_App'
 
 
 ### Function
@@ -82,19 +82,17 @@ def copyDirToDir(source_path: str, target_path: str):
     :param target_path: like C:\myweb\chapter02
     :return: no return
     '''
-    if not os.path.exists(target_path):  # 如果目标路径不存在原文件夹的话就创建
-        os.makedirs(target_path)
-    elif os.path.exists(target_path):  # 如果目标路径存在文件夹的话就先删除
+    if os.path.exists(target_path):  # 如果目标路径存在文件夹的话就先删除
         # Git has some readonly files. You need to change the permissions first:
         for root, dirs, files in os.walk(target_path):
             for dir in dirs:
                 os.chmod(os.path.join(root, dir), stat.S_IRWXU)
             for file in files:
                 os.chmod(os.path.join(root, file), stat.S_IRWXU)
+        shutil.rmtree(target_path, ignore_errors=False, onerror=handleRemoveReadonly)  # 连着本身(target_path)的文件夹也会被删除删除
 
-        shutil.rmtree(target_path, ignore_errors=False, onerror=handleRemoveReadonly)
-
-    #  copy 文件夹下的所有文件（包括子目录文件）拷贝到目标文件夹下。 但是这个文件夹本身也被copy 过去。 保持原来的结构
+    #  copy source_path文件夹下的所有文件（包括子目录文件）拷贝到目标文件夹下。 保持原来的结构. 不copy本身这个文件夹。
+    # target_path不需要之前就存在, 会被自动创建
     shutil.copytree(source_path, target_path)
 
     # copy 文件夹下的所有文件（包括子目录文件）拷贝到目标文件夹下。 但是这个文件夹本身的这个外壳不被copy到目标文件夹。不保持原来的结构
@@ -112,7 +110,7 @@ def copyDirToDir(source_path: str, target_path: str):
 
 def copyFileToBackupDir():
     # bash
-    target_path_root_bash = os.path.join(target_path_root, 'bash')
+    target_path_root_bash = os.path.join(target_path_tausch_BackupApp, 'bash')
     copyFileToFile(os.path.join(source_path_userprofile, '.bash_profile'),
                    os.path.join(target_path_root_bash, '.bash_profile'))
     copyFileToFile(os.path.join(source_path_userprofile, '.bash_history'),
@@ -120,26 +118,26 @@ def copyFileToBackupDir():
     copyFileToFile(os.path.join(source_path_userprofile, '.bashrc'), os.path.join(target_path_root_bash, '.bashrc'))
 
     # git
-    target_path_root_git = os.path.join(target_path_root, 'git')
+    target_path_root_git = os.path.join(target_path_tausch_BackupApp, 'git')
     copyFileToDir(os.path.join(source_path_userprofile, '.gitconfig'), '.gitconfig', target_path_root_git)
     copyFileToDir(os.path.join(source_path_userprofile, 'git-completion.bash'), 'git-completion.bash',
                   target_path_root_git)
 
     # .zlua
-    copyFileToFile(os.path.join(source_path_userprofile, '.zlua'), os.path.join(target_path_root, '.zlua'))
+    copyFileToFile(os.path.join(source_path_userprofile, '.zlua'), os.path.join(target_path_tausch_BackupApp, '.zlua'))
 
     ###small app
     # totalcommand
     source_path_root_GHISLER = os.path.join(source_path_userprofile,
                                             r'AppData\Roaming\GHISLER')  # r'c:\Users\yzh\AppData\Roaming\GHISLER'
-    target_path_root_TotalCommander = os.path.join(target_path_root,
+    target_path_root_TotalCommander = os.path.join(target_path_tausch_BackupApp,
                                                    r'App_Small\TotalCommander_ConfigDatei')  # 'r:\yzh\Backup\App_Small\TotalCommander_ConfigDatei'
     copyFileToDir(os.path.join(source_path_root_GHISLER, 'usercmd.ini'), 'usercmd.ini', target_path_root_TotalCommander)
     copyFileToDir(os.path.join(source_path_root_GHISLER, 'wcx_ftp.ini'), 'wcx_ftp.ini', target_path_root_TotalCommander)
     copyFileToDir(os.path.join(source_path_root_GHISLER, 'wincmd.ini'), 'wincmd.ini', target_path_root_TotalCommander)
 
-    #Powershell
-    target_path_root_Powershell = os.path.join(target_path_root,
+    # Powershell
+    target_path_root_Powershell = os.path.join(target_path_tausch_BackupApp,
                                                r'App_Small\TerminalShell\Powershell')
     copyFileToDir(os.path.join(source_path_appdata_roaming,
                                'Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt'),
@@ -148,41 +146,62 @@ def copyFileToBackupDir():
                                'Documents\PowerShell\Microsoft.PowerShell_profile.ps1'),
                   'Microsoft.PowerShell_profile.ps1', target_path_root_Powershell)
 
-    #Finalshell
+    # Finalshell
     source_path_root_Finalshell = os.path.join(source_path_dDrive_smallapp,
-                                            r'Terminal_Programmierung\Finalshell')
-    target_path_root_Finalshell = os.path.join(target_path_root,
-                                                   r'App_Small\TerminalShell\FinalShell')
+                                               r'Terminal_Programmierung\Finalshell')
+    target_path_root_Finalshell = os.path.join(target_path_tausch_BackupApp,
+                                               r'App_Small\TerminalShell\FinalShell')
+
+    copyDirToDir(os.path.join(source_path_root_Finalshell,
+                              'backup'), os.path.join(target_path_root_Finalshell,
+                                                      'backup'))
+    copyDirToDir(os.path.join(source_path_root_Finalshell,
+                              'conn'), os.path.join(target_path_root_Finalshell,
+                                                    'conn'))
+
     copyFileToDir(os.path.join(source_path_root_Finalshell,
                                'config.json'), 'config.json', target_path_root_Finalshell)
     copyFileToDir(os.path.join(source_path_root_Finalshell,
                                'knownhosts.json'), 'knownhosts.json', target_path_root_Finalshell)
     copyFileToDir(os.path.join(source_path_root_Finalshell,
                                'tconfig.json'), 'tconfig.json', target_path_root_Finalshell)
-    copyDirToDir(os.path.join(source_path_root_Finalshell,
-                               'backup'), target_path_root_Finalshell)
-    copyDirToDir(os.path.join(source_path_root_Finalshell,
-                               'conn'), target_path_root_Finalshell)
 
-    #Notepad++
+    # Notepad++
     source_path_root_notepadplusplus = os.path.join(source_path_appdata_roaming,
-                                            r'Notepad++')
-    target_path_root_notepadplusplus = os.path.join(target_path_root,
-                                                   r'App_Small\Editor_Text\Notepad++')
+                                                    r'Notepad++')
+    target_path_root_notepadplusplus = os.path.join(target_path_tausch_BackupApp,
+                                                    r'App_Small\Editor_Text\Notepad++')
     copyDirToDir(source_path_root_notepadplusplus, target_path_root_notepadplusplus)
+
+    # Sublime Text 4
+    source_path_sublimeText = os.path.join(source_path_dDrive_smallapp,
+                                                    r'Editor_ForProgramming\sublime_text_build_4126_x64\Data')
+    target_path_sublimeText = os.path.join(target_path_tausch_BackupApp,
+                                                    r'App_Small\Editor_Programming\sublime_text_build_4\Data')
+    copyDirToDir(source_path_sublimeText, target_path_sublimeText)
+
+
+    #snipaste
+    source_path_root_snipaste = os.path.join(source_path_userprofile, r'AppData\Local\Packages\45479liulios.17062D84F7C46_p7pnf6hceqser\LocalState')  #
+    target_path_root_snipaste = os.path.join(target_path_tausch_BackupApp, 'App_Small\Snipaste')  #
+    copyDirToDir(source_path_root_snipaste, target_path_root_snipaste)
+
+
+    ################
 
     # ssh
     source_path_root_ssh = os.path.join(source_path_userprofile, '.ssh')  #
-    target_path_root_ssh = os.path.join(target_path_root, 'SSH')  #
+    target_path_root_ssh = os.path.join(target_path_tausch_BackupApp, 'SSH')  #
     copyDirToDir(source_path_root_ssh, target_path_root_ssh)
 
     # IDE
     source_path_root_JetBrains = os.path.join(source_path_userprofile, r'AppData\Roaming\JetBrains')  #
-    target_path_root_JetBrains = os.path.join(target_path_root, 'App_IDE')  #
+    target_path_root_JetBrains = os.path.join(target_path_tausch_BackupApp, 'App_IDE')  #
 
     copyDirToDir(os.path.join(source_path_root_JetBrains, 'IdeaIC2022.2'), os.path.join(target_path_root_JetBrains,
                                                                                         'IdeaIC2022.2'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\IdeaIC2022.2', r'r:\yzh\Backup\App_IDE\IdeaIC2022.2')
-    shutil.rmtree(os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository'), ignore_errors=False,
+    if os.path.exists(os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository')):
+        shutil.rmtree(os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository'), ignore_errors=False,
                   onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\IdeaIC2022.2\settingsRepository'
 
     copyDirToDir(os.path.join(source_path_root_JetBrains, 'PyCharmCE2022.2'),
