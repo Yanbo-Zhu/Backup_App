@@ -11,7 +11,10 @@ time_format = "%Y-%m-%d_%H:%M:%S"
 
 # define the command variable which contains path
 source_path_userprofile = r'c:\Users\yzh'
+source_path_dDrive_smallapp = r'd:\SmallApp'
+source_path_appdata_roaming= r'c:\Users\yzh\AppData\Roaming'
 target_path_root = r'\\BVSH05FILE01.IVU-AG.COM\tausch-bln$\yzh\Backup_App'
+
 
 ### Function
 def parse_args(args):
@@ -81,7 +84,7 @@ def copyDirToDir(source_path: str, target_path: str):
     '''
     if not os.path.exists(target_path):  # 如果目标路径不存在原文件夹的话就创建
         os.makedirs(target_path)
-    elif os.path.exists(target_path):  # 如果目标路径存在原文件夹的话就先删除
+    elif os.path.exists(target_path):  # 如果目标路径存在文件夹的话就先删除
         # Git has some readonly files. You need to change the permissions first:
         for root, dirs, files in os.walk(target_path):
             for dir in dirs:
@@ -108,8 +111,6 @@ def copyDirToDir(source_path: str, target_path: str):
 
 
 def copyFileToBackupDir():
-
-
     # bash
     target_path_root_bash = os.path.join(target_path_root, 'bash')
     copyFileToFile(os.path.join(source_path_userprofile, '.bash_profile'),
@@ -127,7 +128,7 @@ def copyFileToBackupDir():
     # .zlua
     copyFileToFile(os.path.join(source_path_userprofile, '.zlua'), os.path.join(target_path_root, '.zlua'))
 
-    ##small app
+    ###small app
     # totalcommand
     source_path_root_GHISLER = os.path.join(source_path_userprofile,
                                             r'AppData\Roaming\GHISLER')  # r'c:\Users\yzh\AppData\Roaming\GHISLER'
@@ -137,7 +138,40 @@ def copyFileToBackupDir():
     copyFileToDir(os.path.join(source_path_root_GHISLER, 'wcx_ftp.ini'), 'wcx_ftp.ini', target_path_root_TotalCommander)
     copyFileToDir(os.path.join(source_path_root_GHISLER, 'wincmd.ini'), 'wincmd.ini', target_path_root_TotalCommander)
 
-    # other
+    #Powershell
+    target_path_root_Powershell = os.path.join(target_path_root,
+                                               r'App_Small\TerminalShell\Powershell')
+    copyFileToDir(os.path.join(source_path_appdata_roaming,
+                               'Microsoft\Windows\PowerShell\PSReadline\ConsoleHost_history.txt'),
+                  'ConsoleHost_history.txt', target_path_root_Powershell)
+    copyFileToDir(os.path.join(source_path_userprofile,
+                               'Documents\PowerShell\Microsoft.PowerShell_profile.ps1'),
+                  'Microsoft.PowerShell_profile.ps1', target_path_root_Powershell)
+
+    #Finalshell
+    source_path_root_Finalshell = os.path.join(source_path_dDrive_smallapp,
+                                            r'Terminal_Programmierung\Finalshell')
+    target_path_root_Finalshell = os.path.join(target_path_root,
+                                                   r'App_Small\TerminalShell\FinalShell')
+    copyFileToDir(os.path.join(source_path_root_Finalshell,
+                               'config.json'), 'config.json', target_path_root_Finalshell)
+    copyFileToDir(os.path.join(source_path_root_Finalshell,
+                               'knownhosts.json'), 'knownhosts.json', target_path_root_Finalshell)
+    copyFileToDir(os.path.join(source_path_root_Finalshell,
+                               'tconfig.json'), 'tconfig.json', target_path_root_Finalshell)
+    copyDirToDir(os.path.join(source_path_root_Finalshell,
+                               'backup'), target_path_root_Finalshell)
+    copyDirToDir(os.path.join(source_path_root_Finalshell,
+                               'conn'), target_path_root_Finalshell)
+
+    #Notepad++
+    source_path_root_notepadplusplus = os.path.join(source_path_appdata_roaming,
+                                            r'Notepad++')
+    target_path_root_notepadplusplus = os.path.join(target_path_root,
+                                                   r'App_Small\Editor_Text\Notepad++')
+    copyDirToDir(source_path_root_notepadplusplus, target_path_root_notepadplusplus)
+
+    # ssh
     source_path_root_ssh = os.path.join(source_path_userprofile, '.ssh')  #
     target_path_root_ssh = os.path.join(target_path_root, 'SSH')  #
     copyDirToDir(source_path_root_ssh, target_path_root_ssh)
@@ -210,6 +244,7 @@ def main():
     gitRepoSynchron(r'\\BVSH05FILE01.IVU-AG.COM\tausch-bln$\yzh\Backup_App')
     gitRepoSynchron(r'd:\File_Storage\File_Markdown\HTML5_CSS3_HeiMaPink_YZHNote')
     gitRepoSynchron(r'd:\File_Storage\File_Markdown\JavaSE_HanShunPing_YZHNote')
+
 
 if __name__ == '__main__':
     main()

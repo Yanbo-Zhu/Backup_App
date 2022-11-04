@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="202" column="36" lean-forward="true" selection-start-line="202" selection-start-column="36" selection-end-line="202" selection-end-column="36" />
+            <state relative-caret-position="595">
+              <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -42,7 +42,7 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="Python">
-      <summary usageCount="5" lastUsed="1667393016690" />
+      <summary usageCount="6" lastUsed="1667575669024" />
     </fileType>
   </component>
   <component name="FindInProjectRecents">
@@ -65,7 +65,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Python">
-      <summary usageCount="5" lastUsage="1667393016693" />
+      <summary usageCount="6" lastUsage="1667575669037" />
     </language>
   </component>
   <component name="ProjectView">
@@ -78,6 +78,17 @@
               <item name="Backup_App" type="b2602c69:ProjectViewProjectNode" />
               <item name="Backup_App" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Backup_App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Backup_App" type="462c0819:PsiDirectoryNode" />
+              <item name="App_Small" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Backup_App" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Backup_App" type="462c0819:PsiDirectoryNode" />
+              <item name="App_Small" type="462c0819:PsiDirectoryNode" />
+              <item name="TerminalShell" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -86,6 +97,7 @@
     </panes>
   </component>
   <component name="ToolWindowManager">
+    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15903175" />
@@ -105,9 +117,9 @@
       <window_info anchor="right" id="Notifications" order="0" weight="0.250122" />
     </layout>
     <recentWindows>
+      <value>Structure</value>
       <value>Project</value>
       <value>Run</value>
-      <value>Structure</value>
       <value>Notifications</value>
       <value>Problems View</value>
       <value>Python Console</value>
@@ -147,8 +159,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="202" column="36" lean-forward="true" selection-start-line="202" selection-start-column="36" selection-end-line="202" selection-end-column="36" />
+        <state relative-caret-position="595">
+          <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
