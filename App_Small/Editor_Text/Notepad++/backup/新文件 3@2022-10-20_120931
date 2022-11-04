@@ -1,0 +1,30 @@
+
+Veröffentlichung zugint. Bearbeiten durch Kontextmenüpunkt Bediengung/veröffentlichung: 
+Keine Warnungsmessage auftaucht
+
+Background:
+ 
+Fahrt 035 mit I29_S11, auf AA schon mit  Fahrtbezogene nV flag gesetzt.
+Fahrt 036 mit I29_S11e, auf AA schon als nV flag gesetzt.
+
+In Linienvariant I29_S11 , AA mit nicht aktivierte Flag "nicht veröffentlicht"
+In Linienvariant I29_S11e , AA mit aktivierte Flag "nicht veröffentlicht"
+
+Tessprozess:
+1 auf Fahrt 035: Bediengung/veröffentlichung (mit  zugintegriert ) ->  nicht veröffentlicht aufheben klicken 
+2 auf Fahrt 035: Flag "nicht veröffentlicht" schon aufgeheben
+3 aber auf Fahrt 036: 
+keine Warnungfenster taucht auf 
+Flag "nicht veröffentlicht" wurde nicht aufgeheben
+
+
+Testdaten: 
+Qs222a, RAIL,  MPI 
+01-Mon, ICE29, S/E
+Linienvariante: I29_S11, I29_S11b bis I29_S11e
+
+Fahrt: 
+035 in I29_S11,
+036 in I29_S11e
+
+Test am 2022.10.18: k:\QS\QS_Feature\E22FPL\E22FPL-2698_StopFlagsTrainIntegrated\22.2.0-20221011-0831-1665469902\bin64\

@@ -21,7 +21,7 @@
     <feature id="tag.name.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.select.word" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.files" count="1" last-shown="0" last-used="1667307111412" shown-count="0" />
-    <feature id="navigation.goto.declaration" count="22" last-shown="0" last-used="1667602733018" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="23" last-shown="0" last-used="1667603253356" shown-count="0" />
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="ui.scheme.quickswitch" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.file.structure" count="0" last-shown="0" last-used="0" shown-count="0" />

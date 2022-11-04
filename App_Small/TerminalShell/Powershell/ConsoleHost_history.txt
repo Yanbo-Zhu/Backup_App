@@ -1,0 +1,272 @@
+New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" ` -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force
+"d:\SmallApp\FileManagerment\totalcmd\TOTALCMD64.EXE" /f="r:\yzh\Backup\SmallApp\TotalCommander_ConfigDatei\wcx_ftp.ini" /i="r:\yzh\Backup\SmallApp\TotalCommander_ConfigDatei\wincmd.ini"
+"d:\SmallApp\FileManagerment\totalcmd\TOTALCMD64.EXE" /i="r:\yzh\Backup\SmallApp\TotalCommander_ConfigDatei\wincmd.ini" /f="r:\yzh\Backup\SmallApp\TotalCommander_ConfigDatei\wcx_ftp.ini"
+cd C:
+git
+git --version
+git config --global user.name yzh
+git config --global user.email yzh@ivu.de
+git config --system core.longpaths true
+git config --system core.autocrlf false
+git config --global merge.renamelimit 999999
+git config --global http.sslBackend schannel
+git config --global blame.ignoreRevsFile .git-blame-ignore-revs
+git config --global pull.rebase true
+git config --global merge.renames false
+git config --global core.hooksPath ./gitconfig/hooks
+git config --global fetch.prune true
+ssh-keygen -m PEM -t rsa -C "am 2022.10.22"
+cd c:\Users\yzh\
+.\.bash_profile
+Wsl -l -v
+ls
+cd .ssh
+ls 
+cd desktop
+cd
+cd e:\build\ivu-plan-source\
+cd ..
+cd .\git\
+cd .\ivu-plan-source\
+git clone ssh://git@git.ivu-ag.com:7999/ivuplan/ivu-plan-source.git
+ssh-keygen -m PEM -t rsa -C "yzh@bws19067"
+pwsh
+$profile
+Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://ohmyposh.dev/install.ps1'))
+notepad $PROFILE
+New-Item -Path $PROFILE -Type File -Force
+$PROFILE
+notepad $PROFILE
+ $env:POSH_THEMES_PATH
+notepad $PROFILE
+pwd
+cd e:\build\git\ivu-plan-source\mb2cpp\core\app\ivushell\
+notepad $PROFILE
+Get-ExecutionPolicy
+git --version
+PowerShellGet\Install-Module posh-git -Scope CurrentUser -Force
+cd e:\build\git\ivu-plan-source\mb2cpp\core\app\ivushell\
+notepad $PROFILE
+Install-Module -Name Terminal-Icons -Repository PSGallery
+Install-Module -Name PSReadLine
+Get-Module
+Get-InstalledModule
+ll
+ls
+Uninstall-Module PSReadLine -AllVersions -Force -Verbose
+Find-Module -Name PSReadline
+notepad $PROFILE
+Install-Module -Name PSReadLine -Repository PSGallery
+Get-InstalledModule
+Find-Module -Name PSReadline
+Install-Module -Name PowerShellGet -Force
+exit
+Install-Module PSReadLine -AllowPrerelease -Force
+get-InstalledModule
+Import-Module PSReadLine
+Get-InstalledModule
+Get-Module
+PowerShellGet\Install-Module -Name PSReadLine
+Get-Module
+Get-InstalledModule
+Uninstall-Module -Name PSReadline -Force -AllVersions -Verbose
+Remove-Module -Name "PSReadline"
+Get-InstalledModule`
+
+Get-Module
+remove-Module -Name PSReadline
+Get-InstalledModule
+Get-Module
+Get-InstalledModule
+Uninstall-Module -Name PSReadline -Force -AllVersions -Verbose -RunAsAdministrator:
+Uninstall-Module -Name PSReadline -Force -AllVersions -Verbose -RunAsAdministrator
+Uninstall-Module -Name PSReadline -Force -AllVersions -Verbose
+notepad $PROFILE
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+git clone --depth 1 https://github.com/junegunn/fzf.git ./.fzf
+./fzf/install
+cd .\.fzf
+ll
+.\install
+fzf
+fzf --preview 'cat {}'
+history | fzf
+cd c:\Users\yzh\.fzf\bin\
+cd ..
+.\install.ps1
+fzf
+ps -ef | fzf
+ps -ef
+seq 100 | fzf
+fzf
+git clone https://github.com/skywind3000/z.lua.git d:\SmallApp\Terminal_Programmierung\zlua\
+$PROFILE
+notepad $PROFILE
+z
+notepad $PROFILE
+. $profile
+zti
+zl
+zti ,
+zti .
+zt
+zti ,
+zti .
+zi
+. $profile
+zi
+Z -t -i .
+. $profile
+zf
+cd d:\SmallApp\Terminal_Programmierung\
+zf
+zti .
+zt
+cd d:\SmallApp\Terminal_Programmierung\
+z d:\SmallApp\Terminal_Programmierung\
+zt
+. $profile
+cd d:\SmallApp\
+zl
+cd d:/smallApp
+zl
+zt
+z
+. $profile
+notepad $PROFILE
+. $profile
+cd d:/smallApp
+zl
+cd d:/smallApp
+zl
+cd d:/smallApp
+zl
+z
+cd d:/smallApp
+z
+cd d:/smallApp
+z
+z d:\SmallApp\Terminal_Programmierung\
+cd 
+z
+zti
+zti .
+zf
+zfi .
+zft
+zft .
+notepad $PROFILE
+cd d:\File_Storage\File_Markdown\JavaSE_HanShunPing_YZHNote\
+z
+git remote -v
+git status
+git add .
+git commit -m "add Chapter8"
+git push -u origin HEAD
+git remote -v
+cd d:\File_Storage\File_Markdown\HTML5_CSS3_HeiMaPink_YZHNote\
+git init
+git add . 
+git commit -m "first commit"
+git remote add origin https://github.com/Yanbo-Zhu/HTML5_CSS3_HeiMaPink.git
+git remote -v 
+git push -u origin master
+cd r:\yzh\0_IVU_Unterlagen_YZH\0_重要\Ranorex_StartSkript\
+git init
+git add .
+git commit -m "first commit"
+git remote -v
+git remote set-url origin ssh://git@git.ivu-ag.com:7999/~yzh/ranorex_startskript.git
+git remote add origin ssh://git@git.ivu-ag.com:7999/~yzh/ranorex_startskript.git
+git push -u origin HEAD:master
+choco
+%DIR%
+echo %DIR%
+cd e:\build\git\ptp_delivery\ptp-dump-to-cold-copy\
+git clone https://git.ivu-ag.com/scm/ptpdeli/ptp-dump-to-cold-copy.git
+cd ..
+Remove-Item ptp-dump-to-cold-copy
+exit
+cd %USERPROFILE%\AppData\Local\Microsoft\WindowsApps
+%USERPROFILE%
+$USERPROFILE
+cd ..
+GIT clone https://git.ivu-ag.com/scm/ptpdeli/ptp-dump-to-cold-copy.git
+CD .\ptp-dump-to-cold-copy\
+git branch
+git branch -v
+git branch -a
+git switch legacy-maintenance
+git log
+git init
+git commit -m "first commit"
+git add .
+git commit -m "first commit"
+git add .
+git commit -m "2 commit"
+cd ..
+ll
+cd .\ptp_delivery\
+git clone ssh://git@git.ivu-ag.com:7999/ptpdeli/ptp-dump-to-cold-copy.git
+vscode .
+code .
+cd ..
+ll
+cd .\ivu-plan-source\
+git remote -v
+cd ..\ptp_delivery\
+git clone ssh://git@git.ivu-ag.com:7999/ivuplan/ivu-plan-source.git
+cd .\ivu-plan-source\
+code .
+git config --show-origin blame.ignoreRevsFile
+git config --local blame.ignoreRevsFile ""
+git config --global blame.ignoreRevsFile .git-blame-ignore-revs
+git config --local  blame.ignoreRevsFile ""
+cd d:\File_Storage\File_Markdown\HTML5_CSS3_HeiMaPink_YZHNote\
+zt
+git add .
+git commit -m "add CSS Box floating position css3newfeature"
+git push -u origin HEAD
+zt
+zti .
+git add .
+git commit -m "refine the note of CSS Box"
+git push -u origin HEAD
+r:\yzh\Backup\
+cd r:\yzh\Backup\
+python 
+Python
+Pip list 
+pip list --outdated 
+pip list --outdated
+pip install GitPython
+pip list --outdated
+Pip list 
+cd r:\yzh\Backup_App\
+git init
+git add .
+git commit -m "first commit"
+git remote -v
+git remote add origin https://github.com/Yanbo-Zhu/Backup_App.git
+git push -u origin HEAD
+git status
+c:\Users\yzh\AppData\Local\Programs\Python\Python311\pythonw.exe r:\yzh\Backup_App\UpdateAndUpload.py
+c:\Users\yzh\AppData\Local\Programs\Python\Python311\python.exe r:\yzh\Backup_App\UpdateAndUpload.py
+cd d:\File_Storage\File_Markdown\JavaSE_HanShunPing_YZHNote\
+git status
+git add .
+git commit -m "commit"
+git push -u origin HEAD
+cd ..
+ll
+cd .\HTML5_CSS3_HeiMaPink_YZHNote\
+git status
+git add .
+git commit -m "commit"
+git push -u origin HEAD
+c:\Users\yzh\AppData\Local\Programs\Python\Python311\python.exe r:\yzh\Backup_App\UpdateAndUpload.py
+\\BVSH05FILE01.IVU-AG.COM\tausch-bln$\yzh\test.cmd
+cat (Get-PSReadlineOption).HistorySavePath
+Get-History | Format-List -Property *
+Get-History | Format-List 
+git status

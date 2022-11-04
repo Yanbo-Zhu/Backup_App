@@ -234,6 +234,7 @@ def handleRemoveReadonly(func, path, exc):
 def gitRepoSynchron(target_path: str):
     repo = git.Repo(path=target_path)
     repo.git.add(u=True)
+    repo.git.add(all=True)
     repo.index.commit('commit at ' + str(strftime(time_format)))
     repo.remotes.origin.push()
     repo.remotes.origin.pull()

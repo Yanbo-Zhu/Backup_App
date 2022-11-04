@@ -1,0 +1,34 @@
+
+Veröffentlichung zugint. Bearbeiten durch Linienvariantsbearbeitungsfenster: die Veränderung bei Stopflag wird automatisch auf anderen Fahrten mit unterschiedlich LV ausgeholt, auch wenn nicht zugint. bearbeiten
+
+
+Background:
+ 
+Fahrt 035 mit I29_S11, auf AA schon mit  Fahrtbezogene nV flag gesetzt.
+Fahrt 036 mit I29_S11e, auf AA schon als nV Stopflag gesetzt.
+Die beide Fahrten sind in demselben Zug
+
+
+In Linienvariant I29_S11 , AA mit nicht aktivierte Stopflag "nicht veröffentlicht"
+In Linienvariant I29_S11e , AA mit aktivierte Stopflag "nicht veröffentlicht"
+
+Tessprozess:
+0: zugint. bearbeiten deaktivieren 
+1 Auf Linienvariantsbearbeitungsfenster: nicht veröffentlicht flag aufheben auf AA am Linienvariant I29_S11e 
+2 Auf Fahrt 036: Flag "nicht veröffentlicht" wurde  aufgeheben
+3 Aber auf Fahrt 035: 
+Flag "nicht veröffentlicht" wurde auch aufgeheben -> 
+
+Aber Fehler passiert alle Typ von Stopflag
+
+
+Testdaten: 
+Qs222a, RAIL,  MPI 
+01-Mon, ICE29, S/E
+Linienvariante: I29_S11, I29_S11b bis I29_S11e
+
+Fahrt: 
+035 in I29_S11,
+036 in I29_S11e
+
+Test am 2022.10.18: k:\QS\QS_Feature\E22FPL\E22FPL-2698_StopFlagsTrainIntegrated\22.2.0-20221011-0831-1665469902\bin64\

@@ -1,0 +1,12 @@
+https://confluence.ivu.de/jira/browse/E22FPL-3038
+Fahrtenprogramm sturzt ab, nachdem Linienvarianteliste Fenster geöffnet wird
+
+1 Fahrtenprogramm öffnen 
+2 Hauptmenü Netz und Liniendaten, dann Linienvarianteliste Fenster öffnen 
+3 Fahrtenprogramm friert ein -> Nicht OK 
+
+Testdaten: 
+Qs222a, RAIL,  MPI 
+01-Mon, ICE29, S/E
+Linienvariante: I29_S11, I29_S11b bis I29_S11e
+k:\QS\QS_2220\22.2.0-20221024-1945-945519\bin64\
