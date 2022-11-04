@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
+            <state relative-caret-position="164">
+              <caret line="151" column="31" selection-start-line="151" selection-start-column="4" selection-end-line="151" selection-end-column="31" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -96,30 +96,36 @@
       <pane id="Scope" />
     </panes>
   </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="本地" commandHistoryFileName="Backup_App-history" />
+    </option>
+  </component>
   <component name="ToolWindowManager">
     <editor active="true" />
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15903175" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.50085616" visible="true" weight="0.15903175" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="3" side_tool="true" visible="true" weight="0.15903175" />
+      <window_info id="Structure" order="3" sideWeight="0.49914384" side_tool="true" visible="true" weight="0.15903175" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.4074244" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30176646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Python Packages" order="4" />
       <window_info anchor="bottom" id="TODO" order="5" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3302257" />
       <window_info anchor="bottom" id="Problems View" order="8" weight="0.3302257" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.24288517" />
       <window_info anchor="bottom" id="Services" order="10" />
       <window_info anchor="right" id="Notifications" order="0" weight="0.250122" />
     </layout>
     <recentWindows>
+      <value>Run</value>
+      <value>Terminal</value>
       <value>Structure</value>
       <value>Project</value>
-      <value>Run</value>
       <value>Notifications</value>
       <value>Problems View</value>
       <value>Python Console</value>
@@ -159,8 +165,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
+        <state relative-caret-position="164">
+          <caret line="151" column="31" selection-start-line="151" selection-start-column="4" selection-end-line="151" selection-end-column="31" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
