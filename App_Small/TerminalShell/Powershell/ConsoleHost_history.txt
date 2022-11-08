@@ -270,3 +270,6 @@ cat (Get-PSReadlineOption).HistorySavePath
 Get-History | Format-List -Property *
 Get-History | Format-List 
 git status
+install-module puppetBolt
+bolt
+bolt -h
