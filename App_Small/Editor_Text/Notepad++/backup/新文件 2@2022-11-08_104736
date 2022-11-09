@@ -1,0 +1,12 @@
+!contents -g -p -f -h
+
+|import|
+|de.ivu.mb.tools.fitnesse.systemtestcases.config|
+
+!|script|Config|
+|add server;|ARL|http://e20-s1965a-a01|20000|20000|
+|set database connection|jdbc:oracle:thin:ARL/arl@e20-s1965a-d01:1521:IVU|
+| set database | IVU |
+| set company name | ARL |
+| set database schema | ARL |
+| set database password | arl |

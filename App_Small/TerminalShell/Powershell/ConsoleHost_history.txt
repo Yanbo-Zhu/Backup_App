@@ -273,3 +273,17 @@ git status
 install-module puppetBolt
 bolt
 bolt -h
+git branch -a
+git branch 
+cd e:\build\git\ivu-plan-source\
+git status
+git restore . 
+git pull --rebase
+zti .
+git switch -c DEVOPS-1965_Fault_appServer_name_in_Fitnesse_konfiguration_file_baseOn_legacyMaintenance
+git push -u origin HEAD
+git branch
+git status
+git add .
+git commit -m "Devops-1965: Fix(content.txt.epp, servers.txt.epp, map_tag.pp, configure_fitnesse.pp): add new variable tag name of App Server and use it in template File instead of tag (value of tag = company name)" 
+git push -u origin HEAD

@@ -5,17 +5,5 @@
         <entry key="E:/build/IntelliJ/caches/system/upsource/client_libraries/2020.1.1992" value="1667323564291" />
       </map>
     </option>
-    <option name="connectionInfos">
-      <map>
-        <entry key="http://d1vse22ups01.ivu-ag.com:8080/">
-          <value>
-            <MyUpsourceConnectionInfo>
-              <option name="accessTime" value="1667323564807" />
-              <option name="refreshToken" value="u8MCpVYgpViDPEl5tUjDGODxGF3xhC1644849316438" />
-            </MyUpsourceConnectionInfo>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </application>

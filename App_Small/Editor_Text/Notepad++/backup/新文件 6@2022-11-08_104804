@@ -1,0 +1,25 @@
+!include -c <FrontPage.PerformanceTests.Includes.Servers
+!include -c <FrontPage.PerformanceTests.Includes.Variables
+
+!|Config|
+|default schema|
+|${DEFAULT_SCHEMA}|
+
+!|Config|
+|ivu plan root path|
+|${IVU_PLAN_ROOT_PATH}|
+
+!|Config|
+|ivu plan version|
+|${IVU_PLAN_VERSION}|
+
+!|Config|
+|ivu plan revision|
+|${IVU_PLAN_REVISION}|
+
+|import|
+|de.ivu.mb.tools.fitnesse.systemtestcases.fixture.checkserver|
+
+|check server|
+|check server|
+|ARL|
