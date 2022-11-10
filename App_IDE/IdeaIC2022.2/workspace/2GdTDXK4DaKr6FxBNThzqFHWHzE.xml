@@ -1228,9 +1228,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mb2java/tools/systemtest/fitnesse/systemtestcases/src/main/java/de/ivu/mb/tools/fitnesse/systemtestcases/fixture/interfaces/interfaceclient/systemtestactions/SystemTestActionsRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="979">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="259">
+              <caret line="53" column="96" selection-start-line="53" selection-start-column="76" selection-end-line="53" selection-end-column="96" />
               <folding>
+                <element signature="e#1467#1468#0" expanded="true" />
+                <element signature="e#1513#1514#0" expanded="true" />
                 <element signature="e#1571#1572#0" expanded="true" />
                 <element signature="e#1602#1603#0" expanded="true" />
               </folding>
@@ -1245,7 +1247,7 @@
       <summary usageCount="1" lastUsed="1667306640769" />
     </fileType>
     <fileType name="JAVA">
-      <summary usageCount="1" lastUsed="1667905543014" />
+      <summary usageCount="3" lastUsed="1668001535351" />
     </fileType>
     <fileType name="PLAIN_TEXT">
       <summary usageCount="11" lastUsed="1667905387175" />
@@ -1257,8 +1259,8 @@
       <summary usageCount="2" lastUsed="1666718116456" />
     </fileType>
   </component>
-  <component name="GitSEFilterConfiguration"><![CDATA[{
-}]]></component>
+  <component name="GitSEFilterConfiguration">{
+}</component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
@@ -1277,7 +1279,7 @@
       <summary usageCount="1" lastUsage="1667306640769" />
     </language>
     <language id="JAVA">
-      <summary usageCount="1" lastUsage="1667905543014" />
+      <summary usageCount="3" lastUsage="1668001535354" />
     </language>
     <language id="Properties">
       <summary usageCount="5" lastUsage="1667296591453" />
@@ -1292,7 +1294,6 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1309,6 +1310,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1333,9 +1335,9 @@
     <layout>
       <window_info id="Commit" weight="0.32977617" />
       <window_info id="Bookmarks" order="0" side_tool="true" weight="0.1803748" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.171365" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.64489484" visible="true" weight="0.17152524" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="3" side_tool="true" visible="true" weight="0.171365" />
+      <window_info id="Structure" order="3" sideWeight="0.3551051" side_tool="true" visible="true" weight="0.17152524" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -1345,14 +1347,14 @@
       <window_info anchor="bottom" id="Problems View" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.27526987" />
       <window_info anchor="bottom" id="Services" order="8" weight="0.3302257" />
-      <window_info anchor="bottom" id="Reviews" order="9" visible="true" weight="0.19315788" />
+      <window_info anchor="bottom" id="Reviews" order="9" visible="true" weight="0.22129539" />
       <window_info anchor="right" id="Ant" order="0" weight="0.32977617" />
       <window_info anchor="right" id="News Feed" order="1" />
       <window_info anchor="right" id="Notifications" order="2" weight="0.20640291" />
     </layout>
     <recentWindows>
-      <value>Project</value>
       <value>Reviews</value>
+      <value>Project</value>
       <value>Structure</value>
       <value>Notifications</value>
       <value>Bookmarks</value>
@@ -1472,9 +1474,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mb2java/tools/systemtest/fitnesse/systemtestcases/src/main/java/de/ivu/mb/tools/fitnesse/systemtestcases/fixture/interfaces/interfaceclient/systemtestactions/SystemTestActionsRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="979">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="259">
+          <caret line="53" column="96" selection-start-line="53" selection-start-column="76" selection-end-line="53" selection-end-column="96" />
           <folding>
+            <element signature="e#1467#1468#0" expanded="true" />
+            <element signature="e#1513#1514#0" expanded="true" />
             <element signature="e#1571#1572#0" expanded="true" />
             <element signature="e#1602#1603#0" expanded="true" />
           </folding>

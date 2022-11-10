@@ -1,6 +1,6 @@
 <application>
   <component name="WindowManager">
-    <frame x="-9" y="-9" width="2544" height="1205" extendedState="6" />
+    <frame x="-8" y="-8" width="1936" height="1035" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="687" y="151" key="FileChooserDialogImpl" timestamp="1666717337433">
@@ -11,9 +11,9 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="352" y="25" key="SettingsEditor/0.0.1920.1019/-1920.0.1920.1050/1920.0.1920.1050" timestamp="1666717252455" />
-    <state width="880" height="97" key="ShowUsagesActions.dimensionServiceKey" timestamp="1667905643760">
+    <state width="880" height="97" key="ShowUsagesActions.dimensionServiceKey" timestamp="1667996150418">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
-    <state width="880" height="97" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050" timestamp="1667905643760" />
+    <state width="880" height="97" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050" timestamp="1667996150418" />
   </component>
 </application>

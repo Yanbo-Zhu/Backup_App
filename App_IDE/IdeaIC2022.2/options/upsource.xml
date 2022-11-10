@@ -2,7 +2,19 @@
   <component name="UpsourceGlobalSettings">
     <option name="clientLibraryDirPath2AccessTime">
       <map>
-        <entry key="E:/build/IntelliJ/caches/system/upsource/client_libraries/2020.1.1992" value="1667323564291" />
+        <entry key="E:/build/IntelliJ/caches/system/upsource/client_libraries/2020.1.1992" value="1668001536257" />
+      </map>
+    </option>
+    <option name="connectionInfos">
+      <map>
+        <entry key="https://upsource.ivu-ag.com/">
+          <value>
+            <MyUpsourceConnectionInfo>
+              <option name="accessTime" value="1668001714569" />
+              <option name="refreshToken" value="u8MCpVYgpViDPEl5tUjDGODxGF3xhC1644849316438" />
+            </MyUpsourceConnectionInfo>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

@@ -287,3 +287,29 @@ git status
 git add .
 git commit -m "Devops-1965: Fix(content.txt.epp, servers.txt.epp, map_tag.pp, configure_fitnesse.pp): add new variable tag name of App Server and use it in template File instead of tag (value of tag = company name)" 
 git push -u origin HEAD
+git status
+git add .
+git commit --amend --no-edit
+git status 
+git push -u origin HEAD
+git pull --rebase
+git push -u origin HEAD -f
+git status
+git pull --rebase
+git status
+git pull --rebase
+git status
+git add .
+git commit -m "Devops-1965: Fix(map_tag.pp): fix a samll syntactic error in the return hash value" 
+git push -u origin HEAD
+zti .
+git pull --rebase
+exit 
+zti 
+zti .
+git status
+git pull --rebase
+git status
+git add . 
+git commit -m "Devops-1965: Fix(configure_fitnesse.pp, servers.txt.epp): fix the error about wrong database tnsname in servers.txt"
+git push -u origin HEAD
