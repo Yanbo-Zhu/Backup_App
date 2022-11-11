@@ -4,7 +4,7 @@
       <i c="9" l="1667343341493" />
     </e>
     <e n="$Undo">
-      <i c="24" l="1667579480349" />
+      <i c="33" l="1668075479924" />
     </e>
     <e n="ActivateProjectToolWindow">
       <i c="5" l="1667307636720" />
@@ -16,19 +16,19 @@
       <i c="26" l="1667603502352" />
     </e>
     <e n="CommentByLineComment">
-      <i c="11" l="1667596391191" />
+      <i c="16" l="1668075497576" />
     </e>
     <e n="Debug">
       <i c="1" l="1667578726362" />
     </e>
     <e n="EditorBackSpace">
-      <i c="995" l="1667602967445" />
+      <i c="1006" l="1668075547109" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="5" l="1667578341103" />
     </e>
     <e n="EditorCopy">
-      <i c="268" l="1667603426319" />
+      <i c="274" l="1668075544817" />
     </e>
     <e n="EditorCut">
       <i c="29" l="1667597381642" />
@@ -37,7 +37,7 @@
       <i c="123" l="1667602966216" />
     </e>
     <e n="EditorEnter">
-      <i c="197" l="1667602602445" />
+      <i c="201" l="1668075534760" />
     </e>
     <e n="EditorEscape">
       <i c="1" l="1667313841930" />
@@ -55,7 +55,7 @@
       <i c="1" l="1667577927421" />
     </e>
     <e n="EditorPaste">
-      <i c="357" l="1667603532516" />
+      <i c="366" l="1668075545688" />
     </e>
     <e n="EditorRight">
       <i c="306" l="1667602966557" />
@@ -67,7 +67,7 @@
       <i c="1" l="1667603531573" />
     </e>
     <e n="EditorTab">
-      <i c="28" l="1667602593453" />
+      <i c="30" l="1668075536705" />
     </e>
     <e n="EditorUnindentSelection">
       <i c="1" l="1667309924639" />
@@ -109,13 +109,13 @@
       <i c="6" l="1667602812110" />
     </e>
     <e n="Run">
-      <i c="86" l="1667603535671" />
+      <i c="88" l="1668075349316" />
     </e>
     <e n="RunClass">
       <i c="1" l="1667578566179" />
     </e>
     <e n="SaveAll">
-      <i c="57" l="1667603783101" />
+      <i c="62" l="1668075571049" />
     </e>
     <e n="SearchEverywhere">
       <i c="1" l="1667307076675" />
@@ -127,7 +127,7 @@
       <i c="5" l="1667579432840" />
     </e>
     <e n="TerminalNewPredefinedSession">
-      <i c="2" l="1667313727036" />
+      <i c="4" l="1668074385303" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="1" l="1667578696522" />
@@ -187,7 +187,7 @@
       <i c="1" l="1667313425926" />
     </e>
     <e n="org.jetbrains.plugins.terminal.action.TerminalNewPredefinedSessionAction$TerminalSettingsAction">
-      <i c="1" l="1666806851985" />
+      <i c="3" l="1668074386145" />
     </e>
   </component>
 </application>

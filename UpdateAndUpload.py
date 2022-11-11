@@ -180,6 +180,12 @@ def copyFileToBackupDir():
                                                     r'App_Small\Editor_Programming\sublime_text_build_4\Data')
     copyDirToDir(source_path_sublimeText, target_path_sublimeText)
 
+    # Grindstone
+    source_path_Grindstone = os.path.join(source_path_appdata_roaming,
+                                                    r'Grindstone 4')
+    target_path_Grindstone = os.path.join(target_path_tausch_BackupApp,
+                                                    r'App_Small\Grindstone')
+    copyDirToDir(source_path_Grindstone, target_path_Grindstone)
 
     #snipaste
     source_path_root_snipaste = os.path.join(source_path_userprofile, r'AppData\Local\Packages\45479liulios.17062D84F7C46_p7pnf6hceqser\LocalState')  #
@@ -194,7 +200,7 @@ def copyFileToBackupDir():
     target_path_root_ssh = os.path.join(target_path_tausch_BackupApp, 'SSH')  #
     copyDirToDir(source_path_root_ssh, target_path_root_ssh)
 
-    # IDE
+    # IDE IntelliJ IDEA
     source_path_root_JetBrains = os.path.join(source_path_userprofile, r'AppData\Roaming\JetBrains')  #
     target_path_root_JetBrains = os.path.join(target_path_tausch_BackupApp, 'App_IDE')  #
 
@@ -204,10 +210,10 @@ def copyFileToBackupDir():
         shutil.rmtree(os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository'), ignore_errors=False,
                   onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\IdeaIC2022.2\settingsRepository'
 
+    # IDE PyCharm
     copyDirToDir(os.path.join(source_path_root_JetBrains, 'PyCharmCE2022.2'),
                  os.path.join(target_path_root_JetBrains,
                               'PyCharmCE2022.2'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\PyCharmCE2022.2', r'r:\yzh\Backup\App_IDE\PyCharmCE2022.2')
-    # shutil.rmtree(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.2\settingsRepository'), ignore_errors=False, onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\IPyCharmCE2022.2\settingsRepository'
 
     print('Files synchron to Backup Dir finished!')
 

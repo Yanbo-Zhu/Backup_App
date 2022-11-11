@@ -1,0 +1,10 @@
+CanonicalDomains ivu-cloud.local
+CanonicalizeHostname yes
+AddKeysToAgent yes
+  
+Host e31-prod-pr01.ivu-cloud.local
+  HostName e31-prod-pr01.ivu-cloud.local
+  User root
+  Port 22
+  IdentityFile ~/.ssh/id_rsa
+  PreferredAuthentications publickey

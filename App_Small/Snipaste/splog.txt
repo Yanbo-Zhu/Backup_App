@@ -657,3 +657,99 @@
 [2022-11-09 22:06:18.376] [I] Preloaded 19 files: 66 ms [every 30.0 m]
 [2022-11-09 22:36:18.458] [I] Preloaded 19 files: 74 ms [every 30.0 m]
 [2022-11-09 23:06:18.534] [I] Preloaded 19 files: 69 ms [every 30.0 m]
+[2022-11-10 10:13:33.836] [I] ***************************************************************
+[2022-11-10 10:13:33.871] [I] Snipaste 2.7.3 x64 for Microsoft Store (Qt 5.12.6)
+[2022-11-10 10:13:33.871] [I] OS: Windows 10 (10.0) [10.0.19044]
+[2022-11-10 10:13:33.871] [I] Cores: 8
+[2022-11-10 10:13:33.871] [I] Elevated: false
+[2022-11-10 10:13:33.871] [I] Log level: 2
+[2022-11-10 10:13:33.871] [I] Application dir: C:/Program Files/WindowsApps/45479liulios.17062D84F7C46_2.7.3.0_x64__p7pnf6hceqser
+[2022-11-10 10:13:33.871] [I] Working dir: C:/WINDOWS/system32
+[2022-11-10 10:13:33.871] [I] Config: C:/Users/yzh/AppData/Local/Packages/45479liulios.17062D84F7C46_p7pnf6hceqser/LocalState/config.ini
+[2022-11-10 10:13:33.871] [I] Library paths: (C:/Program Files/WindowsApps/45479liulios.17062D84F7C46_2.7.3.0_x64__p7pnf6hceqser)
+[2022-11-10 10:13:33.871] [I] Screen scale: 1
+[2022-11-10 10:13:33.871] [I] Retina factor: 1
+[2022-11-10 10:13:33.871] [I] Screens: 3
+[2022-11-10 10:13:33.872] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-10 10:13:33.872] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-10 10:13:33.872] [I]     QRect(-1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-10 10:13:33.881] [I] Desktops: 2
+[2022-11-10 10:13:33.881] [I] OpenGL support: false
+[2022-11-10 10:13:33.891] [I] About to import settings from: C:/Users/yzh/AppData/Local/Packages/45479liulios.17062D84F7C46_p7pnf6hceqser/LocalState/config.ini
+[2022-11-10 10:13:33.907] [I] Settings imported
+[2022-11-10 10:13:33.910] [I] Process priority: 1
+[2022-11-10 10:13:33.910] [I] Initializing Snipaste...
+[2022-11-10 10:13:34.508] [I] Prefetch...
+[2022-11-10 10:13:34.530] [I] About to apply settings...
+[2022-11-10 10:13:34.535] [I] Preloaded 19 files: 16 ms
+[2022-11-10 10:13:34.657] [I] Settings applied
+[2022-11-10 10:13:34.670] [I] Log level set to: 2
+[2022-11-10 10:13:34.705] [I] History dir: C:/Users/yzh/AppData/Local/Packages/45479liulios.17062D84F7C46_p7pnf6hceqser/LocalState/history
+[2022-11-10 10:13:34.710] [I] Header version: 193
+[2022-11-10 10:13:34.711] [I] About to restore pasters...
+[2022-11-10 10:13:34.715] [I] Group 0 [ARUBND]: "Standard"
+[2022-11-10 10:13:34.715] [I] Record version: 193
+[2022-11-10 10:13:34.715] [I] To restore: 0
+[2022-11-10 10:13:34.715] [I] Pasters touched
+[2022-11-10 10:13:34.715] [I] All pasters activated: true
+[2022-11-10 10:13:34.775] [I] Unref images: 0 (0 removed)
+[2022-11-10 10:13:34.775] [I] Unref dirs: 0 (0 removed)
+[2022-11-10 10:13:34.776] [I] Empty history info files: 0 (0 removed)
+[2022-11-10 10:13:34.776] [I] Pasters restored
+[2022-11-10 10:13:34.776] [I] Launch time: 938 ms
+[2022-11-10 10:43:34.813] [I] Preloaded 19 files: 80 ms [every 30.0 m]
+[2022-11-10 11:13:34.894] [I] Preloaded 19 files: 64 ms [every 30.0 m]
+[2022-11-10 11:43:34.992] [I] Preloaded 19 files: 66 ms [every 30.0 m]
+[2022-11-10 12:13:35.076] [I] Preloaded 19 files: 68 ms [every 30.0 m]
+[2022-11-10 12:23:15.494] [I] Parsing command arguments [1]: (sp, snip)
+[2022-11-10 12:23:15.497] [I] Snip request: 0 (dest: 0)
+[2022-11-10 12:23:15.498] [I] Snipper: preparing...
+[2022-11-10 12:23:15.498] [I] Desktop: QRect(-1920, 0, 5760 x 1080)
+[2022-11-10 12:23:15.655] [I] Background size: QSize(5760, 1080)
+[2022-11-10 12:23:15.655] [I] Screens: 3
+[2022-11-10 12:23:15.655] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-10 12:23:15.655] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-10 12:23:15.655] [I]     QRect(-1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-10 12:23:15.663] [I] Focus set
+[2022-11-10 12:23:15.666] [I] Snipper: preparation done (0)
+[2022-11-10 12:23:15.670] [I] Snipper: about to appear...
+[2022-11-10 12:23:15.670] [I] Snipper: prepare to show...
+[2022-11-10 12:23:15.676] [I] Snipper: shown
+[2022-11-10 12:23:15.705] [I] Snipper: focus in
+[2022-11-10 12:23:15.705] [I] Snipper: ready [0.209 s]
+[2022-11-10 12:23:17.006] [I] Snipper: focus out [3] (Foreground window: Snipaste)
+[2022-11-10 12:23:19.442] [I] Snipper: focus in
+[2022-11-10 12:23:19.442] [I] Screenshot (462, 87, 1458 x 932) destination: none
+[2022-11-10 12:23:19.442] [I] Snipper: about to quit...
+[2022-11-10 12:23:19.451] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2022-11-10 12:23:19.454] [I] Snipper: hidden
+[2022-11-10 12:23:19.457] [I] Snipper: quit
+[2022-11-10 12:43:35.151] [I] Preloaded 19 files: 69 ms [every 30.0 m]
+[2022-11-10 13:13:35.220] [I] Preloaded 19 files: 67 ms [every 30.0 m]
+[2022-11-10 13:43:35.271] [I] Preloaded 19 files: 20 ms [every 30.0 m]
+[2022-11-10 14:13:35.367] [I] Preloaded 19 files: 52 ms [every 30.0 m]
+[2022-11-10 14:43:35.456] [I] Preloaded 19 files: 70 ms [every 30.0 m]
+[2022-11-10 15:13:35.544] [I] Preloaded 19 files: 81 ms [every 30.0 m]
+[2022-11-10 15:43:35.635] [I] Preloaded 19 files: 82 ms [every 30.0 m]
+[2022-11-10 16:13:35.757] [I] Preloaded 19 files: 67 ms [every 30.0 m]
+[2022-11-10 16:43:35.870] [I] Preloaded 19 files: 69 ms [every 30.0 m]
+[2022-11-10 17:13:35.963] [I] Preloaded 19 files: 71 ms [every 30.0 m]
+[2022-11-10 17:43:36.045] [I] Preloaded 19 files: 67 ms [every 30.0 m]
+[2022-11-10 18:13:36.091] [I] Preloaded 19 files: 17 ms [every 30.0 m]
+[2022-11-10 18:43:36.213] [I] Preloaded 19 files: 76 ms [every 30.0 m]
+[2022-11-10 19:13:36.306] [I] Preloaded 19 files: 70 ms [every 30.0 m]
+[2022-11-10 19:43:36.398] [I] Preloaded 19 files: 73 ms [every 30.0 m]
+[2022-11-10 20:13:36.484] [I] Preloaded 19 files: 79 ms [every 30.0 m]
+[2022-11-10 20:43:37.690] [I] Preloaded 19 files: 13 ms [every 30.0 m]
+[2022-11-10 21:13:40.778] [I] Preloaded 19 files: 17 ms [every 30.0 m]
+[2022-11-10 21:43:42.003] [I] Preloaded 19 files: 29 ms [every 30.0 m]
+[2022-11-10 22:13:40.060] [I] Preloaded 19 files: 92 ms [every 30.0 m]
+[2022-11-10 22:43:40.628] [I] Preloaded 19 files: 92 ms [every 30.0 m]
+[2022-11-10 23:13:43.141] [I] Preloaded 19 files: 23 ms [every 30.0 m]
+[2022-11-10 23:43:41.419] [I] Preloaded 19 files: 11 ms [every 30.0 m]
+[2022-11-11 00:13:40.638] [I] Preloaded 19 files: 98 ms [every 30.0 m]
+[2022-11-11 00:43:41.517] [I] Preloaded 19 files: 48 ms [every 30.0 m]
+[2022-11-11 01:13:42.493] [I] Preloaded 19 files: 95 ms [every 30.0 m]
+[2022-11-11 01:43:41.334] [I] Preloaded 19 files: 100 ms [every 30.0 m]
+[2022-11-11 02:13:43.000] [I] Preloaded 19 files: 99 ms [every 30.0 m]
+[2022-11-11 02:43:43.149] [I] Preloaded 19 files: 29 ms [every 30.0 m]

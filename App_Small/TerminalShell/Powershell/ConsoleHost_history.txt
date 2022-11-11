@@ -313,3 +313,16 @@ git status
 git add . 
 git commit -m "Devops-1965: Fix(configure_fitnesse.pp, servers.txt.epp): fix the error about wrong database tnsname in servers.txt"
 git push -u origin HEAD
+git status
+git add . 
+git commit -m "rename the folder Grindstone Database Back into Grindstone"
+git push -u orgin Head
+git push -u origin Head
+cd R:\yzh\Backup_App>
+zti .
+git status
+git branch -a
+git branch 
+git remote -v
+git branch -v
+git branch -vv
