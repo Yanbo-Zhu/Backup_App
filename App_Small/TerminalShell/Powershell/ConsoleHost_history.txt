@@ -326,3 +326,12 @@ git branch
 git remote -v
 git branch -v
 git branch -vv
+zi .
+git status
+git add .
+git commit -m "add content about flexbox"
+git push -u origin Head
+git status
+git add .
+git commit -m "add content about medien query"
+git push -u origin Head
