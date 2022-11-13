@@ -335,3 +335,6 @@ git status
 git add .
 git commit -m "add content about medien query"
 git push -u origin Head
+zi .
+git fetch
+git pull --rebase
