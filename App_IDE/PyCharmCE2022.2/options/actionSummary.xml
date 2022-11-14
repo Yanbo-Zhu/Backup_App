@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$SelectAll">
-      <i c="9" l="1667343341493" />
+      <i c="10" l="1668350452192" />
     </e>
     <e n="$Undo">
       <i c="33" l="1668075479924" />
@@ -18,11 +18,14 @@
     <e n="CommentByLineComment">
       <i c="16" l="1668075497576" />
     </e>
+    <e n="ConfigureIcs">
+      <i c="2" l="1668350449599" />
+    </e>
     <e n="Debug">
       <i c="1" l="1667578726362" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1006" l="1668075547109" />
+      <i c="1007" l="1668350452654" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="5" l="1667578341103" />
@@ -55,7 +58,7 @@
       <i c="1" l="1667577927421" />
     </e>
     <e n="EditorPaste">
-      <i c="366" l="1668075545688" />
+      <i c="368" l="1668350452898" />
     </e>
     <e n="EditorRight">
       <i c="306" l="1667602966557" />
@@ -77,6 +80,9 @@
     </e>
     <e n="EditorUpWithSelection">
       <i c="1" l="1667317187602" />
+    </e>
+    <e n="ExportSettings">
+      <i c="1" l="1668369350656" />
     </e>
     <e n="FileChooser.GotoDesktop">
       <i c="1" l="1667310541906" />
@@ -108,6 +114,9 @@
     <e n="RenameElement">
       <i c="6" l="1667602812110" />
     </e>
+    <e n="ResetToMySettings">
+      <i c="1" l="1668350486455" />
+    </e>
     <e n="Run">
       <i c="88" l="1668075349316" />
     </e>
@@ -121,7 +130,7 @@
       <i c="1" l="1667307076675" />
     </e>
     <e n="ShowSettings">
-      <i c="16" l="1667599874558" />
+      <i c="19" l="1668369906314" />
     </e>
     <e n="Stop">
       <i c="5" l="1667579432840" />

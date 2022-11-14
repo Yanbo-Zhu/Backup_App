@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$SelectAll">
-      <i c="1" l="1667323606588" />
+      <i c="7" l="1668351599036" />
     </e>
     <e n="AgpUpgrade">
       <i c="1" l="1666720227720" />
@@ -10,7 +10,7 @@
       <i c="2" l="1666720122704" />
     </e>
     <e n="ConfigureIcs">
-      <i c="6" l="1667323631428" />
+      <i c="18" l="1668351623269" />
     </e>
     <e n="EditCustomProperties">
       <i c="1" l="1666718136771" />
@@ -19,10 +19,10 @@
       <i c="1" l="1666717832001" />
     </e>
     <e n="EditorBackSpace">
-      <i c="85" l="1667905636864" />
+      <i c="97" l="1668368121752" />
     </e>
     <e n="EditorCopy">
-      <i c="4" l="1667996305000" />
+      <i c="7" l="1668350075121" />
     </e>
     <e n="EditorDown">
       <i c="2" l="1666718242235" />
@@ -31,13 +31,13 @@
       <i c="3" l="1666718242770" />
     </e>
     <e n="EditorPaste">
-      <i c="28" l="1667905539463" />
+      <i c="39" l="1668368165723" />
     </e>
     <e n="EditorUp">
       <i c="2" l="1666718209429" />
     </e>
     <e n="ExportSettings">
-      <i c="3" l="1667297478874" />
+      <i c="9" l="1668367984229" />
     </e>
     <e n="Find">
       <i c="1" l="1667905630803" />
@@ -49,10 +49,13 @@
       <i c="2" l="1667905538730" />
     </e>
     <e n="ImportSettings">
-      <i c="3" l="1667323583888" />
+      <i c="4" l="1668351483550" />
     </e>
     <e n="MergeSettings">
       <i c="1" l="1667323648103" />
+    </e>
+    <e n="ResetToMySettings">
+      <i c="2" l="1668367976028" />
     </e>
     <e n="SaveAll">
       <i c="4" l="1666718270867" />
@@ -60,8 +63,11 @@
     <e n="SettingsEntryPoint">
       <i c="3" l="1666720127529" />
     </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="2" l="1668369556332" />
+    </e>
     <e n="ShowSettings">
-      <i c="20" l="1667905368231" />
+      <i c="23" l="1668369518515" />
     </e>
     <e n="TerminalNewPredefinedSession">
       <i c="2" l="1666717603973" />

@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="142" column="94" selection-start-line="142" selection-start-column="94" selection-end-line="142" selection-end-column="94" />
+            <state relative-caret-position="128">
+              <caret line="136" column="32" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="32" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -42,7 +42,7 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="Python">
-      <summary usageCount="8" lastUsed="1668100947767" />
+      <summary usageCount="11" lastUsed="1668369899805" />
     </fileType>
   </component>
   <component name="FindInProjectRecents">
@@ -67,7 +67,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Python">
-      <summary usageCount="8" lastUsage="1668100947781" />
+      <summary usageCount="11" lastUsage="1668369899808" />
     </language>
   </component>
   <component name="ProjectView">
@@ -101,9 +101,9 @@
   <component name="ToolWindowManager">
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.50112236" visible="true" weight="0.14914107" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.50116146" visible="true" weight="0.14901844" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="3" sideWeight="0.49887764" side_tool="true" visible="true" weight="0.14914107" />
+      <window_info id="Structure" order="3" sideWeight="0.49883854" side_tool="true" visible="true" weight="0.14901844" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.3304308" />
       <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.22914621" />
@@ -118,18 +118,22 @@
       <window_info anchor="right" id="Notifications" order="0" weight="0.250122" />
     </layout>
     <recentWindows>
+      <value>Project</value>
       <value>Run</value>
       <value>Terminal</value>
       <value>Find</value>
       <value>Problems View</value>
       <value>Structure</value>
       <value>Debug</value>
-      <value>Project</value>
       <value>Notifications</value>
       <value>Python Console</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
+    <state x="545" y="291" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1668369362187">
+      <screen x="0" y="0" width="1680" height="989" />
+    </state>
+    <state x="545" y="291" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1680.989@0.0.1680.989" timestamp="1668369362187" />
     <state width="1863" height="198" key="GridCell.Tab.0.bottom" timestamp="1668075573142">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -186,9 +190,10 @@
     </state>
     <state width="1863" height="269" key="GridCell.Tab.1.right/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1667579142100" />
     <state width="1863" height="269" key="GridCell.Tab.1.right/2560.162.1920.1003/0.0.2048.1090@0.0.2048.1090" timestamp="1667603791510" />
-    <state x="364" y="117" key="SettingsEditor" timestamp="1668074391298">
-      <screen x="0" y="0" width="1920" height="1019" />
+    <state x="319" y="87" key="SettingsEditor" timestamp="1668369970251">
+      <screen x="0" y="0" width="1680" height="989" />
     </state>
+    <state x="319" y="87" key="SettingsEditor/0.0.1680.989@0.0.1680.989" timestamp="1668369970251" />
     <state x="350" y="58" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1667322714440" />
     <state x="373" y="62" key="SettingsEditor/0.0.2048.1090/2560.162.1920.1050@0.0.2048.1090" timestamp="1667341259248" />
     <state x="364" y="117" key="SettingsEditor/1920.0.1920.1019/-1920.0.1920.1050/0.0.1920.1019@0.0.1920.1019" timestamp="1668074391298" />
@@ -197,8 +202,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="142" column="94" selection-start-line="142" selection-start-column="94" selection-end-line="142" selection-end-column="94" />
+        <state relative-caret-position="128">
+          <caret line="136" column="32" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="32" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
