@@ -214,6 +214,9 @@ def copyFileToBackupDir():
     copyDirToDir(os.path.join(source_path_root_JetBrains, 'PyCharmCE2022.2'),
                  os.path.join(target_path_root_JetBrains,
                               'PyCharmCE2022.2'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\PyCharmCE2022.2', r'r:\yzh\Backup\App_IDE\PyCharmCE2022.2')
+    if os.path.exists(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.2\settingsRepository')):
+        shutil.rmtree(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.2\settingsRepository'), ignore_errors=False,
+                  onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\PyCharmCE2022.2\settingsRepository'
 
     print('Files synchron to Backup Dir finished!')
 

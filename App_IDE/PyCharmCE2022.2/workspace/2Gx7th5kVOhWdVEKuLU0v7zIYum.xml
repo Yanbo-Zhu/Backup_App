@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="136" column="32" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="32" />
+            <state relative-caret-position="572">
+              <caret line="217" column="61" selection-start-line="217" selection-start-column="35" selection-end-line="217" selection-end-column="61" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -42,7 +42,7 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="Python">
-      <summary usageCount="11" lastUsed="1668369899805" />
+      <summary usageCount="13" lastUsed="1668423982009" />
     </fileType>
   </component>
   <component name="FindInProjectRecents">
@@ -67,7 +67,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Python">
-      <summary usageCount="11" lastUsage="1668369899808" />
+      <summary usageCount="13" lastUsage="1668423982013" />
     </language>
   </component>
   <component name="ProjectView">
@@ -101,9 +101,9 @@
   <component name="ToolWindowManager">
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.50116146" visible="true" weight="0.14901844" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.50103843" visible="true" weight="0.14909711" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="3" sideWeight="0.49883854" side_tool="true" visible="true" weight="0.14901844" />
+      <window_info id="Structure" order="3" sideWeight="0.49896157" side_tool="true" visible="true" weight="0.14909711" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.3304308" />
       <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.22914621" />
@@ -130,10 +130,15 @@
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state x="545" y="291" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1668369362187">
-      <screen x="0" y="0" width="1680" height="989" />
+    <state x="664" y="321" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1668424848321">
+      <screen x="0" y="0" width="2048" height="1090" />
     </state>
     <state x="545" y="291" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1680.989@0.0.1680.989" timestamp="1668369362187" />
+    <state x="664" y="321" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/2560.162.1920.1003/0.0.2048.1090@0.0.2048.1090" timestamp="1668424848321" />
+    <state x="751" y="222" key="FileChooserDialogImpl" timestamp="1668424692735">
+      <screen x="0" y="0" width="2048" height="1090" />
+    </state>
+    <state x="751" y="222" key="FileChooserDialogImpl/2560.162.1920.1003/0.0.2048.1090@0.0.2048.1090" timestamp="1668424692735" />
     <state width="1863" height="198" key="GridCell.Tab.0.bottom" timestamp="1668075573142">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -202,8 +207,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="136" column="32" selection-start-line="136" selection-start-column="32" selection-end-line="136" selection-end-column="32" />
+        <state relative-caret-position="572">
+          <caret line="217" column="61" selection-start-line="217" selection-start-column="35" selection-end-line="217" selection-end-column="61" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
