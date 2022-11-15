@@ -51,7 +51,7 @@ def copyFileToFile(source_path: str, target_path: str):
     # copy the file into a directory
     shutil.copy(source_path, target_path)
 
-    print('Copy files finished!: ' + source_path + '  to  ' + target_path)
+    print('Copy files finished: ' + source_path + '  to  ' + target_path)
 
 
 def copyFileToDir(source_path: str, source_filename: str, target_path_root: str):
@@ -73,7 +73,7 @@ def copyFileToDir(source_path: str, source_filename: str, target_path_root: str)
     # copy the file into a directory
     shutil.copy(source_path, target_path)
 
-    print('Copy files finished!: ' + source_path + '  to  ' + target_path)
+    print('Copy files finished: ' + source_path + '  to  ' + target_path)
 
 
 def copyDirToDir(source_path: str, target_path: str):
@@ -175,23 +175,23 @@ def copyFileToBackupDir():
 
     # Sublime Text 4
     source_path_sublimeText = os.path.join(source_path_dDrive_smallapp,
-                                                    r'Editor_ForProgramming\sublime_text_build_4126_x64\Data')
+                                           r'Editor_ForProgramming\sublime_text_build_4126_x64\Data')
     target_path_sublimeText = os.path.join(target_path_tausch_BackupApp,
-                                                    r'App_Small\Editor_Programming\sublime_text_build_4\Data')
+                                           r'App_Small\Editor_Programming\sublime_text_build_4\Data')
     copyDirToDir(source_path_sublimeText, target_path_sublimeText)
 
     # Grindstone
     source_path_Grindstone = os.path.join(source_path_appdata_roaming,
-                                                    r'Grindstone 4')
+                                          r'Grindstone 4')
     target_path_Grindstone = os.path.join(target_path_tausch_BackupApp,
-                                                    r'App_Small\Grindstone')
+                                          r'App_Small\Grindstone')
     copyDirToDir(source_path_Grindstone, target_path_Grindstone)
 
-    #snipaste
-    source_path_root_snipaste = os.path.join(source_path_userprofile, r'AppData\Local\Packages\45479liulios.17062D84F7C46_p7pnf6hceqser\LocalState')  #
+    # snipaste
+    source_path_root_snipaste = os.path.join(source_path_userprofile,
+                                             r'AppData\Local\Packages\45479liulios.17062D84F7C46_p7pnf6hceqser\LocalState')  #
     target_path_root_snipaste = os.path.join(target_path_tausch_BackupApp, 'App_Small\Snipaste')  #
     copyDirToDir(source_path_root_snipaste, target_path_root_snipaste)
-
 
     ################
 
@@ -208,15 +208,14 @@ def copyFileToBackupDir():
                                                                                         'IdeaIC2022.2'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\IdeaIC2022.2', r'r:\yzh\Backup\App_IDE\IdeaIC2022.2')
     if os.path.exists(os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository')):
         shutil.rmtree(os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository'), ignore_errors=False,
-                  onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\IdeaIC2022.2\settingsRepository'
+                      onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\IdeaIC2022.2\settingsRepository'
 
     # IDE PyCharm
-    copyDirToDir(os.path.join(source_path_root_JetBrains, 'PyCharmCE2022.2'),
-                 os.path.join(target_path_root_JetBrains,
-                              'PyCharmCE2022.2'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\PyCharmCE2022.2', r'r:\yzh\Backup\App_IDE\PyCharmCE2022.2')
+    copyDirToDir(os.path.join(source_path_root_JetBrains, 'PyCharmCE2022.2'), os.path.join(target_path_root_JetBrains,
+                                                                                           'PyCharmCE2022.2'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\PyCharmCE2022.2', r'r:\yzh\Backup\App_IDE\PyCharmCE2022.2')
     if os.path.exists(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.2\settingsRepository')):
         shutil.rmtree(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.2\settingsRepository'), ignore_errors=False,
-                  onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\PyCharmCE2022.2\settingsRepository'
+                      onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\PyCharmCE2022.2\settingsRepository'
 
     print('Files synchron to Backup Dir finished!')
 

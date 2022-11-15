@@ -1,9 +1,9 @@
 <application>
   <component name="DimensionService">
-    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1863" height="198" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1863" height="198" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1863" height="198" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1863" height="198" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1863" height="210" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1863" height="210" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1863" height="210" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1863" height="210" />
     <size key="GridCell.Tab.0.left.0.0.2527.1225@150dpi" width="2455" height="424" />
     <size key="GridCell.Tab.0.center.0.0.2527.1225@150dpi" width="2455" height="424" />
     <size key="GridCell.Tab.0.right.0.0.2527.1225@150dpi" width="2455" height="424" />
