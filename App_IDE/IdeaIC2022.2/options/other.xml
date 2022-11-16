@@ -34,22 +34,23 @@
     "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "源",
     "defaultJdkConfigured": "true",
     "eclipse.projects.detected": "",
-    "file.gist.reindex.count": "5",
+    "file.gist.reindex.count": "7",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
-    "fontSizeToResetEditor": "13.0",
+    "fontSizeToResetEditor": "14.0",
     "got.it.tooltip.reader.mode.got.it": "1",
     "gotit.previous.run": "IC-222.4345.14",
     "ide.memory.adjusted": "true",
     "installed.kotlin.plugin.version": "222-1.7.10-release-334-IJ4345.14",
-    "last_opened_file_path": "E:/JAVA_DEV_TOOLS",
-    "previousColorScheme": "_@user_High contrast",
+    "last_opened_file_path": "C:/Users/yzh/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShellPreview_8wekyb3d8bbwe/pwsh.exe",
+    "previousColorScheme": "_@user_Darcula",
     "registry.to.advanced.settings.migration.build": "IC-222.4345.14",
     "settings.code.style.selected.tab.JAVA": "Imports",
     "tasks.pass.word.conversion.enforced": "true"
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "C:/Users/yzh/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShellPreview_8wekyb3d8bbwe/pwsh.exe",
       "E:/JAVA_DEV_TOOLS",
       "E:/build/git/ivu-plan-source"
     ],
@@ -63,7 +64,7 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="ivu-plan-source-history" project-path="E:/build/git/ivu-plan-source" last-access-time="1666719534473" />
+      <command-history-file filename="ivu-plan-source-history" project-path="E:/build/git/ivu-plan-source" last-access-time="1668510639365" />
     </command-history-files>
   </component>
 </application>

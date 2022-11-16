@@ -338,3 +338,9 @@ git push -u origin Head
 zi .
 git fetch
 git pull --rebase
+cd d:\File_Storage\File_Markdown\Javascript_HeiMaPink_YZHNote\
+git init
+git add .
+git commit -m "add content about javascript basic"
+git remote add origin https://github.com/Yanbo-Zhu/Javascript.git
+git push -u origin master

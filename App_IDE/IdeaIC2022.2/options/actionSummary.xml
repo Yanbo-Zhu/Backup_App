@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$SelectAll">
-      <i c="7" l="1668351599036" />
+      <i c="8" l="1668510616132" />
     </e>
     <e n="AgpUpgrade">
       <i c="1" l="1666720227720" />
@@ -19,7 +19,7 @@
       <i c="1" l="1666717832001" />
     </e>
     <e n="EditorBackSpace">
-      <i c="97" l="1668368121752" />
+      <i c="101" l="1668510673118" />
     </e>
     <e n="EditorCopy">
       <i c="7" l="1668350075121" />
@@ -31,7 +31,7 @@
       <i c="3" l="1666718242770" />
     </e>
     <e n="EditorPaste">
-      <i c="39" l="1668368165723" />
+      <i c="40" l="1668510616787" />
     </e>
     <e n="EditorUp">
       <i c="2" l="1666718209429" />
@@ -67,7 +67,7 @@
       <i c="2" l="1668369556332" />
     </e>
     <e n="ShowSettings">
-      <i c="23" l="1668369518515" />
+      <i c="26" l="1668510652872" />
     </e>
     <e n="TerminalNewPredefinedSession">
       <i c="2" l="1666717603973" />
@@ -83,6 +83,9 @@
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1666717322160" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="2" l="1668510523253" />
     </e>
     <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
       <i c="1" l="1667905336966" />

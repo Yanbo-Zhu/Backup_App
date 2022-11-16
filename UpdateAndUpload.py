@@ -272,6 +272,7 @@ def main():
     gitRepoSynchron(r'\\BVSH05FILE01.IVU-AG.COM\tausch-bln$\yzh\Backup_App')
     gitRepoSynchron(r'd:\File_Storage\File_Markdown\HTML5_CSS3_HeiMaPink_YZHNote')
     gitRepoSynchron(r'd:\File_Storage\File_Markdown\JavaSE_HanShunPing_YZHNote')
+    gitRepoSynchron(r'd:\File_Storage\File_Markdown\Javascript_HeiMaPink_YZHNote')
 
 
 if __name__ == '__main__':
