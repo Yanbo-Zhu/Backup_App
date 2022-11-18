@@ -8,7 +8,6 @@
         <Replace name="" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="D:\SmallApp\TextEditor\Notepad++\change.log" />
         <File filename="D:\SmallApp\TextEditor\Notepad++\readme.txt" />
         <File filename="R:\yzh\Backup\App_Small\GrindstoneDataBaseBackup\manifest.json" />
         <File filename="C:\Users\yzh\AppData\Roaming\obsidian\obsidian.json" />
@@ -18,6 +17,7 @@
         <File filename="C:\Users\yzh\AppData\Local\Packages\Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe\LocalState\settings.json" />
         <File filename="C:\Users\yzh\AppData\Roaming\Grindstone 4\Backups\manifest.json" />
         <File filename="C:\Users\yzh\AppData\Roaming\Grindstone 4\config.json" />
+        <File filename="r:\yzh\0_IVU_Unterlagen_YZH\0_&#x91CD;&#x8981;\Ranorex_StartSkript\RunRanorex.py" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />

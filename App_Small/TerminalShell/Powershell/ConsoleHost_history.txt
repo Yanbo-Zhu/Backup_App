@@ -345,3 +345,12 @@ git commit -m "add content about javascript basic"
 git remote add origin https://github.com/Yanbo-Zhu/Javascript.git
 git push -u origin master
 choco
+cd e:\build\git\
+cd .\ivu-plan-source\
+git branch -a
+zti .
+cd .\ivu-plan-source\
+git worktree add E:/build/git/ivu-plan-source_releasebranch/R211 releases/R21/R211
+zti .
+git branch -a
+:q
