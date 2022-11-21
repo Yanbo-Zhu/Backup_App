@@ -1,19 +1,25 @@
 <application>
   <component name="WindowManager">
-    <frame x="-8" y="-8" width="1936" height="1035" extendedState="6" />
+    <frame x="-8" y="-8" width="2576" height="1395" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="687" y="151" key="FileChooserDialogImpl" timestamp="1666717337433">
-      <screen x="0" y="0" width="1920" height="1019" />
+    <state x="916" y="204" key="FileChooserDialogImpl" timestamp="1668966144050">
+      <screen x="0" y="0" width="2560" height="1379" />
     </state>
     <state x="687" y="151" key="FileChooserDialogImpl/0.0.1920.1019/-1920.0.1920.1050/1920.0.1920.1050" timestamp="1666717337433" />
-    <state x="352" y="25" key="SettingsEditor" timestamp="1666717252455">
-      <screen x="0" y="0" width="1920" height="1019" />
+    <state x="916" y="204" key="FileChooserDialogImpl/0.0.2560.1379" timestamp="1668966144050" />
+    <state x="469" y="34" key="SettingsEditor" timestamp="1668966152486">
+      <screen x="0" y="0" width="2560" height="1379" />
     </state>
     <state x="352" y="25" key="SettingsEditor/0.0.1920.1019/-1920.0.1920.1050/1920.0.1920.1050" timestamp="1666717252455" />
+    <state x="469" y="34" key="SettingsEditor/0.0.2560.1379" timestamp="1668966152486" />
     <state width="880" height="97" key="ShowUsagesActions.dimensionServiceKey" timestamp="1667996150418">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state width="880" height="97" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050" timestamp="1667996150418" />
+    <state x="1280" y="594" width="1000" height="813" key="WELCOME_SCREEN" timestamp="1668966124713">
+      <screen x="0" y="0" width="2560" height="1379" />
+    </state>
+    <state x="1280" y="594" width="1000" height="813" key="WELCOME_SCREEN/0.0.2560.1379" timestamp="1668966124713" />
   </component>
 </application>

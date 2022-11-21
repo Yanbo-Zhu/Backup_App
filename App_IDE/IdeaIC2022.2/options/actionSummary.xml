@@ -10,7 +10,7 @@
       <i c="2" l="1666720122704" />
     </e>
     <e n="ConfigureIcs">
-      <i c="18" l="1668351623269" />
+      <i c="20" l="1668966356470" />
     </e>
     <e n="EditCustomProperties">
       <i c="1" l="1666718136771" />
@@ -31,7 +31,7 @@
       <i c="3" l="1666718242770" />
     </e>
     <e n="EditorPaste">
-      <i c="40" l="1668510616787" />
+      <i c="41" l="1668966358044" />
     </e>
     <e n="EditorUp">
       <i c="2" l="1666718209429" />
@@ -79,7 +79,7 @@
       <i c="1" l="1667904671546" />
     </e>
     <e n="WelcomeScreen.Configure.Import">
-      <i c="1" l="1666717253353" />
+      <i c="2" l="1668966138919" />
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1666717322160" />
@@ -100,7 +100,7 @@
       <i c="5" l="1667905488404" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
-      <i c="1" l="1666717289601" />
+      <i c="2" l="1668966108304" />
     </e>
     <e n="com.intellij.space.vcs.actions.SpaceMainToolBarAction">
       <i c="2" l="1666720130832" />
