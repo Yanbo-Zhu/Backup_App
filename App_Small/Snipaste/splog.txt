@@ -1714,3 +1714,97 @@
 [2022-11-29 01:44:13.442] [I] Preloaded 28 files: 13 ms [every 30.0 m]
 [2022-11-29 02:14:13.498] [I] Preloaded 28 files: 16 ms [every 30.0 m]
 [2022-11-29 02:44:13.540] [I] Preloaded 28 files: 15 ms [every 30.0 m]
+[2022-11-29 03:14:13.674] [I] Preloaded 28 files: 108 ms [every 30.0 m]
+[2022-11-29 03:44:13.804] [I] Preloaded 28 files: 104 ms [every 30.0 m]
+[2022-11-29 04:14:13.843] [I] Preloaded 28 files: 17 ms [every 30.0 m]
+[2022-11-29 04:44:13.875] [I] Preloaded 28 files: 10 ms [every 30.0 m]
+[2022-11-29 05:14:13.907] [I] Preloaded 28 files: 16 ms [every 30.0 m]
+[2022-11-29 05:44:13.924] [I] Preloaded 28 files: 8 ms [every 30.0 m]
+[2022-11-29 06:14:13.951] [I] Preloaded 28 files: 15 ms [every 30.0 m]
+[2022-11-29 06:44:13.971] [I] Preloaded 28 files: 15 ms [every 30.0 m]
+[2022-11-29 07:14:13.996] [I] Preloaded 28 files: 14 ms [every 30.0 m]
+[2022-11-29 07:44:14.025] [I] Preloaded 28 files: 11 ms [every 30.0 m]
+[2022-11-29 08:14:14.045] [I] Preloaded 28 files: 15 ms [every 30.0 m]
+[2022-11-29 08:44:14.081] [I] Preloaded 28 files: 15 ms [every 30.0 m]
+[2022-11-29 09:14:14.227] [I] Preloaded 28 files: 75 ms [every 30.0 m]
+[2022-11-29 09:44:14.396] [I] Preloaded 28 files: 92 ms [every 30.0 m]
+[2022-11-29 10:14:14.569] [I] Preloaded 28 files: 109 ms [every 30.0 m]
+[2022-11-29 10:44:14.695] [I] Preloaded 28 files: 73 ms [every 30.0 m]
+[2022-11-29 11:13:48.509] [I] Parsing command arguments [1]: (sp, snip)
+[2022-11-29 11:13:48.514] [I] Snip request: 0 (dest: 0)
+[2022-11-29 11:13:48.515] [I] Snipper: preparing...
+[2022-11-29 11:13:48.516] [I] Desktop: QRect(-1920, 0, 5760 x 1080)
+[2022-11-29 11:13:48.629] [I] Background size: QSize(5760, 1080)
+[2022-11-29 11:13:48.629] [I] Screens: 3
+[2022-11-29 11:13:48.629] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-29 11:13:48.629] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-29 11:13:48.629] [I]     QRect(-1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-29 11:13:48.644] [I] Focus set
+[2022-11-29 11:13:48.648] [I] Snipper: preparation done (0)
+[2022-11-29 11:13:48.650] [I] Snipper: about to appear...
+[2022-11-29 11:13:48.650] [I] Snipper: prepare to show...
+[2022-11-29 11:13:48.656] [I] Snipper: shown
+[2022-11-29 11:13:48.692] [I] Snipper: focus in
+[2022-11-29 11:13:48.693] [I] Snipper: ready [0.178 s]
+[2022-11-29 11:13:53.693] [I] Screenshot (378, 168, 915 x 561) destination: clipboard, 
+[2022-11-29 11:13:53.705] [I] Screenshot successfully saved: clipboard, 
+[2022-11-29 11:13:53.714] [I] Snipper: about to quit...
+[2022-11-29 11:13:53.722] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2022-11-29 11:13:53.727] [I] Snipper: hidden
+[2022-11-29 11:13:53.728] [I] Snipper: quit
+[2022-11-29 11:13:54.122] [I] Snipper: scene saved
+[2022-11-29 11:14:14.850] [I] Preloaded 28 files: 107 ms [every 30.0 m]
+[2022-11-29 11:24:57.785] [I] Parsing command arguments [1]: (sp, snip)
+[2022-11-29 11:24:57.785] [I] Snip request: 0 (dest: 0)
+[2022-11-29 11:24:57.785] [I] Snipper: preparing...
+[2022-11-29 11:24:57.785] [I] Desktop: QRect(-1920, 0, 5760 x 1080)
+[2022-11-29 11:24:57.914] [I] Background size: QSize(5760, 1080)
+[2022-11-29 11:24:57.914] [I] Screens: 3
+[2022-11-29 11:24:57.914] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-29 11:24:57.914] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-29 11:24:57.914] [I]     QRect(-1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-11-29 11:24:57.920] [I] Focus set
+[2022-11-29 11:24:57.921] [I] Snipper: preparation done (0)
+[2022-11-29 11:24:57.922] [I] Snipper: about to appear...
+[2022-11-29 11:24:57.922] [I] Snipper: prepare to show...
+[2022-11-29 11:24:57.926] [I] Snipper: shown
+[2022-11-29 11:24:57.964] [I] Snipper: focus in
+[2022-11-29 11:24:57.965] [I] Snipper: ready [0.179 s]
+[2022-11-29 11:24:59.688] [I] Snipper: focus out [3] (Foreground window: Snipaste)
+[2022-11-29 11:25:01.021] [I] Snipper: focus in
+[2022-11-29 11:25:01.021] [I] Screenshot (4, 146, 1912 x 869) destination: none
+[2022-11-29 11:25:01.021] [I] Snipper: about to quit...
+[2022-11-29 11:25:01.031] [I] Snipper: focus out [3] (Foreground window: Snipper - Snipaste)
+[2022-11-29 11:25:01.042] [I] Snipper: hidden
+[2022-11-29 11:25:01.051] [I] Snipper: quit
+[2022-11-29 11:44:14.897] [I] Preloaded 28 files: 13 ms [every 30.0 m]
+[2022-11-29 12:14:15.020] [I] Preloaded 28 files: 82 ms [every 30.0 m]
+[2022-11-29 12:44:15.106] [I] Preloaded 28 files: 73 ms [every 30.0 m]
+[2022-11-29 13:14:15.216] [I] Preloaded 28 files: 90 ms [every 30.0 m]
+[2022-11-29 13:44:15.309] [I] Preloaded 28 files: 72 ms [every 30.0 m]
+[2022-11-29 14:14:15.409] [I] Preloaded 28 files: 80 ms [every 30.0 m]
+[2022-11-29 14:44:15.496] [I] Preloaded 28 files: 75 ms [every 30.0 m]
+[2022-11-29 15:14:15.589] [I] Preloaded 28 files: 74 ms [every 30.0 m]
+[2022-11-29 15:44:15.703] [I] Preloaded 28 files: 96 ms [every 30.0 m]
+[2022-11-29 16:14:15.786] [I] Preloaded 28 files: 77 ms [every 30.0 m]
+[2022-11-29 16:44:15.809] [I] Preloaded 28 files: 11 ms [every 30.0 m]
+[2022-11-29 17:14:15.897] [I] Preloaded 28 files: 70 ms [every 30.0 m]
+[2022-11-29 17:44:15.986] [I] Preloaded 28 files: 73 ms [every 30.0 m]
+[2022-11-29 18:14:16.118] [I] Preloaded 28 files: 72 ms [every 30.0 m]
+[2022-11-29 18:44:16.262] [I] Preloaded 28 files: 81 ms [every 30.0 m]
+[2022-11-29 19:14:16.403] [I] Preloaded 28 files: 85 ms [every 30.0 m]
+[2022-11-29 19:44:16.461] [I] Preloaded 28 files: 15 ms [every 30.0 m]
+[2022-11-29 20:14:16.512] [I] Preloaded 28 files: 12 ms [every 30.0 m]
+[2022-11-29 20:44:16.552] [I] Preloaded 28 files: 11 ms [every 30.0 m]
+[2022-11-29 21:14:16.607] [I] Preloaded 28 files: 17 ms [every 30.0 m]
+[2022-11-29 21:44:16.638] [I] Preloaded 28 files: 16 ms [every 30.0 m]
+[2022-11-29 22:14:16.681] [I] Preloaded 28 files: 16 ms [every 30.0 m]
+[2022-11-29 22:44:16.712] [I] Preloaded 28 files: 17 ms [every 30.0 m]
+[2022-11-29 23:14:16.743] [I] Preloaded 28 files: 12 ms [every 30.0 m]
+[2022-11-29 23:44:16.772] [I] Preloaded 28 files: 12 ms [every 30.0 m]
+[2022-11-30 00:14:16.800] [I] Preloaded 28 files: 15 ms [every 30.0 m]
+[2022-11-30 00:44:16.827] [I] Preloaded 28 files: 13 ms [every 30.0 m]
+[2022-11-30 01:14:16.859] [I] Preloaded 28 files: 11 ms [every 30.0 m]
+[2022-11-30 01:44:16.881] [I] Preloaded 28 files: 11 ms [every 30.0 m]
+[2022-11-30 02:14:16.910] [I] Preloaded 28 files: 16 ms [every 30.0 m]
+[2022-11-30 02:44:16.928] [I] Preloaded 28 files: 9 ms [every 30.0 m]

@@ -354,3 +354,7 @@ git worktree add E:/build/git/ivu-plan-source_releasebranch/R211 releases/R21/R2
 zti .
 git branch -a
 :q
+ping bvsg05file03
+ping bvsh05file03
+ping Bvsh05file03
+ping bvsh05file03.ivu-ag.com
