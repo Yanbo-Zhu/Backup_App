@@ -358,3 +358,10 @@ ping bvsg05file03
 ping bvsh05file03
 ping Bvsh05file03
 ping bvsh05file03.ivu-ag.com
+cd D:\File_Storage\File_Markdown\Javascript_HeiMaPink_YZHNote
+git log -oneline
+git log --oneline
+git log --oneline --decorate
+git log --oneline --decorate --graph
+git log --oneline --decorate --graph --all
+git status
