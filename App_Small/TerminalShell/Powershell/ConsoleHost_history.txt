@@ -365,3 +365,5 @@ git log --oneline --decorate
 git log --oneline --decorate --graph
 git log --oneline --decorate --graph --all
 git status
+ping 119.75.217.26
+ping www.baidu.com
