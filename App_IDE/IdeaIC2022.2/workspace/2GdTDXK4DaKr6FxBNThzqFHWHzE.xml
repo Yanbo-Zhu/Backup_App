@@ -1228,8 +1228,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mb2java/tools/systemtest/fitnesse/systemtestcases/src/main/java/de/ivu/mb/tools/fitnesse/systemtestcases/fixture/interfaces/interfaceclient/systemtestactions/SystemTestActionsRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="110">
+              <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
               <folding>
                 <element signature="e#1467#1468#0" expanded="true" />
                 <element signature="e#1513#1514#0" expanded="true" />
@@ -1247,7 +1247,7 @@
       <summary usageCount="1" lastUsed="1667306640769" />
     </fileType>
     <fileType name="JAVA">
-      <summary usageCount="13" lastUsed="1668966323469" />
+      <summary usageCount="14" lastUsed="1670234028517" />
     </fileType>
     <fileType name="PLAIN_TEXT">
       <summary usageCount="11" lastUsed="1667905387175" />
@@ -1279,7 +1279,7 @@
       <summary usageCount="1" lastUsage="1667306640769" />
     </language>
     <language id="JAVA">
-      <summary usageCount="13" lastUsage="1668966323472" />
+      <summary usageCount="14" lastUsage="1670234028531" />
     </language>
     <language id="Properties">
       <summary usageCount="5" lastUsage="1667296591453" />
@@ -1294,6 +1294,7 @@
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1305,7 +1306,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1330,9 +1330,9 @@
     <layout>
       <window_info id="Commit" weight="0.32977617" />
       <window_info id="Bookmarks" order="0" side_tool="true" weight="0.1803748" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.64392203" visible="true" weight="0.15013666" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.64411765" visible="true" weight="0.15021119" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="3" sideWeight="0.35607797" side_tool="true" visible="true" weight="0.15013666" />
+      <window_info id="Structure" order="3" sideWeight="0.35588235" side_tool="true" visible="true" weight="0.15021119" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -1340,7 +1340,7 @@
       <window_info anchor="bottom" id="TODO" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Problems View" order="6" weight="0.3174681" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2751994" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.27474403" />
       <window_info anchor="bottom" id="Services" order="8" weight="0.3302257" />
       <window_info anchor="bottom" id="Reviews" order="9" weight="0.22423945" />
       <window_info anchor="right" id="Ant" order="0" weight="0.32977617" />
@@ -1348,9 +1348,9 @@
       <window_info anchor="right" id="Notifications" order="2" weight="0.20640291" />
     </layout>
     <recentWindows>
+      <value>Terminal</value>
       <value>Project</value>
       <value>Structure</value>
-      <value>Terminal</value>
       <value>Reviews</value>
       <value>Services</value>
       <value>Problems View</value>
@@ -1379,10 +1379,11 @@
     <state x="686" y="185" key="FileChooserDialogImpl/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1668510618900" />
     <state x="2606" y="191" key="FileChooserDialogImpl/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@1920.0.1920.1050" timestamp="1667323585490" />
     <state x="722" y="173" key="FileChooserDialogImpl/0.0.2021.949@0.0.2021.949" timestamp="1668351486042" />
-    <state x="504" y="78" width="1394" height="918" key="SettingsEditor" timestamp="1668510675840">
-      <screen x="0" y="0" width="1920" height="1019" />
+    <state x="497" y="0" width="1375" height="878" key="SettingsEditor" timestamp="1670235154704">
+      <screen x="0" y="0" width="1893" height="878" />
     </state>
     <state x="226" y="69" width="1394" height="918" key="SettingsEditor/0.0.1680.989@0.0.1680.989" timestamp="1668369599332" />
+    <state x="497" y="0" width="1375" height="878" key="SettingsEditor/0.0.1893.878@0.0.1893.878" timestamp="1670235154704" />
     <state x="303" y="94" width="1428" height="902" key="SettingsEditor/0.0.1920.1019/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1019" timestamp="1666720548845" />
     <state x="504" y="78" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1668510675840" />
     <state x="2178" y="88" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@1920.0.1920.1050" timestamp="1667905379912" />
@@ -1476,8 +1477,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mb2java/tools/systemtest/fitnesse/systemtestcases/src/main/java/de/ivu/mb/tools/fitnesse/systemtestcases/fixture/interfaces/interfaceclient/systemtestactions/SystemTestActionsRunner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="110">
+          <caret line="16" column="60" lean-forward="true" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
           <folding>
             <element signature="e#1467#1468#0" expanded="true" />
             <element signature="e#1513#1514#0" expanded="true" />

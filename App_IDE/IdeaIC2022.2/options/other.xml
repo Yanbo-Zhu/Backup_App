@@ -25,6 +25,8 @@
     "FileTemplates.SelectedTemplate": "HTML File",
     "InstalledPluginsSearchHistory": "Code Generation\nchi\nch\ncho\nchom",
     "MarketplacePluginsSearchHistory": "Sync  settings\nSync\nSync p\nSync plugins﻿\nupsource",
+    "NextRunPlatformUpdateBuild": "IC-222.4459.24/2022.2.4",
+    "NextRunPlatformUpdateVersion": "2022.2.4",
     "NonModalCommitCustomization.IsApplied": "true",
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.se.text.search": "true",
@@ -66,7 +68,7 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="ivu-plan-source-history" project-path="E:/build/git/ivu-plan-source" last-access-time="1668966324089" />
+      <command-history-file filename="ivu-plan-source-history" project-path="E:/build/git/ivu-plan-source" last-access-time="1670234035178" />
     </command-history-files>
   </component>
 </application>

@@ -3,6 +3,9 @@
     <e n="$SelectAll">
       <i c="8" l="1668510616132" />
     </e>
+    <e n="About">
+      <i c="1" l="1670234193302" />
+    </e>
     <e n="AgpUpgrade">
       <i c="1" l="1666720227720" />
     </e>
@@ -54,6 +57,9 @@
     <e n="MergeSettings">
       <i c="1" l="1667323648103" />
     </e>
+    <e n="RegisterPlugins">
+      <i c="1" l="1670235202810" />
+    </e>
     <e n="ResetToMySettings">
       <i c="2" l="1668367976028" />
     </e>
@@ -67,7 +73,7 @@
       <i c="2" l="1668369556332" />
     </e>
     <e n="ShowSettings">
-      <i c="26" l="1668510652872" />
+      <i c="28" l="1670235147231" />
     </e>
     <e n="TerminalNewPredefinedSession">
       <i c="2" l="1666717603973" />
