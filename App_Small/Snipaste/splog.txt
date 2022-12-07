@@ -2135,3 +2135,83 @@
 [2022-12-05 22:50:07.137] [I] Preloaded 28 files: 83 ms [every 30.0 m]
 [2022-12-05 23:20:07.265] [I] Preloaded 28 files: 95 ms [every 30.0 m]
 [2022-12-05 23:50:07.302] [I] Preloaded 28 files: 11 ms [every 30.0 m]
+[2022-12-06 09:07:28.037] [I] ***************************************************************
+[2022-12-06 09:07:28.082] [I] Snipaste 2.8.2 x64 for Microsoft Store (Qt 6.2.4)
+[2022-12-06 09:07:28.082] [I] OS: Windows 10 Version 2009 [10.0.19044]
+[2022-12-06 09:07:28.083] [I] Cores: 8
+[2022-12-06 09:07:28.083] [I] Elevated: false
+[2022-12-06 09:07:28.084] [I] Log level: 2
+[2022-12-06 09:07:28.084] [I] Application dir: C:/Program Files/WindowsApps/45479liulios.17062D84F7C46_2.8.200.0_x64__p7pnf6hceqser
+[2022-12-06 09:07:28.084] [I] Working dir: C:/WINDOWS/system32
+[2022-12-06 09:07:28.084] [I] Config: C:/Users/yzh/AppData/Local/Packages/45479liulios.17062D84F7C46_p7pnf6hceqser/LocalState/config.ini
+[2022-12-06 09:07:28.084] [I] Library paths: (C:/Program Files/WindowsApps/45479liulios.17062D84F7C46_2.8.200.0_x64__p7pnf6hceqser)
+[2022-12-06 09:07:28.084] [I] Screen scale: 1
+[2022-12-06 09:07:28.084] [I] Retina factor: 1
+[2022-12-06 09:07:28.084] [I] Screens: 3
+[2022-12-06 09:07:28.084] [I]     QRect(0, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-12-06 09:07:28.084] [I]     QRect(1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-12-06 09:07:28.084] [I]     QRect(-1920, 0, 1920 x 1080), DPI = 96 , DPR = 1
+[2022-12-06 09:07:28.100] [I] Desktops: 2
+[2022-12-06 09:07:28.100] [I] Compatability layer: DetectorsAppHealth
+[2022-12-06 09:07:28.100] [I] About to import settings from: C:/Users/yzh/AppData/Local/Packages/45479liulios.17062D84F7C46_p7pnf6hceqser/LocalState/config.ini
+[2022-12-06 09:07:28.115] [I] Settings imported
+[2022-12-06 09:07:28.134] [I] OpenGL acceleration: false
+[2022-12-06 09:07:28.139] [I] Process priority: 1
+[2022-12-06 09:07:28.140] [I] Initializing Snipaste...
+[2022-12-06 09:07:29.389] [I] Prefetch...
+[2022-12-06 09:07:29.419] [I] Preloaded 28 files: 29 ms
+[2022-12-06 09:07:29.448] [I] About to apply settings...
+[2022-12-06 09:07:29.577] [I] Settings applied
+[2022-12-06 09:07:29.595] [I] Log level set to: 2
+[2022-12-06 09:07:29.728] [I] History dir: C:/Users/yzh/AppData/Local/Packages/45479liulios.17062D84F7C46_p7pnf6hceqser/LocalState/history
+[2022-12-06 09:07:29.736] [I] Header version: 194
+[2022-12-06 09:07:29.737] [I] About to restore pasters...
+[2022-12-06 09:07:29.744] [I] Group 0 [ARUBND]: "Standard"
+[2022-12-06 09:07:29.744] [I] Record version: 194
+[2022-12-06 09:07:29.744] [I] To restore: 0
+[2022-12-06 09:07:29.744] [I] Pasters touched
+[2022-12-06 09:07:29.744] [I] All pasters activated: true
+[2022-12-06 09:07:29.872] [I] Unref images: 0 (0 removed)
+[2022-12-06 09:07:29.877] [I] Unref dirs: 0 (0 removed)
+[2022-12-06 09:07:29.878] [I] Empty history info files: 0 (0 removed)
+[2022-12-06 09:07:29.878] [I] Pasters restored
+[2022-12-06 09:07:29.879] [I] Launch time: 1841 ms
+[2022-12-06 09:15:14.785] [I] Preloaded 28 files: 60 ms [every 7.8 m]
+[2022-12-06 09:24:55.873] [I] Preloaded 28 files: 80 ms [every 9.7 m]
+[2022-12-06 09:37:02.960] [I] Preloaded 28 files: 84 ms [every 12.1 m]
+[2022-12-06 09:52:11.045] [I] Preloaded 28 files: 75 ms [every 15.1 m]
+[2022-12-06 10:11:06.093] [I] Preloaded 28 files: 13 ms [every 18.9 m]
+[2022-12-06 10:34:45.187] [I] Preloaded 28 files: 72 ms [every 23.7 m]
+[2022-12-06 11:04:19.273] [I] Preloaded 28 files: 75 ms [every 29.6 m]
+[2022-12-06 11:34:19.381] [I] Preloaded 28 files: 84 ms [every 30.0 m]
+[2022-12-06 12:04:19.499] [I] Preloaded 28 files: 106 ms [every 30.0 m]
+[2022-12-06 12:34:19.656] [I] Preloaded 28 files: 114 ms [every 30.0 m]
+[2022-12-06 13:04:19.798] [I] Preloaded 28 files: 113 ms [every 30.0 m]
+[2022-12-06 13:34:19.890] [I] Preloaded 28 files: 76 ms [every 30.0 m]
+[2022-12-06 14:04:20.013] [I] Preloaded 28 files: 109 ms [every 30.0 m]
+[2022-12-06 14:34:20.084] [I] Preloaded 28 files: 29 ms [every 30.0 m]
+[2022-12-06 15:04:20.220] [I] Preloaded 28 files: 73 ms [every 30.0 m]
+[2022-12-06 15:34:20.370] [I] Preloaded 28 files: 124 ms [every 30.0 m]
+[2022-12-06 16:04:20.489] [I] Preloaded 28 files: 108 ms [every 30.0 m]
+[2022-12-06 16:34:20.604] [I] Preloaded 28 files: 109 ms [every 30.0 m]
+[2022-12-06 17:04:20.747] [I] Preloaded 28 files: 75 ms [every 30.0 m]
+[2022-12-06 17:34:20.898] [I] Preloaded 28 files: 105 ms [every 30.0 m]
+[2022-12-06 18:04:20.995] [I] Preloaded 28 files: 75 ms [every 30.0 m]
+[2022-12-06 18:34:21.152] [I] Preloaded 28 files: 138 ms [every 30.0 m]
+[2022-12-06 19:04:21.205] [I] Preloaded 28 files: 26 ms [every 30.0 m]
+[2022-12-06 19:34:21.322] [I] Preloaded 28 files: 76 ms [every 30.0 m]
+[2022-12-06 20:04:21.424] [I] Preloaded 28 files: 73 ms [every 30.0 m]
+[2022-12-06 20:34:21.666] [I] Preloaded 28 files: 231 ms [every 30.0 m]
+[2022-12-06 20:56:51.706] [I] Preloaded 28 files: 18 ms [every 22.5 m]
+[2022-12-06 21:24:59.757] [I] Preloaded 28 files: 20 ms [every 28.1 m]
+[2022-12-06 21:54:59.840] [I] Preloaded 28 files: 31 ms [every 30.0 m]
+[2022-12-06 22:24:59.882] [I] Preloaded 28 files: 15 ms [every 30.0 m]
+[2022-12-06 22:54:59.930] [I] Preloaded 28 files: 23 ms [every 30.0 m]
+[2022-12-06 23:24:59.979] [I] Preloaded 28 files: 31 ms [every 30.0 m]
+[2022-12-06 23:55:00.039] [I] Preloaded 28 files: 13 ms [every 30.0 m]
+[2022-12-07 00:25:00.103] [I] Preloaded 28 files: 30 ms [every 30.0 m]
+[2022-12-07 00:55:00.166] [I] Preloaded 28 files: 27 ms [every 30.0 m]
+[2022-12-07 01:25:00.217] [I] Preloaded 28 files: 29 ms [every 30.0 m]
+[2022-12-07 01:55:00.255] [I] Preloaded 28 files: 17 ms [every 30.0 m]
+[2022-12-07 02:25:00.319] [I] Preloaded 28 files: 16 ms [every 30.0 m]
+[2022-12-07 02:55:00.377] [I] Preloaded 28 files: 26 ms [every 30.0 m]

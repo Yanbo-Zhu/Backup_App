@@ -30,7 +30,7 @@
         <GUIConfig name="TabBar" dragAndDrop="yes" drawTopBar="yes" drawInactiveTab="yes" reduce="yes" closeButton="yes" doubleClick2Close="no" vertical="no" multiLine="yes" hide="no" quitOnEmpty="no" iconSetNumber="0" />
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
-        <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
+        <GUIConfig name="TabSetting" replaceBySpace="yes" size="4" />
         <GUIConfig name="AppPosition" x="785" y="128" width="1168" height="988" isMaximized="yes" />
         <GUIConfig name="FindWindowPosition" left="926" top="427" right="1614" bottom="791" isLessModeOn="no" />
         <GUIConfig name="FinderConfig" wrappedLines="no" purgeBeforeEverySearch="no" showOnlyOneEntryPerFoundLine="yes" />
