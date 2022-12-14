@@ -4,7 +4,7 @@
       <i c="8" l="1668510616132" />
     </e>
     <e n="About">
-      <i c="1" l="1670234193302" />
+      <i c="2" l="1670925152397" />
     </e>
     <e n="AgpUpgrade">
       <i c="1" l="1666720227720" />
@@ -12,8 +12,11 @@
     <e n="CWMHostShowPopupAction">
       <i c="2" l="1666720122704" />
     </e>
+    <e n="CheckForUpdate">
+      <i c="2" l="1670925112265" />
+    </e>
     <e n="ConfigureIcs">
-      <i c="20" l="1668966356470" />
+      <i c="21" l="1670924647030" />
     </e>
     <e n="EditCustomProperties">
       <i c="1" l="1666718136771" />
@@ -22,7 +25,7 @@
       <i c="1" l="1666717832001" />
     </e>
     <e n="EditorBackSpace">
-      <i c="101" l="1668510673118" />
+      <i c="120" l="1670925008459" />
     </e>
     <e n="EditorCopy">
       <i c="7" l="1668350075121" />
@@ -52,10 +55,13 @@
       <i c="2" l="1667905538730" />
     </e>
     <e n="ImportSettings">
-      <i c="4" l="1668351483550" />
+      <i c="5" l="1670924735855" />
     </e>
     <e n="MergeSettings">
       <i c="1" l="1667323648103" />
+    </e>
+    <e n="ProductivityGuide">
+      <i c="1" l="1670925099805" />
     </e>
     <e n="RegisterPlugins">
       <i c="1" l="1670235202810" />
@@ -73,7 +79,7 @@
       <i c="2" l="1668369556332" />
     </e>
     <e n="ShowSettings">
-      <i c="28" l="1670235147231" />
+      <i c="32" l="1670924991963" />
     </e>
     <e n="TerminalNewPredefinedSession">
       <i c="2" l="1666717603973" />
@@ -99,6 +105,9 @@
     <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
       <i c="2" l="1667905332642" />
     </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1670925115420" />
+    </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="2" l="1667306493667" />
     </e>
@@ -112,7 +121,7 @@
       <i c="2" l="1666720130832" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
-      <i c="2" l="1666717586933" />
+      <i c="3" l="1670924910260" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="1" l="1666718477299" />

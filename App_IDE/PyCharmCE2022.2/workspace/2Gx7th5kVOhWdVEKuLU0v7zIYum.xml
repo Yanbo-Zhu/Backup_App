@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="274" column="82" lean-forward="true" selection-start-line="274" selection-start-column="82" selection-end-line="274" selection-end-column="82" />
+            <state relative-caret-position="199">
+              <caret line="263" column="28" selection-start-line="263" selection-start-column="28" selection-end-line="263" selection-end-column="28" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -42,7 +42,10 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="Python">
-      <summary usageCount="24" lastUsed="1668548162206" />
+      <summary usageCount="27" lastUsed="1670928613720" />
+    </fileType>
+    <fileType name="WebPreview">
+      <summary usageCount="1" lastUsed="1670928545945" />
     </fileType>
   </component>
   <component name="FindInProjectRecents">
@@ -67,7 +70,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Python">
-      <summary usageCount="24" lastUsage="1668548162211" />
+      <summary usageCount="27" lastUsage="1670928613723" />
     </language>
   </component>
   <component name="ProjectView">
@@ -101,9 +104,9 @@
   <component name="ToolWindowManager">
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.5016694" visible="true" weight="0.14910978" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.5022936" visible="true" weight="0.14914107" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="3" sideWeight="0.49833053" side_tool="true" visible="true" weight="0.14910978" />
+      <window_info id="Structure" order="3" sideWeight="0.4977064" side_tool="true" visible="true" weight="0.14914107" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.3304308" />
       <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.24092248" />
@@ -113,16 +116,16 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3302257" />
       <window_info anchor="bottom" id="Problems View" order="8" weight="0.3302257" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23526317" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23503435" />
       <window_info anchor="bottom" id="Services" order="10" />
       <window_info anchor="right" id="Notifications" order="0" weight="0.250122" />
     </layout>
     <recentWindows>
       <value>Project</value>
+      <value>Structure</value>
       <value>Terminal</value>
       <value>Run</value>
       <value>Problems View</value>
-      <value>Structure</value>
       <value>Find</value>
       <value>Debug</value>
       <value>Notifications</value>
@@ -135,6 +138,10 @@
     </state>
     <state x="545" y="291" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1680.989@0.0.1680.989" timestamp="1668369362187" />
     <state x="664" y="321" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/2560.162.1920.1003/0.0.2048.1090@0.0.2048.1090" timestamp="1668424848321" />
+    <state x="452" y="130" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1670928778219">
+      <screen x="0" y="0" width="1920" height="1019" />
+    </state>
+    <state x="452" y="130" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1670928778219" />
     <state x="704" y="208" key="FileChooserDialogImpl" timestamp="1668507556147">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
@@ -196,11 +203,11 @@
     </state>
     <state width="1863" height="269" key="GridCell.Tab.1.right/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1667579142100" />
     <state width="1863" height="269" key="GridCell.Tab.1.right/2560.162.1920.1003/0.0.2048.1090@0.0.2048.1090" timestamp="1667603791510" />
-    <state x="2435" y="60" key="SettingsEditor" timestamp="1668510681100">
-      <screen x="1920" y="0" width="1920" height="1050" />
+    <state x="515" y="58" width="1372" height="946" key="SettingsEditor" timestamp="1670928768434">
+      <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="319" y="87" key="SettingsEditor/0.0.1680.989@0.0.1680.989" timestamp="1668369970251" />
-    <state x="515" y="58" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1668510257028" />
+    <state x="515" y="58" width="1372" height="946" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1670928768434" />
     <state x="2435" y="60" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@1920.0.1920.1050" timestamp="1668510681100" />
     <state x="373" y="62" key="SettingsEditor/0.0.2048.1090/2560.162.1920.1050@0.0.2048.1090" timestamp="1667341259248" />
     <state x="364" y="117" key="SettingsEditor/1920.0.1920.1019/-1920.0.1920.1050/0.0.1920.1019@0.0.1920.1019" timestamp="1668074391298" />
@@ -209,8 +216,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="274" column="82" lean-forward="true" selection-start-line="274" selection-start-column="82" selection-end-line="274" selection-end-column="82" />
+        <state relative-caret-position="199">
+          <caret line="263" column="28" lean-forward="true" selection-start-line="263" selection-start-column="28" selection-end-line="263" selection-end-column="28" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

@@ -15,6 +15,9 @@
     <e n="Back">
       <i c="28" l="1668508860170" />
     </e>
+    <e n="CheckForUpdate">
+      <i c="1" l="1670928713125" />
+    </e>
     <e n="CollapseRegion">
       <i c="1" l="1668509438047" />
     </e>
@@ -141,8 +144,11 @@
     <e n="SearchEverywhere">
       <i c="1" l="1667307076675" />
     </e>
+    <e n="SettingsEntryPoint">
+      <i c="9" l="1670928770702" />
+    </e>
     <e n="ShowSettings">
-      <i c="45" l="1668510473876" />
+      <i c="50" l="1670928729458" />
     </e>
     <e n="Stop">
       <i c="5" l="1667579432840" />
@@ -165,11 +171,17 @@
     <e n="com.intellij.ide.ReopenProjectAction">
       <i c="1" l="1667310691223" />
     </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$MarketplaceSortByAction">
+      <i c="1" l="1670928296056" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
+      <i c="1" l="1670928735154" />
+    </e>
     <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
       <i c="2" l="1666806660627" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="3" l="1668508203439" />
+      <i c="4" l="1670928715671" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
       <i c="1" l="1667307065920" />
@@ -179,6 +191,9 @@
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="1" l="1667307113204" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$IdeUpdateAction">
+      <i c="3" l="1670928771532" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="1" l="1667310483898" />

@@ -27,7 +27,6 @@ com.intellij.properties|Languages
 com.intellij.gradle|Build Tools
 com.intellij.java|null
 org.jetbrains.plugins.javaFX|JVM Frameworks
-org.jetbrains.kotlin|Languages
 org.jetbrains.java.decompiler|Other Tools
 org.jetbrains.idea.eclipse|Other Tools
 org.jetbrains.debugger.streams|Other Tools

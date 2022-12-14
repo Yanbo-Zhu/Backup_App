@@ -23,32 +23,34 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "FileTemplates.SelectedTemplate": "HTML File",
-    "InstalledPluginsSearchHistory": "Code Generation\nchi\nch\ncho\nchom",
+    "InstalledPluginsSearchHistory": "setting\nsetting sy\nsetting sync\nsetting s\nsetti",
     "MarketplacePluginsSearchHistory": "Sync  settings\nSync\nSync p\nSync plugins﻿\nupsource",
-    "NextRunPlatformUpdateBuild": "IC-222.4459.24/2022.2.4",
-    "NextRunPlatformUpdateVersion": "2022.2.4",
+    "NextRunPlatformUpdateBuild": "IC-223.7571.182/2022.3",
+    "NextRunPlatformUpdateVersion": "2022.3",
     "NonModalCommitCustomization.IsApplied": "true",
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.se.text.search": "true",
-    "SettingsSearchHistory": "Code Generation\nLine commetn at first cloumn\nToolbar\nClosing Policy\nCode Style",
-    "appcds.runOnSecondStart": "IC-222.4345.14-22ebd367aa4b232d67c356eab3ce44c20e2227729e3cf4ac5a472a2a0423965e",
+    "SettingsSearchHistory": "setting\nsett\nCode Generation\nLine commetn at first cloumn\nToolbar",
+    "appcds.runOnSecondStart": "IC-222.4459.24-1543158fce8b5f653cd4b7eae5ea92288c4d4739ebf08f693132d7cd772187df",
     "ask.about.ctrl.y.shortcut.v2": "true",
-    "bundled.plugins.list.saved.version": "IC-222.4345.14",
+    "bundled.plugins.list.saved.version": "IC-222.4459.24",
     "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "源",
     "defaultJdkConfigured": "true",
     "eclipse.projects.detected": "",
-    "file.gist.reindex.count": "8",
+    "file.gist.reindex.count": "9",
     "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "13.0",
-    "fontSizeToResetEditor": "13.0",
+    "fontSizeToResetConsole": "15.0",
+    "fontSizeToResetEditor": "15.0",
     "got.it.tooltip.reader.mode.got.it": "1",
-    "gotit.previous.run": "IC-222.4345.14",
+    "gotit.previous.run": "IC-222.4459.24",
     "ide.memory.adjusted": "true",
+    "ide.self.update.started.for.build": "IC-222.4459.24",
+    "ignoreUltimateEdition": "true",
     "installed.kotlin.plugin.version": "222-1.7.21-release-272-IJ4167.29",
     "kotlin.plugin.releaseDate": "222-1.7.21-release-272-IJ4167.29:2022-11-09",
     "last_opened_file_path": "C:/Users/yzh/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShellPreview_8wekyb3d8bbwe/pwsh.exe",
-    "previousColorScheme": "_@user_High contrast",
-    "registry.to.advanced.settings.migration.build": "IC-222.4345.14",
+    "previousColorScheme": "_@user_Darcula",
+    "registry.to.advanced.settings.migration.build": "IC-222.4459.24",
     "settings.code.style.selected.tab.JAVA": "Imports",
     "tasks.pass.word.conversion.enforced": "true"
   },
@@ -68,7 +70,7 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="ivu-plan-source-history" project-path="E:/build/git/ivu-plan-source" last-access-time="1670234035178" />
+      <command-history-file filename="ivu-plan-source-history" project-path="E:/build/git/ivu-plan-source" last-access-time="1670924616418" />
     </command-history-files>
   </component>
 </application>

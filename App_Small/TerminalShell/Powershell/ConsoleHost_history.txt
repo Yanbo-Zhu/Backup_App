@@ -381,3 +381,9 @@ git remote prune origin
 git fetch --prune origin
 git gc --prune=now
 ping upsource.ivu-ag.com
+sdasdrfret
+pwd
+whoiam
+whoami
+pwd
+pwd
