@@ -387,3 +387,15 @@ whoiam
 whoami
 pwd
 pwd
+cd e:\build\git\ptp_delivery\
+git clone https://git.ivu-ag.com/scm/ptpdeli/rundeck-devops-tasks.git
+git branch -a
+cd .\rundeck-devops-tasks\
+git branch -a
+git log --oneline --decorate --graph --all
+git switch new-provisioner
+git cherry-pick c949cf5
+git push -u origin master
+git remote -v
+git branch -vv
+git push -u origin new-provisioner
