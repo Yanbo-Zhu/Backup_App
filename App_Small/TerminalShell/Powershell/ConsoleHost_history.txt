@@ -399,3 +399,37 @@ git push -u origin master
 git remote -v
 git branch -vv
 git push -u origin new-provisioner
+cd e:\build\git\ptp_delivery\ptp-dump-to-cold-copy\
+git status
+git pull --rebase
+git switch master
+git pull --rebase
+git switch new-provisioner
+git switch legacy-maintenance
+git status
+git pull --rebase
+git switch master
+git status
+git restore .
+git status
+git switch master
+git switch -c DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnMasterBranch
+git push -u origin HEAD
+git cherry-pick 62b30b1fbfd
+git push -u origin
+git cherry-pick ^df4c8db4f5b..53e9e83e51e
+git cherry-pick df4c8db4f5b^..53e9e83e51e
+git cherry-pick --abort
+git switch legacy-maintenance
+git switch -c DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnBranchLegacyMaintenance
+git push -u origin HEAD
+git log --oneline --decorate --graph --all
+git log --oneline --decorate
+git log --oneline --decorate --graph
+git log --graph --decorate --format='%Cred%h%Creset  - %C(yellow)%cr%Creset  - %cn - %Cgreen%s%Creset' $(git rev-list -g --all)
+git log --graph --decorate --format='%Cred%h%Creset  - %C(yellow)%cr%Creset  - %cn - %Cgreen%s%Creset' $(git rev-list -g)
+git log --graph --decorate --format='%Cred%h%Creset  - %C(yellow)%cr%Creset  - %cn - %Cgreen%s%Creset' $(git rev-list)
+git rebase -i 53e9e83
+git log --graph --decorate --format='%Cred%h%Creset  - %C(yellow)%cr%Creset  - %cn - %Cgreen%s%Creset' $(git rev-list)
+git status
+git push --force-with-lease origin HEAD
