@@ -1,0 +1,19 @@
+#!/bin/bash
+cd /opt/bolt/ptp-dump-to-cold-copy
+label=$(echo $RD_OPTION_LABEL | sed 's/-.*//')
+echo $label
+declare -A label_company_map
+label_company_map=( ["bvg"]="BVG" ["regio"]="IPD_R" ["ti"]="TI" ["pbus"]="POSTBUS" ["pa"]="POSTAUTO"  ["dbfv"]="DBFV" ["arl"]="ARL" ["ivu2go"]="RAIL")
+
+declare -A company_fitnessetag_map
+company_fitnessetag_map=( ["BVG"]="BVG" ["IPD_R"]="REG" ["TI"]="TI" ["POSTBUS"]="POSTBUS" ["POSTAUTO"]="POSTAUTO"  ["DBFV"]="DBFV" ["ARL"]="ARUK" ["RAIL"]="RAIL")
+
+
+#bolt plan run test::execute_fitnesse -t e20-${RD_OPTION_DEPLOYMENT}-t01.ivu-cloud.local ivuplan_version=$RD_OPTION_IVUPLAN_VERSION tag=${company_fitnessetag_map[${label_company_map[$label]}]} deployment_name=${RD_OPTION_DEPLOYMENT} --verbose
+
+bolt task run test::start_fitnesse -t e20-${RD_OPTION_DEPLOYMENT}-t01.ivu-cloud.local tag=${company_fitnessetag_map[${label_company_map[$label]}]} --verbose
+
+
+echo "The Fitnesse test was implemented successfully"
+
+

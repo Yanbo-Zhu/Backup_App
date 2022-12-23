@@ -433,3 +433,53 @@ git rebase -i 53e9e83
 git log --graph --decorate --format='%Cred%h%Creset  - %C(yellow)%cr%Creset  - %cn - %Cgreen%s%Creset' $(git rev-list)
 git status
 git push --force-with-lease origin HEAD
+zti 
+z ptp
+git status
+git cherry-pick 5410dadda0b^..fc33618aec8
+git status
+git push --force-with-lease origin HEAD
+git status
+git pull --rebase
+git status
+git add .
+git commit -m "DEVOPS-2066_fix(modules/utils/plans/map_tag.pp): in map function company_appserver_map change IPD_R=>IPD_R into IPD_R=>IPD"
+git push --force-with-lease origin HEAD
+git push origin --delete DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnBranchLegacyMaintenance
+git fetch -p
+git branch -D DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnBranchLegacyMaintenance
+git switch -c DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnBranchLegacyMaintenance
+git push -u origin HEAD
+git status
+git add .
+git commit -m "DEVOPS-2066_fix(modules/utils/plans/map_tag.pp): in map function company_appserver_map change IPD_R=>IPD_R into IPD_R=>IPD"
+git push -u origin HEAD
+git status
+git branch -a
+git switch DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnMasterBranch
+git pull --rebase
+git cherry-pick 8f60d1d49ea
+git status
+git push -u origin HEAD
+git push origin --delete DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnMasterBranch
+git fetch -p
+git branch -D DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnMasterBranch
+git fetch -p
+git branch -D DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnMasterBranch
+git status
+git branch -D DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnMasterBranch -f
+git switch DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnBranchLegacyMaintenance
+git branch -D DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnMasterBranch
+git status
+git push origin --delete DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnBranchLegacyMaintenance
+git fetch -p
+git branch -D DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnBranchLegacyMaintenance
+git switch master
+git pull --rebase
+git switch legacy-maintenance
+git pull --rebase
+git branch -D DEVOPS-2066_mapTagppFile_Bugfix_newMapFunktion_baseOnBranchLegacyMaintenance
+git push origin --delete DEVOPS-1965_Fault_appServer_name_in_Fitnesse_konfiguration_file_baseOn_legacyMaintenance
+git fetch -p
+git branch -D DEVOPS-1965_Fault_appServer_name_in_Fitnesse_konfiguration_file_baseOn_legacyMaintenance
+git pull --rebase
