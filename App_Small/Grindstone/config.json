@@ -102,14 +102,14 @@
       "ViewNavWidth": 150.0
     },
     "4CB7BD36DB82C740DBE59FD2627FC1ED61535737B089D83730D53A067B5D5F15": {
-      "FullUIHeight": null,
-      "FullUILeft": null,
-      "FullUITop": null,
-      "FullUIWidth": null,
-      "StopwatchLeft": null,
-      "StopwatchTop": null,
-      "StopwatchWidth": null,
-      "ViewNavWidth": null
+      "FullUIHeight": 600.0,
+      "FullUILeft": 1448.0,
+      "FullUITop": 50.0,
+      "FullUIWidth": 550.0,
+      "StopwatchLeft": 1215.2,
+      "StopwatchTop": 1049.6000000000001,
+      "StopwatchWidth": 400.0,
+      "ViewNavWidth": 150.0
     }
   },
   "EnabledExtensions": [],
@@ -138,7 +138,7 @@
   },
   "LastNoticeType": 1,
   "LastProActive": false,
-  "LastUpdateCheck": "2022-12-25T23:48:20.1741312Z",
+  "LastUpdateCheck": "2022-12-26T08:48:22.7937491Z",
   "MainAlwaysOnTop": true,
   "MinimumTimedPeriodDuration": "00:01:00",
   "NotifyOfAnnouncements": true,
