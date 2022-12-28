@@ -110,6 +110,16 @@
       "StopwatchTop": 1049.6000000000001,
       "StopwatchWidth": 400.0,
       "ViewNavWidth": 150.0
+    },
+    "5D334AFA4FDE3DB334692B43744D00DA05E06F94F09E81A2948AA4D7F85396B1": {
+      "FullUIHeight": null,
+      "FullUILeft": null,
+      "FullUITop": null,
+      "FullUIWidth": null,
+      "StopwatchLeft": null,
+      "StopwatchTop": null,
+      "StopwatchWidth": null,
+      "ViewNavWidth": null
     }
   },
   "EnabledExtensions": [],
@@ -126,8 +136,8 @@
   "LastSaveGraphImageFilteringPattern": null,
   "LastSaveGraphTableFilteringPattern": null,
   "LastSaveViewFilteringPattern": null,
-  "LastAnnouncementCheck": "2022-12-25T10:16:30.5070125+00:00",
-  "LastNotice": "2022-12-24T10:14:16.6573369Z",
+  "LastAnnouncementCheck": "2022-12-27T08:47:27.7179089+00:00",
+  "LastNotice": "2022-12-27T10:14:27.2912511Z",
   "LastVersion": {
     "Major": 4,
     "Minor": 0,
@@ -138,7 +148,7 @@
   },
   "LastNoticeType": 1,
   "LastProActive": false,
-  "LastUpdateCheck": "2022-12-26T08:48:22.7937491Z",
+  "LastUpdateCheck": "2022-12-27T23:46:37.3975097Z",
   "MainAlwaysOnTop": true,
   "MinimumTimedPeriodDuration": "00:01:00",
   "NotifyOfAnnouncements": true,
