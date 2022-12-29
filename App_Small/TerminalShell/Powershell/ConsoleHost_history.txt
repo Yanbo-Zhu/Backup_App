@@ -483,3 +483,9 @@ git push origin --delete DEVOPS-1965_Fault_appServer_name_in_Fitnesse_konfigurat
 git fetch -p
 git branch -D DEVOPS-1965_Fault_appServer_name_in_Fitnesse_konfiguration_file_baseOn_legacyMaintenance
 git pull --rebase
+z
+zti
+e:\build\git\ivu-plan-source_releasebranch\R222\mb2java\tools\systemtest\fitnesse\FitNesseRoot\FrontPage\PerformanceTests\Statistics\
+cd e:\build\git\ivu-plan-source_releasebranch\R222\mb2java\tools\systemtest\fitnesse\FitNesseRoot\FrontPage\PerformanceTests\Statistics\
+cd e:\build\git\ivu-plan-source_releasebranch\R222\
+git status
