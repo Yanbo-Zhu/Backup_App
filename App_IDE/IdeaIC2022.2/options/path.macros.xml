@@ -1,6 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="DEV_TOOLS" value="E:/JAVA_DEV_TOOLS" />
-    <macro name="MAVEN_REPOSITORY" value="C:/Users/yzh/.m2/repository" />
-  </component>
-</application>
