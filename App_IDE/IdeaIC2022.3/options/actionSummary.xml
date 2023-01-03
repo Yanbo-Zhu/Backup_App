@@ -1,0 +1,394 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="1" l="1672405733229" />
+    </e>
+    <e n="$Paste">
+      <i c="1" l="1672248788456" />
+    </e>
+    <e n="$SelectAll">
+      <i c="20" l="1672682681217" />
+    </e>
+    <e n="$Undo">
+      <i c="3" l="1672339672594" />
+    </e>
+    <e n="About">
+      <i c="2" l="1670925152397" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="1" l="1672696993415" />
+    </e>
+    <e n="ActivateDebugToolWindow">
+      <i c="1" l="1672696983811" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="8" l="1672582386063" />
+    </e>
+    <e n="ActivateVersionControlToolWindow">
+      <i c="1" l="1672696977258" />
+    </e>
+    <e n="AgpUpgrade">
+      <i c="1" l="1666720227720" />
+    </e>
+    <e n="Annotate">
+      <i c="1" l="1670927083818" />
+    </e>
+    <e n="Back">
+      <i c="2" l="1672355961473" />
+    </e>
+    <e n="CWMHostShowPopupAction">
+      <i c="2" l="1666720122704" />
+    </e>
+    <e n="CheckForUpdate">
+      <i c="4" l="1670925781569" />
+    </e>
+    <e n="CompareTwoFiles">
+      <i c="1" l="1672245062476" />
+    </e>
+    <e n="ConfigureIcs">
+      <i c="28" l="1672697111150" />
+    </e>
+    <e n="CopyAbsolutePath">
+      <i c="3" l="1672245995260" />
+    </e>
+    <e n="CopyFileName">
+      <i c="3" l="1672244671660" />
+    </e>
+    <e n="CopyPathFromRepositoryRootProvider">
+      <i c="1" l="1672324963232" />
+    </e>
+    <e n="CopyReferencePopupGroup">
+      <i c="8" l="1672324958133" />
+    </e>
+    <e n="Debug">
+      <i c="2" l="1672679592128" />
+    </e>
+    <e n="EditCustomProperties">
+      <i c="1" l="1666718136771" />
+    </e>
+    <e n="EditCustomVmOptions">
+      <i c="1" l="1666717832001" />
+    </e>
+    <e n="EditSource">
+      <i c="5" l="1672409409247" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="287" l="1672681346250" />
+    </e>
+    <e n="EditorCopy">
+      <i c="49" l="1672682643455" />
+    </e>
+    <e n="EditorDown">
+      <i c="2" l="1666718242235" />
+    </e>
+    <e n="EditorEnter">
+      <i c="1" l="1672409253890" />
+    </e>
+    <e n="EditorLeft">
+      <i c="3" l="1666718242770" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="2" l="1672355537172" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="3" l="1672355533998" />
+    </e>
+    <e n="EditorPaste">
+      <i c="122" l="1672682682258" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1666718209429" />
+    </e>
+    <e n="ExportSettings">
+      <i c="10" l="1672339763173" />
+    </e>
+    <e n="FileChooser.ShowHidden">
+      <i c="3" l="1672401722284" />
+    </e>
+    <e n="Find">
+      <i c="41" l="1672681339845" />
+    </e>
+    <e n="FindInPath">
+      <i c="4" l="1672580960953" />
+    </e>
+    <e n="FindSelectionInPath">
+      <i c="1" l="1672244247708" />
+    </e>
+    <e n="FindUsages">
+      <i c="2" l="1672244260140" />
+    </e>
+    <e n="GotoClass">
+      <i c="2" l="1672581123473" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="30" l="1672400850032" />
+    </e>
+    <e n="GotoFile">
+      <i c="2" l="1667905538730" />
+    </e>
+    <e n="ImportModule">
+      <i c="1" l="1672581882560" />
+    </e>
+    <e n="ImportProject">
+      <i c="1" l="1672407740131" />
+    </e>
+    <e n="ImportSettings">
+      <i c="5" l="1670924735855" />
+    </e>
+    <e n="LocalHistory.PutLabel">
+      <i c="1" l="1672680746665" />
+    </e>
+    <e n="LocalHistory.ShowHistory">
+      <i c="2" l="1672681318704" />
+    </e>
+    <e n="MarkExcludeRoot">
+      <i c="1" l="1672356005915" />
+    </e>
+    <e n="MergeSettings">
+      <i c="2" l="1672697249904" />
+    </e>
+    <e n="NewModuleInGroup">
+      <i c="3" l="1672581566448" />
+    </e>
+    <e n="OpenFile">
+      <i c="3" l="1672591396480" />
+    </e>
+    <e n="ProductivityGuide">
+      <i c="1" l="1670925099805" />
+    </e>
+    <e n="ProjectView.FlattenPackages">
+      <i c="4" l="1672697078300" />
+    </e>
+    <e n="ProjectView.HideEmptyMiddlePackages">
+      <i c="13" l="1672697080826" />
+    </e>
+    <e n="ProjectView.ShowMembers">
+      <i c="1" l="1672696786845" />
+    </e>
+    <e n="ProjectView.ShowVisibilityIcons">
+      <i c="2" l="1672696788005" />
+    </e>
+    <e n="RecentFiles">
+      <i c="2" l="1672581486410" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="2" l="1670926778454" />
+    </e>
+    <e n="RegisterPlugins">
+      <i c="1" l="1670235202810" />
+    </e>
+    <e n="ResetToMySettings">
+      <i c="2" l="1668367976028" />
+    </e>
+    <e n="RestartIde">
+      <i c="1" l="1672405640125" />
+    </e>
+    <e n="SaveAll">
+      <i c="5" l="1670930679234" />
+    </e>
+    <e n="ScopeView.EditScopes">
+      <i c="4" l="1672404363350" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="13" l="1672581071249" />
+    </e>
+    <e n="SelectInProjectView">
+      <i c="2" l="1672319202791" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="38" l="1672697742646" />
+    </e>
+    <e n="SettingsSyncOpenSettingsAction">
+      <i c="9" l="1672697255635" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="53" l="1672697179323" />
+    </e>
+    <e n="ShowSettings">
+      <i c="84" l="1672697344890" />
+    </e>
+    <e n="SmartSelect">
+      <i c="3" l="1672581489562" />
+    </e>
+    <e n="TabList">
+      <i c="6" l="1672696945304" />
+    </e>
+    <e n="TerminalNewPredefinedSession">
+      <i c="4" l="1670927101512" />
+    </e>
+    <e n="TerminalNewSession">
+      <i c="3" l="1670928920015" />
+    </e>
+    <e n="UnmarkRoot">
+      <i c="5" l="1672400491907" />
+    </e>
+    <e n="Upsource.ChangeUser">
+      <i c="6" l="1672697713165" />
+    </e>
+    <e n="Upsource.ShowMyReviews">
+      <i c="1" l="1667904671546" />
+    </e>
+    <e n="Vcs.CopyRevisionNumberAction">
+      <i c="1" l="1672328812189" />
+    </e>
+    <e n="Vcs.ShowTabbedFileHistory">
+      <i c="1" l="1672677480029" />
+    </e>
+    <e n="ViewInplaceComments">
+      <i c="3" l="1672697010708" />
+    </e>
+    <e n="ViewMembersInNavigationBar">
+      <i c="2" l="1672697020397" />
+    </e>
+    <e n="ViewToolBar">
+      <i c="6" l="1672697046802" />
+    </e>
+    <e n="WelcomeScreen.Configure.Import">
+      <i c="3" l="1670925744859" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="7" l="1672580820052" />
+    </e>
+    <e n="WelcomeScreen.RemoveSelected">
+      <i c="1" l="1672407826756" />
+    </e>
+    <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
+      <i c="4" l="1670927198856" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="1" l="1672320394918" />
+    </e>
+    <e n="com.intellij.find.SearchTextArea$ShowHistoryAction">
+      <i c="2" l="1672324881419" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="124" l="1672681350978" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.SwitchToFind">
+      <i c="15" l="1672246683630" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MyPinAction">
+      <i c="2" l="1672581066772" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+      <i c="2" l="1672328603722" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="16" l="1672697744967" />
+    </e>
+    <e n="com.intellij.ide.impl.FlattenModulesToggleAction">
+      <i c="3" l="1672406182480" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$MarketplaceSortByAction">
+      <i c="1" l="1670928379176" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$2">
+      <i c="1" l="1672400537142" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
+      <i c="1" l="1667905336966" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="4" l="1670925755169" />
+    </e>
+    <e n="com.intellij.ide.projectView.actions.MarkSourceRootAction">
+      <i c="4" l="1672399133389" />
+    </e>
+    <e n="com.intellij.ide.structureView.newStructureView.TreeActionWrapper">
+      <i c="1" l="1672244354491" />
+    </e>
+    <e n="com.intellij.ide.util.scopeChooser.ScopeChooserConfigurable$MyAddAction$1">
+      <i c="1" l="1672404157541" />
+    </e>
+    <e n="com.intellij.ide.util.scopeChooser.ScopeEditorPanel$ChooseScopeTypeAction$1">
+      <i c="2" l="1672404237213" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1672400524750" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="3" l="1672328695720" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="21" l="1672682614809" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="6" l="1672324873620" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.BaseStructureConfigurable$MyFindUsagesAction">
+      <i c="1" l="1672406179458" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.ModuleStructureConfigurable$AddModuleAction">
+      <i c="33" l="1672697134886" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$2">
+      <i c="1" l="1672337996241" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$IdeUpdateAction">
+      <i c="1" l="1672240206008" />
+    </e>
+    <e n="com.intellij.openapi.vfs.encoding.ChooseFileEncodingAction$1">
+      <i c="3" l="1672355335342" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="4" l="1670926743642" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowImpl$ToggleContentUiTypeAction">
+      <i c="4" l="1672697068393" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="5" l="1670926276211" />
+    </e>
+    <e n="com.intellij.space.vcs.actions.SpaceMainToolBarAction">
+      <i c="2" l="1666720130832" />
+    </e>
+    <e n="com.intellij.toolWindow.MoreSquareStripeButton$Companion$createAction$1">
+      <i c="1" l="1670926745806" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="19" l="1672697062572" />
+    </e>
+    <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
+      <i c="45" l="1672697132778" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1666718477299" />
+    </e>
+    <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+      <i c="2" l="1672406570535" />
+    </e>
+    <e n="com.intellij.ui.navigation.BackAction">
+      <i c="1" l="1672406242895" />
+    </e>
+    <e n="com.intellij.vcs.log.ui.filter.DateFilterPopupComponent$DateAction">
+      <i c="1" l="1672409277751" />
+    </e>
+    <e n="com.intellij.vcs.log.ui.filter.FilterPopupComponent$AllAction">
+      <i c="1" l="1672409230942" />
+    </e>
+    <e n="com.intellij.vcs.log.ui.filter.MultilinePopupBuilder$1">
+      <i c="1" l="1672409257882" />
+    </e>
+    <e n="com.intellij.vcs.log.ui.filter.MultipleValueFilterPopupComponent$SelectMultipleValuesAction">
+      <i c="1" l="1672409251183" />
+    </e>
+    <e n="com.jetbrains.upsource.idea.StatusBarConnectionIndicatorManager$doShowPopupMenu$2">
+      <i c="1" l="1672697726241" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1672594719515" />
+    </e>
+    <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$RenameBranchAction">
+      <i c="2" l="1672332668423" />
+    </e>
+    <e n="org.jetbrains.plugins.terminal.action.RenameTerminalSessionAction">
+      <i c="1" l="1670927906349" />
+    </e>
+    <e n="org.jetbrains.plugins.terminal.action.TerminalNewPredefinedSessionAction$OpenShellAction">
+      <i c="1" l="1670927098388" />
+    </e>
+    <e n="org.jetbrains.plugins.terminal.action.TerminalNewPredefinedSessionAction$TerminalSettingsAction">
+      <i c="1" l="1670927104275" />
+    </e>
+  </component>
+</application>

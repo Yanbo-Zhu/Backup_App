@@ -1,0 +1,17 @@
+<application>
+  <component name="ShownTips">
+    <option name="shownTips">
+      <map>
+        <entry key="Antivirus.html" value="1667996069586" />
+        <entry key="BreakpointIntentions.html" value="1670924405925" />
+        <entry key="EditorConfig.html" value="1667904464797" />
+        <entry key="FixDocComment.html" value="1666717501653" />
+        <entry key="JarDiff.html" value="1668349694516" />
+        <entry key="LineEndingsFolder.html" value="1668966173693" />
+        <entry key="MoveInnerToUpper.html" value="1667296606450" />
+        <entry key="ReaderMode.html" value="1668510312363" />
+        <entry key="partial_git_commit.html" value="1670234039191" />
+      </map>
+    </option>
+  </component>
+</application>

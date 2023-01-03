@@ -1,0 +1,247 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="12" l="1668510614203" />
+    </e>
+    <e n="$Undo">
+      <i c="33" l="1668075479924" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="5" l="1667307636720" />
+    </e>
+    <e n="Annotate">
+      <i c="1" l="1667342499884" />
+    </e>
+    <e n="Back">
+      <i c="29" l="1672682358629" />
+    </e>
+    <e n="CheckForUpdate">
+      <i c="1" l="1670928713125" />
+    </e>
+    <e n="CollapseRegion">
+      <i c="1" l="1668509438047" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="16" l="1668075497576" />
+    </e>
+    <e n="ConfigureIcs">
+      <i c="5" l="1672682603245" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1667578726362" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1103" l="1672682381356" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="5" l="1667578341103" />
+    </e>
+    <e n="EditorCopy">
+      <i c="280" l="1668548187325" />
+    </e>
+    <e n="EditorCut">
+      <i c="29" l="1667597381642" />
+    </e>
+    <e n="EditorDown">
+      <i c="125" l="1672682380864" />
+    </e>
+    <e n="EditorEnter">
+      <i c="204" l="1668548190531" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1667313841930" />
+    </e>
+    <e n="EditorIndentSelection">
+      <i c="1" l="1667311836405" />
+    </e>
+    <e n="EditorLeft">
+      <i c="145" l="1667602870988" />
+    </e>
+    <e n="EditorLineEnd">
+      <i c="2" l="1667342619210" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="3" l="1668507551578" />
+    </e>
+    <e n="EditorPaste">
+      <i c="376" l="1668548205778" />
+    </e>
+    <e n="EditorRight">
+      <i c="307" l="1672682377897" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1667393429527" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="1" l="1667603531573" />
+    </e>
+    <e n="EditorTab">
+      <i c="30" l="1668075536705" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="1" l="1667309924639" />
+    </e>
+    <e n="EditorUp">
+      <i c="75" l="1667602591648" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="1" l="1667317187602" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="2" l="1668509440364" />
+    </e>
+    <e n="ExportSettings">
+      <i c="2" l="1668424837586" />
+    </e>
+    <e n="FileChooser.GotoDesktop">
+      <i c="1" l="1667310541906" />
+    </e>
+    <e n="Find">
+      <i c="10" l="1672682452887" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="24" l="1672681977504" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1667307178831" />
+    </e>
+    <e n="ImportSettings">
+      <i c="1" l="1668424525501" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1667307419497" />
+    </e>
+    <e n="NewScratchFile">
+      <i c="1" l="1667310668833" />
+    </e>
+    <e n="OpenFile">
+      <i c="7" l="1667310671382" />
+    </e>
+    <e n="QuickChangeScheme">
+      <i c="1" l="1668506237078" />
+    </e>
+    <e n="RecentFiles">
+      <i c="1" l="1667307111411" />
+    </e>
+    <e n="ReformatCode">
+      <i c="17" l="1668510046174" />
+    </e>
+    <e n="RenameElement">
+      <i c="6" l="1667602812110" />
+    </e>
+    <e n="ResetToMySettings">
+      <i c="2" l="1668509903962" />
+    </e>
+    <e n="Run">
+      <i c="90" l="1668510082011" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1667578566179" />
+    </e>
+    <e n="SaveAll">
+      <i c="69" l="1668548210550" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="5" l="1672324735577" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="16" l="1672324736353" />
+    </e>
+    <e n="SettingsSyncOpenSettingsAction">
+      <i c="2" l="1672682531896" />
+    </e>
+    <e n="ShowSettings">
+      <i c="53" l="1670929097939" />
+    </e>
+    <e n="Stop">
+      <i c="5" l="1667579432840" />
+    </e>
+    <e n="TerminalNewPredefinedSession">
+      <i c="19" l="1668507940782" />
+    </e>
+    <e n="TerminalNewSession">
+      <i c="1" l="1670929085312" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1667578696522" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="4" l="1667322032257" />
+    </e>
+    <e n="com.intellij.execution.console.ConsoleExecuteAction">
+      <i c="4" l="1667320745620" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="42" l="1672682395454" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1667310691223" />
+    </e>
+    <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
+      <i c="3" l="1672324738663" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$MarketplaceSortByAction">
+      <i c="1" l="1670928296056" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$2">
+      <i c="1" l="1672323831721" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.SelectionBasedPluginModelAction$UninstallAction">
+      <i c="2" l="1670929009306" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="2" l="1666806660627" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1670928715671" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1667307065920" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1667307180749" />
+    </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="1" l="1667307113204" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
+      <i c="1" l="1672323826060" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$IdeUpdateAction">
+      <i c="4" l="1672323525875" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
+      <i c="1" l="1667310483898" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="2" l="1666806661555" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1667307657059" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1667307659730" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="2" l="1668508213286" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1667579146198" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="1" l="1667320711005" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$InterpreterSettingsAction">
+      <i c="2" l="1667320700471" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1667313425926" />
+    </e>
+    <e n="org.jetbrains.plugins.terminal.action.TerminalNewPredefinedSessionAction$OpenShellAction">
+      <i c="5" l="1668507937171" />
+    </e>
+    <e n="org.jetbrains.plugins.terminal.action.TerminalNewPredefinedSessionAction$TerminalSettingsAction">
+      <i c="8" l="1668507945275" />
+    </e>
+  </component>
+</application>

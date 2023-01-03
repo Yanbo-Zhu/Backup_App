@@ -1,0 +1,114 @@
+<application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2GdTDXK4DaKr6FxBNThzqFHWHzE">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="Default (Template) Project">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "FileChooser.ShowPath": "true",
+    "FileTemplates.SelectedTemplate": "HTML File",
+    "FindSplitterProportion": "0.35719785",
+    "InstalledPluginsSearchHistory": "Code Style\nShared Index\n/tag:theme\nterminal\nintegration",
+    "MarketplacePluginsSearchHistory": "git flow\ngit\n/tag:theme\n/tag:Keymap\n/tag:theme /sortBy:downloads",
+    "NewProjectWizard.addSampleCodeState": "false",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "Code Style\nversion con\nShared Index\nconsole\nterminal",
+    "Vcs.Log.Text.Filter.History": "yanbo\nyzh",
+    "appcds.runOnSecondStart": "IC-223.8214.52-8ff2e712133d227f2bbeb862063cede460d6f7b7d5d5866a25defcbcd187663c",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-223.8214.52",
+    "com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.0": "300",
+    "com.intellij.history.integration.ui.views.FileHistoryDialog.1": "800",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "create.project.preferred.importer": "Maven",
+    "defaultJdkConfigured": "true",
+    "eclipse.projects.detected": "",
+    "file.gist.reindex.count": "5064",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "gotit.previous.run": "IC-223.8214.52",
+    "ide.memory.adjusted": "true",
+    "ignoreUltimateEdition": "true",
+    "installed.kotlin.plugin.version": "223-1.7.21-release-272-IJ8214.52",
+    "last.imported.location": "E:/build/git/ivu-plan-source_releasebranch/R222",
+    "last_opened_file_path": "E:/build/git/ivu-plan-source_releasebranch/R221",
+    "previousColorScheme": "_@user_Darcula",
+    "project.wizard.group": "NPW.simple-module",
+    "registry.to.advanced.settings.migration.build": "IC-223.8214.52",
+    "selected.color.option.type": "TERMINAL_COMMAND_TO_RUN_USING_IDE",
+    "settings.code.style.selected.tab.JAVA": "Imports",
+    "tasks.pass.word.conversion.enforced": "true",
+    "vcs.branch.view.splitter.proportion": "0.27118644",
+    "vcs.log.changes.splitter.proportion": "0.8328125"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "E:/build/git/ivu-plan-source_releasebranch/R222",
+      "E:/build/git/ivu-plan-source_releasebranch/R221",
+      "E:/build/git/ivu-plan-source_releasebranch",
+      "E:/build/git/ivu-plan-source_releasebranch/R223",
+      "E:/build/git/ivu-plan-source",
+      "E:/build/git/ivu-plan-source_releasebranch/R222/mb2java/build/generated/workspace/pom.xml",
+      "E:/build/git/ivu-plan-source_releasebranch/R222/mb2java/tools/systemtest/fitnesse/systemtestcases/pom.xml",
+      "E:/JAVA_DEV_TOOLS/tools/java/11.0.16.1",
+      "E:/build/git/ivu-plan-source_featurebranch/R222/BT#NoTicket_DEVOPS-2070_Fitnesse_AutoLZM_globale_Parameter_numRunsForPerformanceTest_auf_20_hochziehen",
+      "E:/JAVA_DEV_TOOLS/tools/java/17.0.5+8",
+      "C:/Users/yzh/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShellPreview_8wekyb3d8bbwe/pwsh.exe",
+      "E:/JAVA_DEV_TOOLS"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector",
+      "com.android.tools.idea.profilers.capture.MemoryCaptureFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "SpeedSearch": 1670925768170,
+    "Rename": 1672319048672,
+    "FocusProjectToolWindow": 1672240119862,
+    "CommentCode": 1672696356432,
+    "ShowUsages": 1672580848963,
+    "ContextActions": 1672400630407,
+    "FindInPath": 1671098360642
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="ivu-plan-source-history1" project-path="E:/build/git/ivu-plan-source" last-access-time="1672405913014" />
+      <command-history-file filename="R222-history" project-path="E:/build/git/ivu-plan-source_releasebranch/R222" last-access-time="1672409302193" />
+      <command-history-file filename="R221-history" project-path="E:/build/git/ivu-plan-source_releasebranch/R221" last-access-time="1672679601837" />
+    </command-history-files>
+  </component>
+  <component name="TerminalUiSettingsManager">
+    <option name="cursorShape" value="VERTICAL" />
+  </component>
+</application>

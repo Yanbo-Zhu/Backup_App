@@ -1,0 +1,20 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="E:\build\git\ivu-plan-source" value="true" />
+        <entry key="E:\build\git\ivu-plan-source_featurebranch\R222\BT#NoTicket_DEVOPS-2070_Fitnesse_AutoLZM_globale_Parameter_numRunsForPerformanceTest_auf_20_hochziehen" value="true" />
+        <entry key="E:\build\git\ivu-plan-source_releasebranch\R221" value="true" />
+        <entry key="E:\build\git\ivu-plan-source_releasebranch\R222" value="true" />
+        <entry key="E:\build\git\ivu-plan-source_releasebranch\R223" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="E:\build\git" />
+      </list>
+    </option>
+  </component>
+</application>

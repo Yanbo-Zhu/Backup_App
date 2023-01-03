@@ -1,0 +1,122 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>EditorConfig</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="2GgOIpm3Gc680n3t3ul5A633knX">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gwk7EprCoxOUQfHP1M8Ykbn40Q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GwkEcV3EkSG2cZnsWriuHWNplq">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GwmBV9oHCzsedPwlm8yqnewFwj">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2GwrsexgvwWpovaO6CSmiZge68Q">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="2Gx7th5kVOhWdVEKuLU0v7zIYum">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="14.0" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "FileChooser.ShowPath": "true",
+    "InstalledPluginsSearchHistory": "sche\nsch\nsc\ns\nterminal",
+    "MarketplacePluginsSearchHistory": "python\np\n/tag:theme\n/tag:theme /sortBy:downloads\nschema",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "console\n字体\n终端\nterminal\n换行",
+    "appcds.runOnSecondStart": "PC-223.8214.51-ed75767aa5508fb08e470b1982eee8f9df25a3ffc592ea4b308ed498fe654c8e",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PC-223.8214.51",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "11",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "15.0",
+    "gotit.previous.run": "PC-223.8214.51",
+    "ide.memory.adjusted": "true",
+    "last_opened_file_path": "C:/Users/yzh/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShellPreview_8wekyb3d8bbwe/pwsh.exe",
+    "previousColorScheme": "_@user_Monokai",
+    "registry.to.advanced.settings.migration.build": "PC-223.8214.51",
+    "selected.color.option.type": "TERMINAL_COMMAND_TO_RUN_USING_IDE",
+    "tasks.pass.word.conversion.enforced": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "C:/Users/yzh/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShellPreview_8wekyb3d8bbwe/pwsh.exe",
+      "R:/yzh/Backup_App",
+      "R:/yzh/Backup",
+      "R:/yzh/0_IVU_Unterlagen_YZH/0_重要/Ranorex_StartSkript",
+      "D:/File_Storage/File_Markdown/HTML5_CSS3_HeiMaPink_YZHNote"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "CtrlW": 1670929030907,
+    "SpeedSearch": 1672323518731,
+    "ShowUsages": 1672675871571
+  }
+}]]></component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Backup_App-history1" project-path="R:/yzh/Backup_App" last-access-time="1672675855417" />
+    </command-history-files>
+  </component>
+  <component name="TerminalUiSettingsManager">
+    <option name="cursorShape" value="VERTICAL" />
+  </component>
+</application>

@@ -617,3 +617,39 @@ cd e:\build\git\ivu-plan-source_releasebranch\R222\
 git status
 ll
 git status
+cd e:\build\git\ivu-plan-source_releasebranch\R221\
+git status
+ll
+git pull --rebase
+git status
+cd r:\yzh\Backup_App\App_IDE\
+git status
+git add .
+git status
+git commmit -m "delete alle IDE setting becaust alle IDE were updated into v2022.3"\
+git commit -m "delete alle IDE setting becaust alle IDE were updated into v2022.3"
+git push origin master HEAD
+git pull --rebase
+git push origin master
+git push -u origin HEAD
+cd e:\build\git\ivu-plan-source_releasebranch\R221\
+mvn -version
+cd .\mb2java\
+mvn -version
+mvn clean
+git status
+git worktree remove E:/build/git/ivu-plan-source_releasebranch/R221
+cd ..
+git worktree remove E:/build/git/ivu-plan-source_releasebranch/R221
+cd ..
+ll
+zi .
+git worktree prune
+git pull --rebase
+git worktree add E:/build/git/ivu-plan-source_releasebranch/R221 releases/R22/R221
+cd e:\build\git\ivu-plan-source_releasebranch\R222\
+git pull --rebase
+cd .\mb2java\
+mvn -version
+git status
+git pull --rebase

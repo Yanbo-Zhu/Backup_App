@@ -204,17 +204,17 @@ def copyFileToBackupDir():
     source_path_root_JetBrains = os.path.join(source_path_userprofile, r'AppData\Roaming\JetBrains')  #
     target_path_root_JetBrains = os.path.join(target_path_tausch_BackupApp, 'App_IDE')  #
 
-    copyDirToDir(os.path.join(source_path_root_JetBrains, 'IdeaIC2022.2'), os.path.join(target_path_root_JetBrains,
-                                                                                        'IdeaIC2022.2'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\IdeaIC2022.2', r'r:\yzh\Backup\App_IDE\IdeaIC2022.2')
-    if os.path.exists(os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository')):
-        shutil.rmtree(os.path.join(target_path_root_JetBrains, r'IdeaIC2022.2\settingsRepository'), ignore_errors=False,
+    copyDirToDir(os.path.join(source_path_root_JetBrains, 'IdeaIC2022.3'), os.path.join(target_path_root_JetBrains,
+                                                                                        'IdeaIC2022.3'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\IdeaIC2022.2', r'r:\yzh\Backup\App_IDE\IdeaIC2022.2')
+    if os.path.exists(os.path.join(target_path_root_JetBrains, r'IdeaIC2022.3\settingsRepository')):
+        shutil.rmtree(os.path.join(target_path_root_JetBrains, r'IdeaIC2022.3\settingsRepository'), ignore_errors=False,
                       onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\IdeaIC2022.2\settingsRepository'
 
     # IDE PyCharm
-    copyDirToDir(os.path.join(source_path_root_JetBrains, 'PyCharmCE2022.2'), os.path.join(target_path_root_JetBrains,
-                                                                                           'PyCharmCE2022.2'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\PyCharmCE2022.2', r'r:\yzh\Backup\App_IDE\PyCharmCE2022.2')
-    if os.path.exists(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.2\settingsRepository')):
-        shutil.rmtree(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.2\settingsRepository'), ignore_errors=False,
+    copyDirToDir(os.path.join(source_path_root_JetBrains, 'PyCharmCE2022.3'), os.path.join(target_path_root_JetBrains,
+                                                                                           'PyCharmCE2022.3'))  # r'c:\Users\yzh\AppData\Roaming\JetBrains\PyCharmCE2022.2', r'r:\yzh\Backup\App_IDE\PyCharmCE2022.2')
+    if os.path.exists(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.3\settingsRepository')):
+        shutil.rmtree(os.path.join(target_path_root_JetBrains, r'PyCharmCE2022.3\settingsRepository'), ignore_errors=False,
                       onerror=handleRemoveReadonly)  # r'r:\yzh\Backup_App\App_IDE\PyCharmCE2022.2\settingsRepository'
 
     print('Files synchron to Backup Dir finished!')
