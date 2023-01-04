@@ -19,7 +19,7 @@
       <i c="1" l="1672696993415" />
     </e>
     <e n="ActivateDebugToolWindow">
-      <i c="1" l="1672696983811" />
+      <i c="2" l="1672735955110" />
     </e>
     <e n="ActivateProjectToolWindow">
       <i c="8" l="1672582386063" />
@@ -40,13 +40,13 @@
       <i c="2" l="1666720122704" />
     </e>
     <e n="CheckForUpdate">
-      <i c="4" l="1670925781569" />
+      <i c="5" l="1672764371264" />
     </e>
     <e n="CompareTwoFiles">
       <i c="1" l="1672245062476" />
     </e>
     <e n="ConfigureIcs">
-      <i c="28" l="1672697111150" />
+      <i c="30" l="1672764190895" />
     </e>
     <e n="CopyAbsolutePath">
       <i c="3" l="1672245995260" />
@@ -70,13 +70,13 @@
       <i c="1" l="1666717832001" />
     </e>
     <e n="EditSource">
-      <i c="5" l="1672409409247" />
+      <i c="8" l="1672785506051" />
     </e>
     <e n="EditorBackSpace">
-      <i c="287" l="1672681346250" />
+      <i c="294" l="1672785197315" />
     </e>
     <e n="EditorCopy">
-      <i c="49" l="1672682643455" />
+      <i c="51" l="1672697886432" />
     </e>
     <e n="EditorDown">
       <i c="2" l="1666718242235" />
@@ -94,7 +94,7 @@
       <i c="3" l="1672355533998" />
     </e>
     <e n="EditorPaste">
-      <i c="122" l="1672682682258" />
+      <i c="124" l="1672785202394" />
     </e>
     <e n="EditorUp">
       <i c="2" l="1666718209429" />
@@ -145,7 +145,7 @@
       <i c="1" l="1672356005915" />
     </e>
     <e n="MergeSettings">
-      <i c="2" l="1672697249904" />
+      <i c="3" l="1672764166570" />
     </e>
     <e n="NewModuleInGroup">
       <i c="3" l="1672581566448" />
@@ -155,6 +155,9 @@
     </e>
     <e n="ProductivityGuide">
       <i c="1" l="1670925099805" />
+    </e>
+    <e n="ProjectView.FlattenModules">
+      <i c="1" l="1672785321241" />
     </e>
     <e n="ProjectView.FlattenPackages">
       <i c="4" l="1672697078300" />
@@ -187,7 +190,7 @@
       <i c="5" l="1670930679234" />
     </e>
     <e n="ScopeView.EditScopes">
-      <i c="4" l="1672404363350" />
+      <i c="5" l="1672785138910" />
     </e>
     <e n="SearchEverywhere">
       <i c="13" l="1672581071249" />
@@ -196,25 +199,28 @@
       <i c="2" l="1672319202791" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="38" l="1672697742646" />
+      <i c="76" l="1672787842265" />
     </e>
     <e n="SettingsSyncOpenSettingsAction">
-      <i c="9" l="1672697255635" />
+      <i c="10" l="1672698153617" />
     </e>
     <e n="ShowProjectStructureSettings">
-      <i c="53" l="1672697179323" />
+      <i c="64" l="1672781855773" />
     </e>
     <e n="ShowSettings">
-      <i c="84" l="1672697344890" />
+      <i c="106" l="1672781899274" />
     </e>
     <e n="SmartSelect">
       <i c="3" l="1672581489562" />
+    </e>
+    <e n="Synchronize">
+      <i c="2" l="1672771409933" />
     </e>
     <e n="TabList">
       <i c="6" l="1672696945304" />
     </e>
     <e n="TerminalNewPredefinedSession">
-      <i c="4" l="1670927101512" />
+      <i c="6" l="1672767439913" />
     </e>
     <e n="TerminalNewSession">
       <i c="3" l="1670928920015" />
@@ -244,19 +250,19 @@
       <i c="6" l="1672697046802" />
     </e>
     <e n="WelcomeScreen.Configure.Import">
-      <i c="3" l="1670925744859" />
+      <i c="6" l="1672763968393" />
     </e>
     <e n="WelcomeScreen.OpenProject">
-      <i c="7" l="1672580820052" />
+      <i c="8" l="1672763581236" />
     </e>
     <e n="WelcomeScreen.RemoveSelected">
-      <i c="1" l="1672407826756" />
+      <i c="2" l="1672763577262" />
     </e>
     <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
-      <i c="4" l="1670927198856" />
+      <i c="5" l="1672765854287" />
     </e>
     <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
-      <i c="1" l="1672320394918" />
+      <i c="3" l="1672787833813" />
     </e>
     <e n="com.intellij.find.SearchTextArea$ShowHistoryAction">
       <i c="2" l="1672324881419" />
@@ -274,7 +280,7 @@
       <i c="2" l="1672328603722" />
     </e>
     <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
-      <i c="16" l="1672697744967" />
+      <i c="24" l="1672767455345" />
     </e>
     <e n="com.intellij.ide.impl.FlattenModulesToggleAction">
       <i c="3" l="1672406182480" />
@@ -300,17 +306,20 @@
     <e n="com.intellij.ide.util.scopeChooser.ScopeChooserConfigurable$MyAddAction$1">
       <i c="1" l="1672404157541" />
     </e>
+    <e n="com.intellij.ide.util.scopeChooser.ScopeChooserConfigurable$MyAddAction$2">
+      <i c="2" l="1672785194688" />
+    </e>
     <e n="com.intellij.ide.util.scopeChooser.ScopeEditorPanel$ChooseScopeTypeAction$1">
       <i c="2" l="1672404237213" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="4" l="1672400524750" />
+      <i c="5" l="1672771789948" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="3" l="1672328695720" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="21" l="1672682614809" />
+      <i c="25" l="1672785510683" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="6" l="1672324873620" />
@@ -319,7 +328,7 @@
       <i c="1" l="1672406179458" />
     </e>
     <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.ModuleStructureConfigurable$AddModuleAction">
-      <i c="33" l="1672697134886" />
+      <i c="40" l="1672781775187" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$2">
       <i c="1" l="1672337996241" />
@@ -328,7 +337,7 @@
       <i c="1" l="1672240206008" />
     </e>
     <e n="com.intellij.openapi.vfs.encoding.ChooseFileEncodingAction$1">
-      <i c="3" l="1672355335342" />
+      <i c="5" l="1672698056250" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="4" l="1670926743642" />
@@ -346,10 +355,10 @@
       <i c="1" l="1670926745806" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
-      <i c="19" l="1672697062572" />
+      <i c="23" l="1672785722251" />
     </e>
     <e n="com.intellij.ui.AnActionButton$AnActionButtonWrapper">
-      <i c="45" l="1672697132778" />
+      <i c="54" l="1672785193640" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
       <i c="1" l="1666718477299" />
@@ -376,7 +385,7 @@
       <i c="1" l="1672697726241" />
     </e>
     <e n="editRunConfigurations">
-      <i c="3" l="1672594719515" />
+      <i c="4" l="1672781939958" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$RenameBranchAction">
       <i c="2" l="1672332668423" />

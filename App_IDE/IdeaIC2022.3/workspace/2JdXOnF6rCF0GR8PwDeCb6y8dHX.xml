@@ -1351,7 +1351,7 @@
       <summary usageCount="1" lastUsed="1672409040344" />
     </fileType>
     <fileType name="PLAIN_TEXT">
-      <summary usageCount="2" lastUsed="1672696358902" />
+      <summary usageCount="5" lastUsed="1672763722000" />
     </fileType>
   </component>
   <component name="IgnoredFileRootStore">
@@ -1363,7 +1363,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="TEXT">
-      <summary usageCount="2" lastUsage="1672696358910" />
+      <summary usageCount="5" lastUsage="1672763722000" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -1433,10 +1433,11 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state x="563" y="146" key="NewModule_or_Project.wizard/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1672410309824" />
-    <state x="312" y="0" key="SettingsEditor" timestamp="1672410315552">
-      <screen x="0" y="0" width="1920" height="1019" />
+    <state x="328" y="0" key="SettingsEditor" timestamp="1672763712189">
+      <screen x="0" y="0" width="2021" height="949" />
     </state>
     <state x="312" y="0" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1672410315552" />
+    <state x="328" y="0" key="SettingsEditor/0.0.2021.949@0.0.2021.949" timestamp="1672763712189" />
     <state x="560" y="128" width="1129" height="833" key="new project wizard" timestamp="1672410152213">
       <screen x="0" y="0" width="1920" height="1019" />
     </state>

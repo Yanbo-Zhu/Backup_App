@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/App_IDE/IdeaIC2022.3/settingsSync" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/App_IDE/PyCharmCE2022.3/settingsSync" vcs="Git" />
   </component>
 </project>

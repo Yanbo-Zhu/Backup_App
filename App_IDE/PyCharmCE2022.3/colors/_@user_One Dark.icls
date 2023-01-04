@@ -1,11 +1,14 @@
 <scheme name="_@user_One Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-12-13T11:55:57</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2022.3.0.0</property>
-    <property name="modified">2022-12-13T11:56:54</property>
+    <property name="modified">2023-01-03T18:37:06</property>
     <property name="originalScheme">One Dark</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="CaskaydiaCove Nerd Font" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
@@ -496,7 +499,7 @@
         <option name="FOREGROUND" value="56b6c2" />
       </value>
     </option>
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Clojure Atom">
       <value>
         <option name="FOREGROUND" value="c678dd" />
@@ -1813,7 +1816,6 @@
         <option name="BACKGROUND" value="3d424b" />
       </value>
     </option>
-    <option name="REST.INLINE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="3c4b33" />
@@ -2092,7 +2094,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -2123,7 +2125,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -2285,7 +2287,7 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="e5c07b" />

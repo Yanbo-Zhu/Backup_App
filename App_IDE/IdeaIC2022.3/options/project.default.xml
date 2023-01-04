@@ -2,6 +2,7 @@
   <component name="ProjectManager">
     <defaultProject>
       <component name="ProjectViewState">
+        <option name="flattenModules" value="true" />
         <option name="hideEmptyMiddlePackages" value="true" />
         <option name="showLibraryContents" value="true" />
         <option name="showMembers" value="true" />
@@ -9,9 +10,15 @@
       </component>
       <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
 }</component>
+      <component name="WindowStateProjectService">
+        <state x="403" y="13" key="SettingsEditor" timestamp="1672764047540">
+          <screen x="0" y="0" width="2021" height="949" />
+        </state>
+        <state x="403" y="13" key="SettingsEditor/0.0.2021.949" timestamp="1672764047540" />
+      </component>
       <component name="masterDetails">
         <states>
           <state key="ProjectJDKs.UI">

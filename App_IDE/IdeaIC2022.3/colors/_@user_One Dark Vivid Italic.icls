@@ -1,11 +1,15 @@
 <scheme name="_@user_One Dark Vivid Italic" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-12-13T11:49:59</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2022.2.4.0.0</property>
-    <property name="modified">2022-12-13T11:50:04</property>
+    <property name="modified">2023-01-03T17:55:28</property>
     <property name="originalScheme">One Dark Vivid Italic</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
@@ -500,7 +504,7 @@
         <option name="FOREGROUND" value="2bbac5" />
       </value>
     </option>
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Clojure Atom">
       <value>
         <option name="FOREGROUND" value="d55fde" />
@@ -1835,7 +1839,6 @@
         <option name="BACKGROUND" value="3d424b" />
       </value>
     </option>
-    <option name="REST.INLINE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="3c4b33" />
@@ -2116,7 +2119,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -2147,7 +2150,7 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -2312,7 +2315,7 @@
         <option name="FOREGROUND" value="89ca78" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="e5c07b" />

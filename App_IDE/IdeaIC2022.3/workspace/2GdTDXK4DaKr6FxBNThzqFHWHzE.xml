@@ -1310,16 +1310,16 @@
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
-      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="ivu-plan-source-history1" />
+      <TerminalTabState tabName="Local" currentWorkingDirectory="E:\build\git\ivu-plan-source\" commandHistoryFileName="ivu-plan-source-history1" />
     </option>
   </component>
   <component name="ToolWindowManager">
     <layout>
       <window_info id="Commit" weight="0.32977617" />
       <window_info id="Bookmarks" order="0" side_tool="true" weight="0.1803748" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.52218616" visible="true" weight="0.24960957" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.52290833" visible="true" weight="0.24950543" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="3" sideWeight="0.47781384" side_tool="true" visible="true" weight="0.24960957" />
+      <window_info id="Structure" order="3" sideWeight="0.47709164" side_tool="true" visible="true" weight="0.24950543" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -1327,12 +1327,12 @@
       <window_info anchor="bottom" id="TODO" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Problems View" order="6" weight="0.3174681" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.30904764" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.30894738" />
       <window_info anchor="bottom" id="Services" order="8" weight="0.3302257" />
       <window_info anchor="bottom" id="Reviews" order="9" weight="0.22423945" />
       <window_info anchor="right" id="Ant" order="0" weight="0.32977617" />
-      <window_info anchor="right" id="News Feed" order="1" weight="0.32977617" />
-      <window_info anchor="right" id="Notifications" order="2" weight="0.20640291" />
+      <window_info anchor="right" id="News Feed" order="1" weight="0.32962412" />
+      <window_info anchor="right" id="Notifications" order="2" weight="0.20647874" />
     </layout>
     <layoutV2>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25013012" />
@@ -1349,15 +1349,15 @@
       <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
     </layoutV2>
     <recentWindows>
-      <value>Project</value>
       <value>Terminal</value>
+      <value>Notifications</value>
+      <value>News Feed</value>
+      <value>Project</value>
       <value>Commit</value>
       <value>Structure</value>
-      <value>News Feed</value>
       <value>Reviews</value>
       <value>Services</value>
       <value>Problems View</value>
-      <value>Notifications</value>
       <value>Bookmarks</value>
       <value>Version Control</value>
       <value>Ant</value>
@@ -1405,15 +1405,15 @@
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>
     <state x="2429" y="161" key="NewModule_or_Project.wizard/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@1920.0.1920.1050" timestamp="1672406220273" />
-    <state x="2178" y="0" width="1366" height="883" key="SettingsEditor" timestamp="1672406440996">
-      <screen x="1920" y="0" width="1920" height="1050" />
+    <state x="441" y="25" width="1366" height="883" key="SettingsEditor" timestamp="1672764925713">
+      <screen x="0" y="0" width="2021" height="949" />
     </state>
     <state x="226" y="69" width="1394" height="918" key="SettingsEditor/0.0.1680.989@0.0.1680.989" timestamp="1668369599332" />
     <state x="497" y="0" width="1375" height="878" key="SettingsEditor/0.0.1893.878@0.0.1893.878" timestamp="1670235154704" />
     <state x="303" y="94" width="1428" height="902" key="SettingsEditor/0.0.1920.1019/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1019" timestamp="1666720548845" />
     <state x="405" y="75" width="1366" height="883" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1670928700213" />
     <state x="2178" y="0" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@1920.0.1920.1050" timestamp="1672406440996" />
-    <state x="272" y="67" width="1504" height="882" key="SettingsEditor/0.0.2021.949@0.0.2021.949" timestamp="1668349736658" />
+    <state x="441" y="25" width="1504" height="882" key="SettingsEditor/0.0.2021.949@0.0.2021.949" timestamp="1672764925713" />
     <state x="2459" y="12" width="840" height="1037" key="search.everywhere.popup" timestamp="1667905543016">
       <screen x="1920" y="0" width="1920" height="1050" />
     </state>

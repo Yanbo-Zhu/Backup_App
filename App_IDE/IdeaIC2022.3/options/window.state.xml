@@ -11,14 +11,19 @@
     <frame x="-9" y="-9" width="2544" height="1205" extendedState="6" />
   </component>
   <component name="WindowStateApplicationService">
-    <state x="677" y="130" key="FileChooserDialogImpl" timestamp="1672580826009">
-      <screen x="0" y="0" width="1893" height="878" />
+    <state x="723" y="141" key="FileChooserDialogImpl" timestamp="1672763969913">
+      <screen x="0" y="0" width="2021" height="949" />
     </state>
     <state x="677" y="130" key="FileChooserDialogImpl/0.0.1893.878" timestamp="1672580826009" />
     <state x="687" y="151" key="FileChooserDialogImpl/0.0.1920.1019/-1920.0.1920.1050/1920.0.1920.1050" timestamp="1666717337433" />
     <state x="687" y="151" key="FileChooserDialogImpl/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050" timestamp="1672408902118" />
+    <state x="723" y="141" key="FileChooserDialogImpl/0.0.2021.949" timestamp="1672763969913" />
     <state x="916" y="204" key="FileChooserDialogImpl/0.0.2560.1379" timestamp="1668966144050" />
     <state x="687" y="151" key="FileChooserDialogImpl/1920.0.1920.1019/-1920.0.1920.1050/0.0.1920.1019" timestamp="1672240096983" />
+    <state x="1494" y="757" width="510" height="127" key="ProcessPopupWindow" timestamp="1672770217587">
+      <screen x="0" y="0" width="2021" height="949" />
+    </state>
+    <state x="1494" y="757" width="510" height="127" key="ProcessPopupWindow/0.0.2021.949" timestamp="1672770217587" />
     <state x="469" y="34" key="SettingsEditor" timestamp="1668966152486">
       <screen x="0" y="0" width="2560" height="1379" />
     </state>
@@ -28,12 +33,12 @@
       <screen x="0" y="0" width="1920" height="1019" />
     </state>
     <state width="880" height="97" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050" timestamp="1667996150418" />
-    <state x="1010" y="462" width="1477" height="879" key="WELCOME_SCREEN" timestamp="1672697536499">
+    <state x="1010" y="462" width="1477" height="879" key="WELCOME_SCREEN" timestamp="1672764976403">
       <screen x="0" y="0" width="2021" height="949" />
     </state>
     <state x="946" y="435" width="1383" height="813" key="WELCOME_SCREEN/0.0.1893.878" timestamp="1672580815850" />
     <state x="960" y="491" width="1402" height="915" key="WELCOME_SCREEN/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050" timestamp="1672408837720" />
-    <state x="1010" y="462" width="1477" height="879" key="WELCOME_SCREEN/0.0.2021.949" timestamp="1672697536499" />
+    <state x="1010" y="462" width="1477" height="879" key="WELCOME_SCREEN/0.0.2021.949" timestamp="1672764976403" />
     <state x="1280" y="594" width="1000" height="813" key="WELCOME_SCREEN/0.0.2560.1379" timestamp="1668966124713" />
     <state x="960" y="491" width="1402" height="915" key="WELCOME_SCREEN/1920.0.1920.1019/-1920.0.1920.1050/0.0.1920.1019" timestamp="1672241898096" />
   </component>

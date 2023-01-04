@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="223" column="7" lean-forward="true" selection-start-line="223" selection-start-column="7" selection-end-line="223" selection-end-column="7" />
+            <state relative-caret-position="376">
+              <caret line="224" column="40" selection-start-line="224" selection-start-column="40" selection-end-line="224" selection-end-column="40" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -42,7 +42,7 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="Python">
-      <summary usageCount="33" lastUsed="1672675858500" />
+      <summary usageCount="36" lastUsed="1672769192068" />
     </fileType>
     <fileType name="WebPreview">
       <summary usageCount="2" lastUsed="1670928976503" />
@@ -72,7 +72,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Python">
-      <summary usageCount="33" lastUsage="1672675858501" />
+      <summary usageCount="36" lastUsage="1672769192070" />
     </language>
   </component>
   <component name="ProjectView">
@@ -106,9 +106,9 @@
   <component name="ToolWindowManager">
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.50184846" visible="true" weight="0.14915523" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.50265014" visible="true" weight="0.14910978" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="3" sideWeight="0.4981516" side_tool="true" visible="true" weight="0.14915523" />
+      <window_info id="Structure" order="3" sideWeight="0.49734983" side_tool="true" visible="true" weight="0.14910978" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.3304308" />
       <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.24092248" />
@@ -118,11 +118,14 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.3302257" />
       <window_info anchor="bottom" id="Problems View" order="8" weight="0.3302257" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.241752" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.24157894" />
       <window_info anchor="bottom" id="Services" order="10" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.250122" />
+      <window_info anchor="bottom" id="Reviews" order="11" />
+      <window_info anchor="right" id="News Feed" order="0" />
+      <window_info anchor="right" id="Notifications" order="1" weight="0.25" />
     </layout>
     <recentWindows>
+      <value>Notifications</value>
       <value>Terminal</value>
       <value>Project</value>
       <value>Structure</value>
@@ -130,7 +133,6 @@
       <value>Problems View</value>
       <value>Find</value>
       <value>Debug</value>
-      <value>Notifications</value>
       <value>Python Console</value>
     </recentWindows>
   </component>
@@ -205,13 +207,14 @@
     </state>
     <state width="1863" height="269" key="GridCell.Tab.1.right/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1667579142100" />
     <state width="1863" height="269" key="GridCell.Tab.1.right/2560.162.1920.1003/0.0.2048.1090@0.0.2048.1090" timestamp="1667603791510" />
-    <state x="508" y="0" width="1353" height="878" key="SettingsEditor" timestamp="1672682581857">
-      <screen x="0" y="0" width="1893" height="878" />
+    <state x="542" y="0" width="1353" height="878" key="SettingsEditor" timestamp="1672769220694">
+      <screen x="0" y="0" width="2021" height="949" />
     </state>
     <state x="319" y="87" key="SettingsEditor/0.0.1680.989@0.0.1680.989" timestamp="1668369970251" />
     <state x="508" y="0" width="1353" height="878" key="SettingsEditor/0.0.1893.878@0.0.1893.878" timestamp="1672682581857" />
     <state x="515" y="58" width="1372" height="946" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@0.0.1920.1019" timestamp="1672324748988" />
     <state x="2435" y="60" key="SettingsEditor/0.0.1920.1019/1920.0.1920.1050/-1920.0.1920.1050@1920.0.1920.1050" timestamp="1668510681100" />
+    <state x="542" y="0" key="SettingsEditor/0.0.2021.949@0.0.2021.949" timestamp="1672769220694" />
     <state x="373" y="62" key="SettingsEditor/0.0.2048.1090/2560.162.1920.1050@0.0.2048.1090" timestamp="1667341259248" />
     <state x="364" y="117" key="SettingsEditor/1920.0.1920.1019/-1920.0.1920.1050/0.0.1920.1019@0.0.1920.1019" timestamp="1668074391298" />
     <state x="388" y="186" key="SettingsEditor/2560.162.1920.1003/0.0.2048.1090@0.0.2048.1090" timestamp="1667599884173" />
@@ -223,8 +226,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="223" column="7" lean-forward="true" selection-start-line="223" selection-start-column="7" selection-end-line="223" selection-end-column="7" />
+        <state relative-caret-position="376">
+          <caret line="224" column="40" lean-forward="true" selection-start-line="224" selection-start-column="40" selection-end-line="224" selection-end-column="40" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

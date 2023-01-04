@@ -22,6 +22,8 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
+    "Darcula.SavedEditorTheme": "_@user_Darcula",
+    "Default.SavedEditorTheme": "_@user_Default",
     "FileChooser.ShowPath": "true",
     "FileTemplates.SelectedTemplate": "HTML File",
     "FindSplitterProportion": "0.35719785",
@@ -47,7 +49,7 @@
     "create.project.preferred.importer": "Maven",
     "defaultJdkConfigured": "true",
     "eclipse.projects.detected": "",
-    "file.gist.reindex.count": "5064",
+    "file.gist.reindex.count": "9512",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
@@ -56,9 +58,9 @@
     "ide.memory.adjusted": "true",
     "ignoreUltimateEdition": "true",
     "installed.kotlin.plugin.version": "223-1.7.21-release-272-IJ8214.52",
-    "last.imported.location": "E:/build/git/ivu-plan-source_releasebranch/R222",
-    "last_opened_file_path": "E:/build/git/ivu-plan-source_releasebranch/R221",
-    "previousColorScheme": "_@user_Darcula",
+    "last.imported.location": "E:/build/git/ivu-plan-source_releasebranch/R221/mb2java/tools/systemtest/fitnesse/systemtestcases/pom.xml",
+    "last_opened_file_path": "C:/Users/yzh/AppData/Roaming/JetBrains/IdeaIC2022.3",
+    "previousColorScheme": "_@user_New Dark",
     "project.wizard.group": "NPW.simple-module",
     "registry.to.advanced.settings.migration.build": "IC-223.8214.52",
     "selected.color.option.type": "TERMINAL_COMMAND_TO_RUN_USING_IDE",
@@ -69,8 +71,12 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
-      "E:/build/git/ivu-plan-source_releasebranch/R222",
+      "E:/build/git/ivu-plan-source_releasebranch/R221/mb2java/tools/systemtest/fitnesse/systemtestcases/pom.xml",
+      "E:/build/git/ivu-plan-source_releasebranch/R221/mb2java",
+      "E:/build/git/ivu-plan-source_releasebranch/R221/mb2java/build/generated/workspace/pom.xml",
+      "C:/Users/yzh/AppData/Roaming/JetBrains/IdeaIC2022.3",
       "E:/build/git/ivu-plan-source_releasebranch/R221",
+      "E:/build/git/ivu-plan-source_releasebranch/R222",
       "E:/build/git/ivu-plan-source_releasebranch",
       "E:/build/git/ivu-plan-source_releasebranch/R223",
       "E:/build/git/ivu-plan-source",
@@ -92,8 +98,9 @@
 }]]></component>
   <component name="ShownTips"><![CDATA[{
   "shownTips": {
-    "SpeedSearch": 1670925768170,
     "Rename": 1672319048672,
+    "CtrlW": 1672763602447,
+    "SpeedSearch": 1670925768170,
     "FocusProjectToolWindow": 1672240119862,
     "CommentCode": 1672696356432,
     "ShowUsages": 1672580848963,
@@ -103,9 +110,9 @@
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="ivu-plan-source-history1" project-path="E:/build/git/ivu-plan-source" last-access-time="1672405913014" />
+      <command-history-file filename="ivu-plan-source-history1" project-path="E:/build/git/ivu-plan-source" last-access-time="1672764578338" />
+      <command-history-file filename="R221-history1" project-path="E:/build/git/ivu-plan-source_releasebranch/R221" last-access-time="1672765271273" />
       <command-history-file filename="R222-history" project-path="E:/build/git/ivu-plan-source_releasebranch/R222" last-access-time="1672409302193" />
-      <command-history-file filename="R221-history" project-path="E:/build/git/ivu-plan-source_releasebranch/R221" last-access-time="1672679601837" />
     </command-history-files>
   </component>
   <component name="TerminalUiSettingsManager">

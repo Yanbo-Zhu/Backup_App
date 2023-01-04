@@ -145,13 +145,13 @@
       <i c="5" l="1672324735577" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="16" l="1672324736353" />
+      <i c="20" l="1672769216736" />
     </e>
     <e n="SettingsSyncOpenSettingsAction">
       <i c="2" l="1672682531896" />
     </e>
     <e n="ShowSettings">
-      <i c="53" l="1670929097939" />
+      <i c="54" l="1672767674816" />
     </e>
     <e n="Stop">
       <i c="5" l="1667579432840" />
@@ -178,7 +178,7 @@
       <i c="1" l="1667310691223" />
     </e>
     <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
-      <i c="3" l="1672324738663" />
+      <i c="7" l="1672769218074" />
     </e>
     <e n="com.intellij.ide.plugins.PluginManagerConfigurable$MarketplaceSortByAction">
       <i c="1" l="1670928296056" />
