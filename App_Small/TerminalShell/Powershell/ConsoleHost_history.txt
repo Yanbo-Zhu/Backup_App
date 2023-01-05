@@ -685,3 +685,4 @@ mvn clean install -DskipTests assembly:single
 git status
 cd mb2java
 mvn clean install -DskipTests -q -e -T 1.0C
+git status

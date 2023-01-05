@@ -20,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mb2java/core/mail/testclient/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="377">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -136,7 +136,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26689547" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2631442" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32999998" />
@@ -150,7 +150,7 @@
       <window_info anchor="bottom" id="Services" order="8" />
       <window_info anchor="bottom" id="Problems" order="9" weight="0.32999998" />
       <window_info anchor="bottom" id="Reviews" order="10" weight="0.32999998" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.3566553" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.30765456" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32999998" />
       <window_info anchor="bottom" id="Dependencies" order="11" />
       <window_info anchor="right" id="Ant" order="0" weight="0.33025342" />
@@ -316,8 +316,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mb2java/core/mail/testclient/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="377">
+          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
         </state>
       </provider>
     </entry>
