@@ -1,0 +1,7 @@
+<list display="Commen actions">
+  <action id="QuickList.$Separator$" />
+  <action id="EditorAddOrRemoveCaret" />
+  <action id="QuickList.$Separator$" />
+  <action id="Tool_External Tools_CI Check" />
+  <action id="QuickList.$Separator$" />
+</list>

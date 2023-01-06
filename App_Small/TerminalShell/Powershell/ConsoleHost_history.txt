@@ -686,3 +686,16 @@ git status
 cd mb2java
 mvn clean install -DskipTests -q -e -T 1.0C
 git status
+zi
+cd E:\build\git\ivu-plan-source_releasebranch\R222
+git status
+git pull --rebase
+q
+git status
+git stash list
+git stash 
+git stash list
+git pull --rebase
+git stash pop stash@{0}
+git stash list 
+git stash pop "stash@{0}"

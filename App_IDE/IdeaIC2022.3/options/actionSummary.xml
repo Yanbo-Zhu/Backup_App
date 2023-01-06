@@ -60,6 +60,9 @@
     <e n="CopyReferencePopupGroup">
       <i c="8" l="1672324958133" />
     </e>
+    <e n="CreateRunConfiguration">
+      <i c="1" l="1672924297237" />
+    </e>
     <e n="Debug">
       <i c="2" l="1672679592128" />
     </e>
@@ -73,13 +76,13 @@
       <i c="8" l="1672785506051" />
     </e>
     <e n="EditorBackSpace">
-      <i c="294" l="1672785197315" />
+      <i c="296" l="1672926838552" />
     </e>
     <e n="EditorCopy">
       <i c="51" l="1672697886432" />
     </e>
     <e n="EditorDown">
-      <i c="2" l="1666718242235" />
+      <i c="4" l="1672925982918" />
     </e>
     <e n="EditorEnter">
       <i c="1" l="1672409253890" />
@@ -91,13 +94,13 @@
       <i c="2" l="1672355537172" />
     </e>
     <e n="EditorLineStart">
-      <i c="3" l="1672355533998" />
+      <i c="4" l="1672926837828" />
     </e>
     <e n="EditorPaste">
-      <i c="124" l="1672785202394" />
+      <i c="126" l="1672914394614" />
     </e>
     <e n="EditorUp">
-      <i c="2" l="1666718209429" />
+      <i c="5" l="1672925979246" />
     </e>
     <e n="ExportSettings">
       <i c="10" l="1672339763173" />
@@ -109,7 +112,7 @@
       <i c="41" l="1672681339845" />
     </e>
     <e n="FindInPath">
-      <i c="4" l="1672580960953" />
+      <i c="5" l="1672914353276" />
     </e>
     <e n="FindSelectionInPath">
       <i c="1" l="1672244247708" />
@@ -171,6 +174,9 @@
     <e n="ProjectView.ShowVisibilityIcons">
       <i c="2" l="1672696788005" />
     </e>
+    <e n="QuickList.Commen actions">
+      <i c="2" l="1672927152934" />
+    </e>
     <e n="RecentFiles">
       <i c="2" l="1672581486410" />
     </e>
@@ -208,7 +214,7 @@
       <i c="64" l="1672781855773" />
     </e>
     <e n="ShowSettings">
-      <i c="106" l="1672781899274" />
+      <i c="111" l="1672927102453" />
     </e>
     <e n="SmartSelect">
       <i c="3" l="1672581489562" />
@@ -225,6 +231,9 @@
     <e n="TerminalNewSession">
       <i c="3" l="1670928920015" />
     </e>
+    <e n="Tool_External Tools_create settings">
+      <i c="1" l="1672925504476" />
+    </e>
     <e n="UnmarkRoot">
       <i c="5" l="1672400491907" />
     </e>
@@ -238,7 +247,7 @@
       <i c="1" l="1672328812189" />
     </e>
     <e n="Vcs.ShowTabbedFileHistory">
-      <i c="1" l="1672677480029" />
+      <i c="2" l="1672923092153" />
     </e>
     <e n="ViewInplaceComments">
       <i c="3" l="1672697010708" />
@@ -262,7 +271,10 @@
       <i c="5" l="1672765854287" />
     </e>
     <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
-      <i c="3" l="1672787833813" />
+      <i c="4" l="1672923175255" />
+    </e>
+    <e n="com.intellij.execution.ui.FragmentedSettingsBuilder$ToggleFragmentAction">
+      <i c="8" l="1672923296768" />
     </e>
     <e n="com.intellij.find.SearchTextArea$ShowHistoryAction">
       <i c="2" l="1672324881419" />
@@ -319,10 +331,19 @@
       <i c="3" l="1672328695720" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="25" l="1672785510683" />
+      <i c="26" l="1672926898077" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$AddKeyboardShortcutAction">
+      <i c="2" l="1672926977511" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$EditShortcutAction">
+      <i c="4" l="1672926975888" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.QuickListPanel$1">
+      <i c="3" l="1672927149611" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="6" l="1672324873620" />
+      <i c="7" l="1672914445103" />
     </e>
     <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.BaseStructureConfigurable$MyFindUsagesAction">
       <i c="1" l="1672406179458" />
@@ -361,7 +382,7 @@
       <i c="54" l="1672785193640" />
     </e>
     <e n="com.intellij.ui.CommonActionsPanel$AddButton">
-      <i c="1" l="1666718477299" />
+      <i c="9" l="1672927138265" />
     </e>
     <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
       <i c="2" l="1672406570535" />
@@ -385,7 +406,7 @@
       <i c="1" l="1672697726241" />
     </e>
     <e n="editRunConfigurations">
-      <i c="4" l="1672781939958" />
+      <i c="13" l="1672926190595" />
     </e>
     <e n="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$RenameBranchAction">
       <i c="2" l="1672332668423" />

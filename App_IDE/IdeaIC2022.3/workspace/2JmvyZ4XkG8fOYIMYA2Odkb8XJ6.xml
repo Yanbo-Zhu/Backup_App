@@ -8,20 +8,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitattributes">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mb2java/core/mail/testclient/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+            <state relative-caret-position="182">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -38,6 +29,14 @@
     <fileType name="textmate">
       <summary usageCount="1" lastUsed="1672769148730" />
     </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>SimpleFileVersionsController</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\build\git\ivu-plan-source_releasebranch\R221\mb2java\core\mail\testclient</dir>
+    </dirStrings>
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -79,6 +78,135 @@
               <item name="R221" type="b2602c69:ProjectViewProjectNode" />
               <item name="R221" type="462c0819:PsiDirectoryNode" />
               <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+              <item name="remote" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+              <item name="testserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+              <item name="testserver" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+              <item name="testserver" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+              <item name="testserver" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+              <item name="testserver" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="ivu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+              <item name="testserver" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="ivu" type="462c0819:PsiDirectoryNode" />
+              <item name="mb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+              <item name="testserver" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="ivu" type="462c0819:PsiDirectoryNode" />
+              <item name="mb" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+              <item name="testserver" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="ivu" type="462c0819:PsiDirectoryNode" />
+              <item name="mb" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="R221" type="b2602c69:ProjectViewProjectNode" />
+              <item name="R221" type="462c0819:PsiDirectoryNode" />
+              <item name="mb2java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+              <item name="testserver" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+              <item name="de" type="462c0819:PsiDirectoryNode" />
+              <item name="ivu" type="462c0819:PsiDirectoryNode" />
+              <item name="mb" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="accessright" type="462c0819:PsiDirectoryNode" />
+              <item name="testserver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="R221" type="b2602c69:ProjectViewProjectNode" />
@@ -136,12 +264,12 @@
     <editor active="true" />
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2631442" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26689547" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32999998" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3304892" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.15415245" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4010239" />
       <window_info anchor="bottom" id="TODO" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -150,18 +278,20 @@
       <window_info anchor="bottom" id="Services" order="8" />
       <window_info anchor="bottom" id="Problems" order="9" weight="0.32999998" />
       <window_info anchor="bottom" id="Reviews" order="10" weight="0.32999998" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.30765456" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3566553" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.32999998" />
       <window_info anchor="bottom" id="Dependencies" order="11" />
-      <window_info anchor="right" id="Ant" order="0" weight="0.33025342" />
+      <window_info anchor="right" id="Ant" order="0" weight="0.2315206" />
       <window_info anchor="right" id="News Feed" order="1" weight="0.33011872" />
       <window_info anchor="right" id="Maven" order="2" />
       <window_info anchor="right" id="Notifications" order="2" weight="0.25" />
     </layout>
     <recentWindows>
+      <value>Run</value>
+      <value>Version Control</value>
       <value>Project</value>
-      <value>Ant</value>
       <value>Messages</value>
+      <value>Ant</value>
       <value>Build</value>
       <value>News Feed</value>
       <value>Terminal</value>
@@ -170,7 +300,6 @@
       <value>Reviews</value>
       <value>Structure</value>
       <value>Bookmarks</value>
-      <value>Version Control</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
@@ -178,9 +307,14 @@
       <screen x="0" y="0" width="2021" height="949" />
     </state>
     <state x="363" y="0" key="#Project_Structure/0.0.2021.949@0.0.2021.949" timestamp="1672785415374" />
-    <state x="481" y="123" width="1448" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672781996903">
-      <screen x="0" y="0" width="2021" height="949" />
+    <state x="290" y="80" width="1329" height="697" key="#Run/Debug_Configuration_Templates" timestamp="1672924479946">
+      <screen x="0" y="0" width="1893" height="878" />
     </state>
+    <state x="290" y="80" width="1329" height="697" key="#Run/Debug_Configuration_Templates/0.0.1893.878@0.0.1893.878" timestamp="1672924479946" />
+    <state x="107" y="78" width="1455" height="760" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1672926197995">
+      <screen x="0" y="0" width="1893" height="878" />
+    </state>
+    <state x="107" y="78" width="1455" height="760" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1893.878@0.0.1893.878" timestamp="1672926197995" />
     <state x="481" y="123" width="1448" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2021.949@0.0.2021.949" timestamp="1672781996903" />
     <state x="1073" y="112" key="FileChooserDialogImpl" timestamp="1672781828975">
       <screen x="0" y="0" width="2021" height="949" />
@@ -190,11 +324,15 @@
       <screen x="0" y="0" width="2021" height="949" />
     </state>
     <state x="917" y="121" key="NewModule_or_Project.wizard/0.0.2021.949@0.0.2021.949" timestamp="1672781771281" />
-    <state x="707" y="0" width="1214" height="882" key="SettingsEditor" timestamp="1672785254573">
-      <screen x="0" y="0" width="2021" height="949" />
+    <state x="487" y="0" width="1214" height="882" key="SettingsEditor" timestamp="1672927150891">
+      <screen x="0" y="0" width="1893" height="878" />
     </state>
-    <state x="487" y="0" key="SettingsEditor/0.0.1893.878@0.0.1893.878" timestamp="1672735943790" />
+    <state x="487" y="0" key="SettingsEditor/0.0.1893.878@0.0.1893.878" timestamp="1672927150891" />
     <state x="707" y="0" width="1214" height="882" key="SettingsEditor/0.0.2021.949@0.0.2021.949" timestamp="1672785254573" />
+    <state x="123" y="0" width="1339" height="793" key="find.popup" timestamp="1672914445132">
+      <screen x="0" y="0" width="1893" height="878" />
+    </state>
+    <state x="123" y="0" width="1339" height="793" key="find.popup/0.0.1893.878@0.0.1893.878" timestamp="1672914445132" />
     <state x="767" y="93" width="1042" height="763" key="new project wizard" timestamp="1672697160786">
       <screen x="0" y="0" width="2021" height="949" />
     </state>
@@ -304,20 +442,20 @@
     <entry file="file://$PROJECT_DIR$/.git-blame-ignore-revs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mb2java/tools/systemtest/apd/result/checker/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/mb2java/core/mail/testclient/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="23" column="37" lean-forward="true" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
+        <state relative-caret-position="64">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
