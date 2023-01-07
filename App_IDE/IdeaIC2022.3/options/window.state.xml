@@ -3,9 +3,11 @@
     <location key="find.popup.0.0.1920.1080@120dpi" x="704" y="58" />
     <location key="find.popup.1920.0.1920.1080@120dpi" x="2624" y="60" />
     <location key="find.popup.0.0.2367.1175@150dpi" x="154" y="0" />
+    <location key="find.popup.-1920.0.1920.1080@120dpi" x="-1795" y="0" />
     <size key="find.popup.0.0.1920.1080@120dpi" width="681" height="640" />
     <size key="find.popup.1920.0.1920.1080@120dpi" width="681" height="640" />
     <size key="find.popup.0.0.2367.1175@150dpi" width="1674" height="992" />
+    <size key="find.popup.-1920.0.1920.1080@120dpi" width="1359" height="949" />
   </component>
   <component name="WindowManager">
     <frame x="-9" y="-9" width="2544" height="1205" extendedState="6" />

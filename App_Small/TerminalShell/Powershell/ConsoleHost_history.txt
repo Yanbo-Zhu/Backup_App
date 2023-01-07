@@ -699,3 +699,9 @@ git pull --rebase
 git stash pop stash@{0}
 git stash list 
 git stash pop "stash@{0}"
+git status
+git fetch -p
+git stash
+git pull --rebase
+git stash pop stash@{0}
+git stash pop "stash@{0}"
