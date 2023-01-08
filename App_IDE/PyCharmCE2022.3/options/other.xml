@@ -56,66 +56,66 @@
     <option name="fontScale" value="1.0" />
     <option name="fontSize" value="14.0" />
   </component>
-  <component name="PropertyService">{
-  &quot;keyToString&quot;: {
-    &quot;CWM_LOGGING_VERSION&quot;: &quot;1&quot;,
-    &quot;FileChooser.ShowPath&quot;: &quot;true&quot;,
-    &quot;FileTemplates.SelectedTemplate&quot;: &quot;HTML File&quot;,
-    &quot;InstalledPluginsSearchHistory&quot;: &quot;sche\nsch\nsc\ns\nterminal&quot;,
-    &quot;MarketplacePluginsSearchHistory&quot;: &quot;python\np\n/tag:theme\n/tag:theme /sortBy:downloads\nschema&quot;,
-    &quot;NonModalCommitCustomization.IsApplied&quot;: &quot;true&quot;,
-    &quot;PluginConfigurable.selectionTab&quot;: &quot;1&quot;,
-    &quot;PyCharm.InitialConfiguration&quot;: &quot;true&quot;,
-    &quot;PyCharm.InitialConfiguration.V2&quot;: &quot;true&quot;,
-    &quot;PyCharm.InitialConfiguration.V3&quot;: &quot;true&quot;,
-    &quot;PyCharm.InitialConfiguration.V4&quot;: &quot;true&quot;,
-    &quot;PyCharm.InitialConfiguration.V5&quot;: &quot;true&quot;,
-    &quot;PyCharm.InitialConfiguration.V6&quot;: &quot;true&quot;,
-    &quot;PyCharm.InitialConfiguration.V7&quot;: &quot;true&quot;,
-    &quot;PyCharm.InitialConfiguration.V8&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.se.text.search&quot;: &quot;true&quot;,
-    &quot;SettingsSearchHistory&quot;: &quot;console\n字体\n终端\nterminal\n换行&quot;,
-    &quot;appcds.runOnSecondStart&quot;: &quot;PC-223.8214.51-5490b6210920d8271765631e879d0a5d8ad837b354bbc97aaa11df1577a5e845&quot;,
-    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
-    &quot;bundled.plugins.list.saved.version&quot;: &quot;PC-223.8214.51&quot;,
-    &quot;experimentalFeature.terminal.shell.command.handling&quot;: &quot;false&quot;,
-    &quot;file.gist.reindex.count&quot;: &quot;12&quot;,
-    &quot;fileTypeChangedCounter&quot;: &quot;2&quot;,
-    &quot;fontSizeToResetConsole&quot;: &quot;13.0&quot;,
-    &quot;fontSizeToResetEditor&quot;: &quot;15.0&quot;,
-    &quot;gotit.previous.run&quot;: &quot;PC-223.8214.51&quot;,
-    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yzh/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShellPreview_8wekyb3d8bbwe/pwsh.exe&quot;,
-    &quot;previousColorScheme&quot;: &quot;_@user_Monokai&quot;,
-    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;PC-223.8214.51&quot;,
-    &quot;selected.color.option.type&quot;: &quot;TERMINAL_COMMAND_TO_RUN_USING_IDE&quot;,
-    &quot;tasks.pass.word.conversion.enforced&quot;: &quot;true&quot;
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CWM_LOGGING_VERSION": "1",
+    "FileChooser.ShowPath": "true",
+    "FileTemplates.SelectedTemplate": "HTML File",
+    "InstalledPluginsSearchHistory": "sche\nsch\nsc\ns\nterminal",
+    "MarketplacePluginsSearchHistory": "python\np\n/tag:theme\n/tag:theme /sortBy:downloads\nschema",
+    "NonModalCommitCustomization.IsApplied": "true",
+    "PluginConfigurable.selectionTab": "1",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.se.text.search": "true",
+    "SettingsSearchHistory": "console\n字体\n终端\nterminal\n换行",
+    "appcds.runOnSecondStart": "PC-223.8214.51-5490b6210920d8271765631e879d0a5d8ad837b354bbc97aaa11df1577a5e845",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bundled.plugins.list.saved.version": "PC-223.8214.51",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "file.gist.reindex.count": "13",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "15.0",
+    "gotit.previous.run": "PC-223.8214.51",
+    "ide.memory.adjusted": "true",
+    "last_opened_file_path": "C:/Users/yzh/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShellPreview_8wekyb3d8bbwe/pwsh.exe",
+    "previousColorScheme": "_@user_Monokai",
+    "registry.to.advanced.settings.migration.build": "PC-223.8214.51",
+    "selected.color.option.type": "TERMINAL_COMMAND_TO_RUN_USING_IDE",
+    "tasks.pass.word.conversion.enforced": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;file.chooser.recent.files&quot;: [
-      &quot;C:/Users/yzh/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShellPreview_8wekyb3d8bbwe/pwsh.exe&quot;,
-      &quot;R:/yzh/Backup_App&quot;,
-      &quot;R:/yzh/Backup&quot;,
-      &quot;R:/yzh/0_IVU_Unterlagen_YZH/0_重要/Ranorex_StartSkript&quot;,
-      &quot;D:/File_Storage/File_Markdown/HTML5_CSS3_HeiMaPink_YZHNote&quot;
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "C:/Users/yzh/AppData/Local/Microsoft/WindowsApps/Microsoft.PowerShellPreview_8wekyb3d8bbwe/pwsh.exe",
+      "R:/yzh/Backup_App",
+      "R:/yzh/Backup",
+      "R:/yzh/0_IVU_Unterlagen_YZH/0_重要/Ranorex_StartSkript",
+      "D:/File_Storage/File_Markdown/HTML5_CSS3_HeiMaPink_YZHNote"
     ],
-    &quot;fileTypeDetectors&quot;: [
-      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
-      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
     ]
   }
-}</component>
-  <component name="ShownTips">{
-  &quot;shownTips&quot;: {
-    &quot;CtrlW&quot;: 1670929030907,
-    &quot;SpeedSearch&quot;: 1672323518731,
-    &quot;ShowUsages&quot;: 1672675871571,
-    &quot;FindInPath&quot;: 1672763916988
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "CtrlW": 1673084635725,
+    "SpeedSearch": 1672323518731,
+    "ShowUsages": 1672675871571,
+    "FindInPath": 1672763916988
   }
-}</component>
+}]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="Backup_App-history1" project-path="R:/yzh/Backup_App" last-access-time="1672769191469" />
+      <command-history-file filename="Backup_App-history1" project-path="R:/yzh/Backup_App" last-access-time="1673084617420" />
     </command-history-files>
   </component>
   <component name="TerminalUiSettingsManager">

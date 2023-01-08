@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="224" column="40" selection-start-line="224" selection-start-column="40" selection-end-line="224" selection-end-column="40" />
+            <state relative-caret-position="347">
+              <caret line="278" column="26" lean-forward="true" selection-start-line="278" selection-start-column="26" selection-end-line="278" selection-end-column="26" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -42,7 +42,7 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="Python">
-      <summary usageCount="36" lastUsed="1672769192068" />
+      <summary usageCount="37" lastUsed="1673084621022" />
     </fileType>
     <fileType name="WebPreview">
       <summary usageCount="2" lastUsed="1670928976503" />
@@ -56,6 +56,7 @@
       <find>target_path_tausch_BackupApp</find>
       <find>2022</find>
       <find>2022.2</find>
+      <find>gitRepoSynchron</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -72,7 +73,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="Python">
-      <summary usageCount="36" lastUsage="1672769192070" />
+      <summary usageCount="37" lastUsage="1673084621028" />
     </language>
   </component>
   <component name="ProjectView">
@@ -100,15 +101,15 @@
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
-      <TerminalTabState tabName="本地" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="Backup_App-history1" />
+      <TerminalTabState tabName="本地" currentWorkingDirectory="R:\yzh\Backup_App\" commandHistoryFileName="Backup_App-history1" />
     </option>
   </component>
   <component name="ToolWindowManager">
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.50265014" visible="true" weight="0.14910978" />
+      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.45462185" visible="true" weight="0.20400593" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="3" sideWeight="0.49734983" side_tool="true" visible="true" weight="0.14910978" />
+      <window_info id="Structure" order="3" sideWeight="0.5453782" side_tool="true" visible="true" weight="0.20400593" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Find" order="1" show_stripe_button="false" weight="0.3304308" />
       <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.24092248" />
@@ -125,10 +126,10 @@
       <window_info anchor="right" id="Notifications" order="1" weight="0.25" />
     </layout>
     <recentWindows>
-      <value>Notifications</value>
       <value>Terminal</value>
-      <value>Project</value>
       <value>Structure</value>
+      <value>Notifications</value>
+      <value>Project</value>
       <value>Run</value>
       <value>Problems View</value>
       <value>Find</value>
@@ -226,8 +227,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UpdateAndUpload.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="224" column="40" lean-forward="true" selection-start-line="224" selection-start-column="40" selection-end-line="224" selection-end-column="40" />
+        <state relative-caret-position="347">
+          <caret line="278" column="26" lean-forward="true" selection-start-line="278" selection-start-column="26" selection-end-line="278" selection-end-column="26" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>

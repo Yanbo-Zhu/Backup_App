@@ -8,16 +8,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitattributes">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mb2java/tools/systemtest/fitnesse/systemtestcases/src/main/java/de/ivu/mb/tools/fitnesse/systemtestcases/fixture/interfaces/interfaceclient/soapinterfaces/RunSoapRequest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="182">
@@ -26,11 +17,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mb2java/tools/systemtest/fitnesse/systemtestcases/src/main/java/de/ivu/mb/tools/fitnesse/systemtestcases/fixture/interfaces/interfaceclient/systemtestactions/SystemTestActionsRunner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="23" column="34" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="34" />
+            <state relative-caret-position="145">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -289,15 +280,14 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2631442" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26689547" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.3304892" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.12904763" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.15415245" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4010239" />
       <window_info anchor="bottom" id="TODO" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -348,6 +338,22 @@
       <screen x="0" y="0" width="2021" height="949" />
     </state>
     <state x="1073" y="112" key="FileChooserDialogImpl/0.0.2021.949@0.0.2021.949" timestamp="1672781828975" />
+    <state width="1838" height="100" key="GridCell.Tab.0.bottom" timestamp="1673082327618">
+      <screen x="0" y="0" width="1893" height="878" />
+    </state>
+    <state width="1838" height="100" key="GridCell.Tab.0.bottom/0.0.1893.878@0.0.1893.878" timestamp="1673082327618" />
+    <state width="1838" height="100" key="GridCell.Tab.0.center" timestamp="1673082327618">
+      <screen x="0" y="0" width="1893" height="878" />
+    </state>
+    <state width="1838" height="100" key="GridCell.Tab.0.center/0.0.1893.878@0.0.1893.878" timestamp="1673082327618" />
+    <state width="1838" height="100" key="GridCell.Tab.0.left" timestamp="1673082327617">
+      <screen x="0" y="0" width="1893" height="878" />
+    </state>
+    <state width="1838" height="100" key="GridCell.Tab.0.left/0.0.1893.878@0.0.1893.878" timestamp="1673082327617" />
+    <state width="1838" height="100" key="GridCell.Tab.0.right" timestamp="1673082327618">
+      <screen x="0" y="0" width="1893" height="878" />
+    </state>
+    <state width="1838" height="100" key="GridCell.Tab.0.right/0.0.1893.878@0.0.1893.878" timestamp="1673082327618" />
     <state x="917" y="121" key="NewModule_or_Project.wizard" timestamp="1672781771281">
       <screen x="0" y="0" width="2021" height="949" />
     </state>
@@ -485,6 +491,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mb2java/tools/systemtest/fitnesse/systemtestcases/src/main/java/de/ivu/mb/tools/fitnesse/systemtestcases/fixture/interfaces/interfaceclient/systemtestactions/SystemTestActionsRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitattributes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -496,13 +509,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mb2java/tools/systemtest/fitnesse/systemtestcases/src/main/java/de/ivu/mb/tools/fitnesse/systemtestcases/fixture/interfaces/interfaceclient/systemtestactions/SystemTestActionsRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="23" column="34" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>

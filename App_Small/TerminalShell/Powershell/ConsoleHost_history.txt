@@ -705,3 +705,13 @@ git stash
 git pull --rebase
 git stash pop stash@{0}
 git stash pop "stash@{0}"
+cd D:\File_Storage\File_Markdown\ComputerNetWork_PackageAnalyse
+ll
+git init
+git add README.md
+git add .
+git status
+git commit -m "first commit"
+git remote add origin https://github.com/Yanbo-Zhu/ComputerNetwork_PackageAnalyse.git
+git push -u origin HEAD
+ll
