@@ -76,7 +76,7 @@
       <i c="8" l="1672785506051" />
     </e>
     <e n="EditorBackSpace">
-      <i c="299" l="1673017064343" />
+      <i c="300" l="1673084351335" />
     </e>
     <e n="EditorCopy">
       <i c="51" l="1672697886432" />
@@ -208,7 +208,7 @@
       <i c="2" l="1672319202791" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="77" l="1673017036184" />
+      <i c="80" l="1673084375507" />
     </e>
     <e n="SettingsSyncOpenSettingsAction">
       <i c="10" l="1672698153617" />
@@ -217,7 +217,7 @@
       <i c="64" l="1672781855773" />
     </e>
     <e n="ShowSettings">
-      <i c="111" l="1672927102453" />
+      <i c="112" l="1673084335838" />
     </e>
     <e n="SmartSelect">
       <i c="3" l="1672581489562" />
@@ -295,7 +295,7 @@
       <i c="2" l="1672328603722" />
     </e>
     <e n="com.intellij.ide.actions.SettingsEntryPointAction$1">
-      <i c="24" l="1672767455345" />
+      <i c="25" l="1673084298836" />
     </e>
     <e n="com.intellij.ide.impl.FlattenModulesToggleAction">
       <i c="3" l="1672406182480" />

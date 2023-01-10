@@ -51,8 +51,8 @@
     "eclipse.projects.detected": "",
     "file.gist.reindex.count": "9512",
     "fileTypeChangedCounter": "1",
-    "fontSizeToResetConsole": "13.0",
-    "fontSizeToResetEditor": "13.0",
+    "fontSizeToResetConsole": "14.0",
+    "fontSizeToResetEditor": "14.0",
     "got.it.tooltip.reader.mode.got.it": "1",
     "gotit.previous.run": "IC-223.8214.52",
     "ide.memory.adjusted": "true",
@@ -96,22 +96,22 @@
     ]
   }
 }]]></component>
-  <component name="ShownTips"><![CDATA[{
-  "shownTips": {
-    "Rename": 1672319048672,
-    "CtrlW": 1672763602447,
-    "SpeedSearch": 1670925768170,
-    "FocusProjectToolWindow": 1672240119862,
-    "CommentCode": 1672696356432,
-    "ShowUsages": 1672580848963,
-    "ContextActions": 1672400630407,
-    "FindInPath": 1671098360642
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;SpeedSearch&quot;: 1673084282872,
+    &quot;CtrlW&quot;: 1672763602447,
+    &quot;Rename&quot;: 1672319048672,
+    &quot;FocusProjectToolWindow&quot;: 1672240119862,
+    &quot;CommentCode&quot;: 1672696356432,
+    &quot;ShowUsages&quot;: 1672580848963,
+    &quot;ContextActions&quot;: 1672400630407,
+    &quot;FindInPath&quot;: 1671098360642
   }
-}]]></component>
+}</component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
       <command-history-file filename="ivu-plan-source-history1" project-path="E:/build/git/ivu-plan-source" last-access-time="1672764578338" />
-      <command-history-file filename="R221-history1" project-path="E:/build/git/ivu-plan-source_releasebranch/R221" last-access-time="1672765271273" />
+      <command-history-file filename="R221-history1" project-path="E:/build/git/ivu-plan-source_releasebranch/R221" last-access-time="1673084318224" />
       <command-history-file filename="R222-history" project-path="E:/build/git/ivu-plan-source_releasebranch/R222" last-access-time="1672409302193" />
     </command-history-files>
   </component>
