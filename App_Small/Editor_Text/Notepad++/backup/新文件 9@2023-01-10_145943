@@ -1,0 +1,41 @@
+
+Rundeck and AWS: AWS-Umgebung bei manchen Schemen wurde immer nicht erfolgreich aufgebaut werden
+
+Fehler taucht immer bei Ausführung von Rundeckjob "create new environment" für manchen Schemen auf.  
+Deswegen kann die AWS-Umgebung nicht durch Rundeckjob "create new environment" erfolgreich aufgebaut werden.
+Die AWS-Umgebung wird automatisch gelöscht, wenn Fehler passiert. 
+Die Fitnesse-Testfälle wurde gar nicht auf AWS-Umgebung ausgeführt, weil die Ausführung der Fitnesse-Testfälle nur nach der erfolgreich Erstellung der neuen AWS-Umgebung angestößt wird
+
+Man muss bei jeden problematisch Schema gucken, Was der Fehler eigenlich ist und dann fixieren  
+
+This Jira issues should be handelt, after the performance test jobs are sucessfully immigrated into new Rundeck 
+
+
+https://d1vse24jenkins01.ivu-ag.com/view/LZM/
+Result of JenkinsProjekt Build 
+R223: 
+POSTBUS:    FAILURE
+TI:    FAILURE
+BVG:    SUCCESS
+
+R222:
+POSTAUTO:    FAILURE
+POSTBUS:    SUCCESS
+ARL:    SUCCESS
+DBFV:    FAILURE
+BVG:    FAILURE
+TI:    FAILURE
+REGIO:    FAILURE
+
+
+R221: 
+POSTAUTO:    FAILURE
+REGIO:    FAILURE
+DBFV:    FAILURE
+ARL:    SUCCESS
+POSTBUS:    FAILURE
+TI:    FAILURE
+BVG:    FAILURE
+
+
+
